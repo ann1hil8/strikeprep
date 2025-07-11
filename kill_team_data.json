@@ -4,7 +4,9 @@
     "name": "VOID-DANCER TROUPE",
     "unit": "Aeldari Harlequin Troupe",
     "description": "Even amongst the agile Aeldari, the Harlequins of the Void-dancer Troupes display an almost preternatural level of dexterity and skill. Performance and war merge in their actions, precisely directed to shape the fate of their race.",
-    "selection": [],
+    "selection": {
+      "operatives": "<font color=\"#f55c29\">&nbsp;<b>↘</b></font> 1 <b><font color=\"#f55c29\">VOID-DANCER TROUPE</font></b> <b>LEAD PLAYER </b>operative with one option from each of the following:\n<font color=\"#f55c29\">        ○</font> Fusion pistol, neuro disruptor or shuriken pistol\n<font color=\"#f55c29\">        ○</font> Blade, caress, embrace, kiss or power weapon<div>\n<b><font color=\"#f55c29\">↘</font></b> 7 <b><font color=\"#f55c29\">VOID-DANCER TROUPE</font></b> operatives selected from the following list:\n    <font color=\"#f55c29\">•</font> <b>DEATH JESTER</b>\n    <font color=\"#f55c29\">•</font> <b>PLAYER </b>with one option from each of the following:\n        <font color=\"#f55c29\">○</font> Fusion pistol, neuro disruptor or shuriken pistol\n        <font color=\"#f55c29\">○</font> Blade, caress, embrace or kiss\n    <font color=\"#f55c29\">• </font><b>SHADOWSEER<font color=\"#f55c29\"> </font></b>with hallucinogen grenade and one of the following options:\n        <font color=\"#f55c29\">○</font> Neuro disruptor; miststave\n<font color=\"#f55c29\">        ○</font> Shuriken pistol; miststave<div><br><div>Other than <b>PLAYER </b>operatives, your kill team can only include each operative on this list once. Your kill team can only include up to one fusion pistol and up to one neuro disruptor.</div></div></div>"
+    },
     "operatives": [
       {
         "id": "24f958a1-9b18-4228-8967-771c581619dc",
