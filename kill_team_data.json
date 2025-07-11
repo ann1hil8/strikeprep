@@ -5,14 +5,18 @@
     "unit": "Aeldari Harlequin Troupe",
     "description": "Even amongst the agile Aeldari, the Harlequins of the Void-dancer Troupes display an almost preternatural level of dexterity and skill. Performance and war merge in their actions, precisely directed to shape the fate of their race.",
     "selection": {
-      "operatives": "<font color=\"#f55c29\">&nbsp;<b>↘</b></font> 1 <b><font color=\"#f55c29\">VOID-DANCER TROUPE</font></b> <b>LEAD PLAYER </b>operative with one option from each of the following:\n<font color=\"#f55c29\">        ○</font> Fusion pistol, neuro disruptor or shuriken pistol\n<font color=\"#f55c29\">        ○</font> Blade, caress, embrace, kiss or power weapon<div>\n<b><font color=\"#f55c29\">↘</font></b> 7 <b><font color=\"#f55c29\">VOID-DANCER TROUPE</font></b> operatives selected from the following list:\n    <font color=\"#f55c29\">•</font> <b>DEATH JESTER</b>\n    <font color=\"#f55c29\">•</font> <b>PLAYER </b>with one option from each of the following:\n        <font color=\"#f55c29\">○</font> Fusion pistol, neuro disruptor or shuriken pistol\n        <font color=\"#f55c29\">○</font> Blade, caress, embrace or kiss\n    <font color=\"#f55c29\">• </font><b>SHADOWSEER<font color=\"#f55c29\"> </font></b>with hallucinogen grenade and one of the following options:\n        <font color=\"#f55c29\">○</font> Neuro disruptor; miststave\n<font color=\"#f55c29\">        ○</font> Shuriken pistol; miststave<div><br><div>Other than <b>PLAYER </b>operatives, your kill team can only include each operative on this list once. Your kill team can only include up to one fusion pistol and up to one neuro disruptor.</div></div></div>"
+      "operatives": "<font color=\"#f55c29\">&nbsp;<b>↘</b></font> 1 <b><font color=\"#f55c29\">VOID-DANCER TROUPE </font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> <b>LEAD PLAYER </b>operative with one option from each of the following:\n<font color=\"#f55c29\">        ○</font> Fusion pistol, neuro disruptor or shuriken pistol\n<font color=\"#f55c29\">        ○</font> Blade, caress, embrace, kiss or power weapon<div>\n<b><font color=\"#f55c29\">↘</font></b> 7 <font color=\"#f55c29\" style=\"font-weight: bold;\">VOID-DANCER TROUPE</font> <span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span><span style=\"font-size: 0.875rem;\"> operatives selected from the following list:</span></div><div>    <font color=\"#f55c29\">•</font> <b>DEATH JESTER</b>\n    <font color=\"#f55c29\">•</font> <b>PLAYER </b>with one option from each of the following:\n        <font color=\"#f55c29\">○</font> Fusion pistol, neuro disruptor or shuriken pistol\n        <font color=\"#f55c29\">○</font> Blade, caress, embrace or kiss\n    <font color=\"#f55c29\">• </font><b>SHADOWSE</b><b style=\"font-size: 0.875rem;\">ER<font color=\"#f55c29\"> </font></b><span style=\"font-size: 0.875rem;\">with hallucinogen grenade and one of the following options:</span></div><div>        <font color=\"#f55c29\">○</font> Neuro disruptor; miststave\n<font color=\"#f55c29\">        ○</font> Shuriken pistol; miststave<div><br><div>Other than <b>PLAYER </b>operatives, your kill team can only include each operative on this list once. Your kill team can only include up to one fusion pistol and up to one neuro disruptor.</div></div></div>",
+      "archetypes": [
+        "INFILTRATION",
+        "RECON"
+      ]
     },
     "operatives": [
       {
         "id": "24f958a1-9b18-4228-8967-771c581619dc",
         "name": "LEAD PLAYER",
         "description": "Choreographers of conflict, Lead Players are experienced Harlequins clad in extravagant garb. They direct their warriors’ reactions to the fates of battle and ensure their comrades’ performances in the theatre of war is as perfect as it can be.",
-        "keywords": "<font color=\"#f55c29\">VOID-DANCER TROUPE</font>, AELDARI, HARLEQUIN, LEADER, LEAD PLAYER",
+        "keywords": "<font color=\"#f55c29\">VOID-DANCER TROUPE </font><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span>, AELDARI, HARLEQUIN, LEADER, LEAD PLAYER",
         "stats": {
           "apl": 3,
           "move": 7,
@@ -134,7 +138,7 @@
         "id": "5d9b0f5f-0879-495f-9b2f-265bbb41a19d",
         "name": "DEATH JESTER",
         "description": "The arrival of a Death Jester in a killzone is announced by a hissing storm of shrieker cannon fire. Enemy infantry are torn apart as the weapon’s gene-toxins cause them to combust horrifically from within. Adding insult to injury, the Death Jester ensures every demise is cruelly ironic.",
-        "keywords": "<font color=\"#f55c29\">VOID-DANCER TROUPE</font>, AELDARI, HARLEQUIN, DEATH JESTER",
+        "keywords": "<font color=\"#f55c29\">VOID-DANCER TROUPE </font><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span>, AELDARI, HARLEQUIN, DEATH JESTER",
         "stats": {
           "apl": 3,
           "move": 7,
@@ -196,7 +200,7 @@
         "id": "ea609ff1-0bda-4243-9831-5671cd88c338",
         "name": "PLAYER",
         "description": "Harlequin Players perform with breathtaking skill, whether their stage is a wraithbone-and-glass amphitheatre bathed in crystalline light or the firelit hell of the battlefield. They tumble, sprint and leap, with every trigger squeeze and blade slash bringing orchestrated death to the enemy.",
-        "keywords": "<font color=\"#f55c29\">VOID-DANCER TROUPE</font>, AELDARI, HARLEQUIN, PLAYER",
+        "keywords": "<font color=\"#f55c29\">VOID-DANCER TROUPE </font><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span>, AELDARI, HARLEQUIN, PLAYER",
         "stats": {
           "apl": 3,
           "move": 7,
@@ -294,7 +298,7 @@
           {
             "id": "394f8019-da62-4825-98a5-e1aaee954160",
             "name": "Luck of the Laughing God",
-            "rules": "Once per turning point, you can use this rule. If you do, you can use a firefight ploy for 0CP if this is the specified <font color=\"#f55c29\">VOID-DANCER TROUPE</font> operative (including Command Re-roll if the attack or defence dice was rolled for this operative). You cannot select the same firefight ploy for this rule more than once per battle.",
+            "rules": "Once per turning point, you can use this rule. If you do, you can use a firefight ploy for 0CP if this is the specified <font color=\"#f55c29\">VOID-DANCER TROUPE</font> <span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative (including Command Re-roll if the attack or defence dice was rolled for this operative). You cannot select the same firefight ploy for this rule more than once per battle.",
             "weapons": [],
             "abilities": [],
             "actions": []
@@ -306,7 +310,7 @@
         "id": "e6a16bfb-4bc1-40e3-9d69-be0de658feb2",
         "name": "SHADOWSEER",
         "description": "Shadowseers can blind foes and drive them mad with their psychic powers. As they obscure their allies with illusions, they fire hallucinogenic grenades that cause disorientation or death. In close combat, Shadowseers’ miststaves scramble the perceptions of those they hit.",
-        "keywords": "<font color=\"#f55c29\">VOID-DANCER TROUPE</font>, AELDARI, HARLEQUIN, PSYKER, SHADOWSEER",
+        "keywords": "<font color=\"#f55c29\">VOID-DANCER TROUPE </font><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span>, AELDARI, HARLEQUIN, PSYKER, SHADOWSEER",
         "stats": {
           "apl": 3,
           "move": 7,
@@ -514,7 +518,7 @@
         "id": "05bf3f70-914e-4214-9b3b-cf5b3acda4aa",
         "name": "SAEDATH",
         "description": "Void-dancer Troupes put on a performance as they attack from the Webway. A single player begins in the pivotal role, then the rest of the troupe progressively join in.",
-        "rules": "<div><span style=\"font-size: 0.875rem;\">As a </span><b style=\"font-size: 0.875rem;\">STRATEGIC GAMBIT</b><span style=\"font-size: 0.875rem;\"> in the first turning point, you must select an </span><b style=\"font-size: 0.875rem;\">ALLEGORY </b><span style=\"font-size: 0.875rem;\">(Epic or Melodrama below) for your kill team for the battle, and one friendly </span><b style=\"font-size: 0.875rem;\"><font color=\"#f55c29\">VOID-DANCER TROUPE</font></b><span style=\"font-size: 0.875rem;\"> operative to have the </span><b style=\"font-size: 0.875rem;\">PIVOTAL ROLE</b><span style=\"font-size: 0.875rem;\"> for the battle. Whenever a friendly operative has the </span><b style=\"font-size: 0.875rem;\">PIVOTAL ROLE</b><span style=\"font-size: 0.875rem;\">, it has the </span><b style=\"font-size: 0.875rem;\">ACCOLADE </b><span style=\"font-size: 0.875rem;\">rule of your </span><b style=\"font-size: 0.875rem;\">ALLEGORY </b><span style=\"font-size: 0.875rem;\">for the battle. </span></div><div><br></div><div>As a <b>STRATEGIC GAMBIT</b> in each subsequent turning point, you can select one friendly <b><font color=\"#f55c29\">VOID-DANCER TROUPE</font></b> operative to gain the <b>ACCOLADE </b>rule of your <b>ALLEGORY </b>for the battle. </div><div><br></div><div>Once per turning point, when a friendly operative that has the <b>PIVOTAL ROLE</b> completes the performance of your <b>ALLEGORY</b>, you can select one friendly <b><font color=\"#f55c29\">VOID-DANCER TROUPE</font></b> operative to gain the <b>ACCOLADE </b>rule of your <b>ALLEGORY </b>for the battle.</div><div><br></div><div><b style=\"background-color: rgb(245, 92, 41);\"> Epic </b>\n<b>Performance</b>: The operative incapacitates an enemy operative while fighting.\n<b>Accolade</b>: Whenever this operative is fighting, its melee weapons have the Balanced weapon rule.</div><div>\n<b style=\"background-color: rgb(245, 92, 41);\"> Melodrama </b>\n<b>Performance</b>: The operative incapacitates an enemy operative while shooting.\n<b>Accolade</b>: The operative’s ranged weapons have the Balanced weapon rule.</div>",
+        "rules": "<div><span style=\"font-size: 0.875rem;\">As a </span><b style=\"font-size: 0.875rem;\">STRATEGIC GAMBIT</b><span style=\"font-size: 0.875rem;\"> in the first turning point, you must select an </span><b style=\"font-size: 0.875rem;\">ALLEGORY </b><span style=\"font-size: 0.875rem;\">(Epic or Melodrama below) for your kill team for the battle, and one friendly </span><b style=\"font-size: 0.875rem;\"><font color=\"#f55c29\">VOID-DANCER TROUPE </font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"> </i></span><span style=\"font-size: 0.875rem;\">operative to have the </span><b style=\"font-size: 0.875rem;\">PIVOTAL ROLE</b><span style=\"font-size: 0.875rem;\"> for the battle. Whenever a friendly operative has the </span><b style=\"font-size: 0.875rem;\">PIVOTAL ROLE</b><span style=\"font-size: 0.875rem;\">, it has the </span><b style=\"font-size: 0.875rem;\">ACCOLADE </b><span style=\"font-size: 0.875rem;\">rule of your </span><b style=\"font-size: 0.875rem;\">ALLEGORY </b><span style=\"font-size: 0.875rem;\">for the battle. </span></div><div><br></div><div>As a <b>STRATEGIC GAMBIT</b> in each subsequent turning point, you can select one friendly <b><font color=\"#f55c29\">VOID-DANCER TROUPE </font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span><span style=\"font-size: 0.875rem;\"> operative to gain the </span><b style=\"font-size: 0.875rem;\">ACCOLADE </b><span style=\"font-size: 0.875rem;\">rule of your </span><b style=\"font-size: 0.875rem;\">ALLEGORY </b><span style=\"font-size: 0.875rem;\">for the battle. </span></div><div><br></div><div>Once per turning point, when a friendly operative that has the <b>PIVOTAL ROLE</b> completes the performance of your <b>ALLEGORY</b>, you can select one friendly <b><font color=\"#f55c29\">VOID-DANCER TROUPE </font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"> </i></span><span style=\"font-size: 0.875rem;\">operative to gain the </span><b style=\"font-size: 0.875rem;\">ACCOLADE </b><span style=\"font-size: 0.875rem;\">rule of your </span><b style=\"font-size: 0.875rem;\">ALLEGORY </b><span style=\"font-size: 0.875rem;\">for the battle.</span></div><div><br></div><div><b style=\"background-color: rgb(245, 92, 41);\"> Epic </b>\n<b>Performance</b>: The operative incapacitates an enemy operative while fighting.\n<b>Accolade</b>: Whenever this operative is fighting, its melee weapons have the Balanced weapon rule.</div><div>\n<b style=\"background-color: rgb(245, 92, 41);\"> Melodrama </b>\n<b>Performance</b>: The operative incapacitates an enemy operative while shooting.\n<b>Accolade</b>: The operative’s ranged weapons have the Balanced weapon rule.</div>",
         "weapons": [],
         "abilities": [],
         "actions": []
@@ -523,7 +527,7 @@
         "id": "261d9940-a9c4-458d-ae54-788490dd1006",
         "name": "HARLEQUIN’S PANOPLY\n",
         "description": "The tools of the Harlequins' trade afford them additional mobility and make them highly difficult to target, enabling them to dodge away from piercing shots of plasma and melta fire.",
-        "rules": "&nbsp;Whenever an operative is shooting a friendly <font color=\"#f55c29\"><b>VOID-DANCER TROUPE</b></font> operative, ignore the Piercing weapon rule.<div>\nWhenever a friendly <font color=\"#f55c29\"><b>VOID-DANCER TROUPE</b></font> operative is climbing up, you can treat the vertical distance as 2\" (regardless of how far the operative actually moves vertically). <div><br></div><div>Friendly <b><font color=\"#f55c29\">VOID-DANCER TROUPE</font></b> operatives can move within control range of enemy operatives (they must still start and end the move following all requirements for that move).</div></div>",
+        "rules": "&nbsp;Whenever an operative is shooting a friendly <font color=\"#f55c29\"><b>VOID-DANCER TROUPE </b></font><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"> </i></span>operative, ignore the Piercing weapon rule.<div>\nWhenever a friendly <font color=\"#f55c29\"><b>VOID-DANCER TROUPE </b></font><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"> </i></span>operative is climbing up, you can treat the vertical distance as 2\" (regardless of how far the operative actually moves vertically). <div><br></div><div>Friendly <b><font color=\"#f55c29\">VOID-DANCER TROUPE </font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"> </i></span>operatives can move within control range of enemy operatives (they must still start and end the move following all requirements for that move).</div></div>",
         "weapons": [],
         "abilities": [],
         "actions": []
