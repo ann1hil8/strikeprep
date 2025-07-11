@@ -1,0 +1,754 @@
+[
+  {
+    "id": "31039093-3f3a-4356-9580-dfefa61e5810",
+    "name": "VOID-DANCER TROUPE",
+    "unit": "Aeldari Harlequin Troupe",
+    "description": "Even amongst the agile Aeldari, the Harlequins of the Void-dancer Troupes display an almost preternatural level of dexterity and skill. Performance and war merge in their actions, precisely directed to shape the fate of their race.",
+    "selection": [],
+    "operatives": [
+      {
+        "id": "24f958a1-9b18-4228-8967-771c581619dc",
+        "name": "LEAD PLAYER",
+        "description": "Choreographers of conflict, Lead Players are experienced Harlequins clad in extravagant garb. They direct their warriors’ reactions to the fates of battle and ensure their comrades’ performances in the theatre of war is as perfect as it can be.",
+        "keywords": "<font color=\"#f55c29\">VOID-DANCER TROUPE</font>, AELDARI, HARLEQUIN, LEADER, LEAD PLAYER",
+        "stats": {
+          "apl": 3,
+          "move": 7,
+          "save": 4,
+          "wounds": 9,
+          "base_size": 25
+        },
+        "weapons": [
+          {
+            "id": "99a242b1-2408-4273-9648-5932b948ac83",
+            "name": "Fusion pistol",
+            "type": "Ranged",
+            "rules": "Range 3\", Devastating 3, Piercing 2",
+            "stats": {
+              "attack": 4,
+              "hit": 3,
+              "dmg_normal": 5,
+              "dmg_critical": 3
+            },
+            "effects": [],
+            "conditions": [],
+            "weapons": [],
+            "abilities": [],
+            "actions": []
+          },
+          {
+            "id": "2696dc65-d99c-4216-ae03-85eb8f1a5c7d",
+            "name": "Neuro disruptor",
+            "type": "Ranged",
+            "rules": "Range 8\", Piercing 1, Stun",
+            "stats": {
+              "attack": 4,
+              "hit": 3,
+              "dmg_normal": 4,
+              "dmg_critical": 5
+            },
+            "effects": [],
+            "conditions": [],
+            "weapons": [],
+            "abilities": [],
+            "actions": []
+          },
+          {
+            "id": "490ab1c6-a64b-4cb0-b314-7e5096b00a6d",
+            "name": "Shuriken pistol",
+            "type": "Ranged",
+            "rules": "Range 8\", Rending",
+            "stats": {
+              "attack": 4,
+              "hit": 3,
+              "dmg_normal": 3,
+              "dmg_critical": 4
+            },
+            "effects": [],
+            "conditions": [],
+            "weapons": [],
+            "abilities": [],
+            "actions": []
+          },
+          {
+            "id": "dd77b984-f2d3-41b2-82d7-d0f07b852469",
+            "name": "Blade",
+            "type": "Melee",
+            "rules": "Severe",
+            "stats": {
+              "attack": 5,
+              "hit": 3,
+              "dmg_normal": 4,
+              "dmg_critical": 5
+            },
+            "effects": [],
+            "conditions": [],
+            "weapons": [],
+            "abilities": [],
+            "actions": []
+          },
+          {
+            "id": "ddf97156-342f-4bdf-93b9-2389b0bc9978",
+            "name": "Caress",
+            "type": "Melee",
+            "rules": "Rending",
+            "stats": {
+              "attack": 5,
+              "hit": 3,
+              "dmg_normal": 4,
+              "dmg_critical": 5
+            },
+            "effects": [],
+            "conditions": [],
+            "weapons": [],
+            "abilities": [],
+            "actions": []
+          },
+          {
+            "id": "ea1e87e8-ee95-4ffd-822b-f12d3b12181f",
+            "name": "Embrace",
+            "type": "Melee",
+            "rules": "Brutal",
+            "stats": {
+              "attack": 5,
+              "hit": 3,
+              "dmg_normal": 4,
+              "dmg_critical": 5
+            },
+            "effects": [],
+            "conditions": [],
+            "weapons": [],
+            "abilities": [],
+            "actions": []
+          },
+          {
+            "id": "8a28e567-b2ec-4ae8-a178-d1cf7c098932",
+            "name": "Kiss",
+            "type": "Melee",
+            "rules": "",
+            "stats": {
+              "attack": 5,
+              "hit": 3,
+              "dmg_normal": 3,
+              "dmg_critical": 7
+            },
+            "effects": [],
+            "conditions": []
+          },
+          {
+            "id": "6ef92097-7336-44cc-bfcc-54384376fb7d",
+            "name": "Power Weapon",
+            "type": "Melee",
+            "rules": "Lethal 5+",
+            "stats": {
+              "attack": 5,
+              "hit": 3,
+              "dmg_normal": 4,
+              "dmg_critical": 6
+            },
+            "effects": [],
+            "conditions": []
+          }
+        ],
+        "abilities": [
+          {
+            "id": "d36f5aa1-5987-48f3-8a07-c2536dd7489c",
+            "name": "Lead the Performance",
+            "rules": "Once per battle <b>STRATEGIC GAMBIT</b>. If this operative is in the killzone, change the <b>ALLEGORY </b>you selected for your kill team. Note that the <b>ACCOLADE </b>rule friendly operatives have will also change.",
+            "effects": [],
+            "conditions": [],
+            "weapons": [],
+            "abilities": [],
+            "actions": []
+          }
+        ],
+        "actions": []
+      },
+      {
+        "id": "5d9b0f5f-0879-495f-9b2f-265bbb41a19d",
+        "name": "DEATH JESTER",
+        "description": "The arrival of a Death Jester in a killzone is announced by a hissing storm of shrieker cannon fire. Enemy infantry are torn apart as the weapon’s gene-toxins cause them to combust horrifically from within. Adding insult to injury, the Death Jester ensures every demise is cruelly ironic.",
+        "keywords": "<font color=\"#f55c29\">VOID-DANCER TROUPE</font>, AELDARI, HARLEQUIN, DEATH JESTER",
+        "stats": {
+          "apl": 3,
+          "move": 7,
+          "save": 4,
+          "wounds": 9,
+          "base_size": 25
+        },
+        "weapons": [
+          {
+            "id": "732046f7-c248-4b9d-a83a-6f838f28d227",
+            "name": "Shrieker cannon (focused)",
+            "type": "Ranged",
+            "rules": "Rending, Heavy (Reposition only), Humbling Cruelty<font color=\"#f55c29\">*</font>",
+            "stats": {
+              "attack": 5,
+              "hit": 3,
+              "dmg_normal": 4,
+              "dmg_critical": 5
+            },
+            "effects": [],
+            "conditions": []
+          },
+          {
+            "id": "913a75b5-7f68-45db-82bd-ce4424b4a6e8",
+            "name": "Shrieker cannon (sweeping)",
+            "type": "Ranged",
+            "rules": "Rending, Heavy (Dash only), Torrent 2\", Humbling Cruelty<font color=\"#f55c29\">*</font>",
+            "stats": {
+              "attack": 4,
+              "hit": 3,
+              "dmg_normal": 4,
+              "dmg_critical": 5
+            },
+            "effects": [],
+            "conditions": []
+          },
+          {
+            "id": "5cf95da1-6a59-49e9-8ba1-c2a4e51b0be9",
+            "name": "Shrieker blade",
+            "type": "Melee",
+            "rules": "Rending",
+            "stats": {
+              "attack": 4,
+              "hit": 3,
+              "dmg_normal": 3,
+              "dmg_critical": 4
+            },
+            "effects": [],
+            "conditions": []
+          }
+        ],
+        "abilities": [
+          {
+            "id": "2ece0cca-f301-4796-adc4-3e8b929f9250",
+            "name": "<font color=\"#f55c29\">*</font>Humbling Cruelty",
+            "rules": "If the target of this weapon isn’t incapacitated but any of your attack dice inflict damage, the target gains one of your Humbling Cruelty tokens (if it doesn’t already have one). Whenever an enemy operative has one of your Humbling Cruelty tokens, worsen the Hit stat of its weapons by 1 and subtract 2\" from its Move stat. This isn’t cumulative with being injured. At the end of that enemy operative’s next activation, remove its Humbling Cruelty token.",
+            "effects": [],
+            "conditions": [],
+            "weapons": [],
+            "abilities": [],
+            "actions": []
+          }
+        ],
+        "actions": []
+      },
+      {
+        "id": "ea609ff1-0bda-4243-9831-5671cd88c338",
+        "name": "PLAYER",
+        "description": "Harlequin Players perform with breathtaking skill, whether their stage is a wraithbone-and-glass amphitheatre bathed in crystalline light or the firelit hell of the battlefield. They tumble, sprint and leap, with every trigger squeeze and blade slash bringing orchestrated death to the enemy.",
+        "keywords": "<font color=\"#f55c29\">VOID-DANCER TROUPE</font>, AELDARI, HARLEQUIN, PLAYER",
+        "stats": {
+          "apl": 3,
+          "move": 7,
+          "save": 4,
+          "wounds": 8,
+          "base_size": 25
+        },
+        "weapons": [
+          {
+            "id": "19e89a28-075e-45e0-ae28-d50507563c33",
+            "name": "Fusion pistol",
+            "type": "Ranged",
+            "rules": "Range 3\", Devastating 3, Piercing 2",
+            "stats": {
+              "attack": 4,
+              "hit": 3,
+              "dmg_normal": 5,
+              "dmg_critical": 3
+            },
+            "effects": [],
+            "conditions": []
+          },
+          {
+            "id": "e930790d-f2bb-4a45-a662-4abea7764a38",
+            "name": "Neuro disruptor",
+            "type": "Ranged",
+            "rules": "Range 8\", Piercing 1, Stun",
+            "stats": {
+              "attack": 4,
+              "hit": 3,
+              "dmg_normal": 4,
+              "dmg_critical": 5
+            },
+            "effects": [],
+            "conditions": []
+          },
+          {
+            "id": "e9062841-7729-4cb4-9228-4b5b1b8706f7",
+            "name": "Shuriken pistol",
+            "type": "Ranged",
+            "rules": "Range 8\", Rending",
+            "stats": {
+              "attack": 4,
+              "hit": 3,
+              "dmg_normal": 3,
+              "dmg_critical": 4
+            },
+            "effects": [],
+            "conditions": []
+          },
+          {
+            "id": "0001039d-73ba-4a5f-8dd9-846be3e4964b",
+            "name": "Blade",
+            "type": "Melee",
+            "rules": "Severe",
+            "stats": {
+              "attack": 5,
+              "hit": 3,
+              "dmg_normal": 4,
+              "dmg_critical": 5
+            },
+            "effects": [],
+            "conditions": []
+          },
+          {
+            "id": "bce6afcb-34c9-4210-bc19-6e8547c10273",
+            "name": "Caress",
+            "type": "Melee",
+            "rules": "Rending",
+            "stats": {
+              "attack": 5,
+              "hit": 3,
+              "dmg_normal": 4,
+              "dmg_critical": 5
+            },
+            "effects": [],
+            "conditions": []
+          },
+          {
+            "id": "86311275-2ef2-40dd-9ff7-3a04f0d1d01b",
+            "name": "Embrace",
+            "type": "Melee",
+            "rules": "Brutal",
+            "stats": {
+              "attack": 5,
+              "hit": 3,
+              "dmg_normal": 4,
+              "dmg_critical": 5
+            },
+            "effects": [],
+            "conditions": []
+          },
+          {
+            "id": "47ad5420-5ae5-4cb5-9d02-eb1f9a5feae8",
+            "name": "Kiss",
+            "type": "Melee",
+            "rules": "",
+            "stats": {
+              "attack": 5,
+              "hit": 3,
+              "dmg_normal": 3,
+              "dmg_critical": 7
+            },
+            "effects": [],
+            "conditions": []
+          }
+        ],
+        "abilities": [
+          {
+            "id": "394f8019-da62-4825-98a5-e1aaee954160",
+            "name": "Luck of the Laughing God",
+            "rules": "Once per turning point, you can use this rule. If you do, you can use a firefight ploy for 0CP if this is the specified <font color=\"#f55c29\">VOID-DANCER TROUPE</font> operative (including Command Re-roll if the attack or defence dice was rolled for this operative). You cannot select the same firefight ploy for this rule more than once per battle.",
+            "effects": [],
+            "conditions": [],
+            "weapons": [],
+            "abilities": [],
+            "actions": []
+          }
+        ],
+        "actions": []
+      },
+      {
+        "id": "e6a16bfb-4bc1-40e3-9d69-be0de658feb2",
+        "name": "SHADOWSEER",
+        "description": "Shadowseers can blind foes and drive them mad with their psychic powers. As they obscure their allies with illusions, they fire hallucinogenic grenades that cause disorientation or death. In close combat, Shadowseers’ miststaves scramble the perceptions of those they hit.",
+        "keywords": "<font color=\"#f55c29\">VOID-DANCER TROUPE</font>, AELDARI, HARLEQUIN, PSYKER, SHADOWSEER",
+        "stats": {
+          "apl": 3,
+          "move": 7,
+          "save": 4,
+          "wounds": 9,
+          "base_size": 25
+        },
+        "weapons": [
+          {
+            "id": "db539fd1-5a88-45da-8e6a-ae0d99838b10",
+            "name": "Hallucinogen grenade",
+            "type": "Ranged",
+            "rules": "Range 6\", Blast 2\", Lethal 5+, Seek, Silent, Stun",
+            "stats": {
+              "attack": 4,
+              "hit": 3,
+              "dmg_normal": 1,
+              "dmg_critical": 1
+            },
+            "effects": [],
+            "conditions": []
+          },
+          {
+            "id": "510c6a0d-5d17-4f3b-a7ee-bf7503eaa87a",
+            "name": "Neuro disruptor",
+            "type": "Ranged",
+            "rules": "Range 8\", Piercing 1, Stun",
+            "stats": {
+              "attack": 4,
+              "hit": 3,
+              "dmg_normal": 4,
+              "dmg_critical": 5
+            },
+            "effects": [],
+            "conditions": []
+          },
+          {
+            "id": "76a5d054-ec00-4927-bfff-78018c32ae6c",
+            "name": "Shuriken pistol",
+            "type": "Ranged",
+            "rules": "Range 8\", Rending",
+            "stats": {
+              "attack": 4,
+              "hit": 3,
+              "dmg_normal": 3,
+              "dmg_critical": 4
+            },
+            "effects": [],
+            "conditions": []
+          },
+          {
+            "id": "aadce0d6-0fad-4977-8195-1a7ed2c0786d",
+            "name": "Miststave",
+            "type": "Melee",
+            "rules": "Shock",
+            "stats": {
+              "attack": 4,
+              "hit": 3,
+              "dmg_normal": 4,
+              "dmg_critical": 4
+            },
+            "effects": [],
+            "conditions": []
+          }
+        ],
+        "abilities": [],
+        "actions": [
+          {
+            "id": "5e0be575-42df-4605-9b71-9785ddaea0eb",
+            "name": "FOG OF DREAMS",
+            "ap": 1,
+            "effects": [
+              "<b>PSYCHIC</b>. Select one ready enemy operative visible to this operative and roll one D6. Until the end of the turning point, that enemy operative cannot be activated or perform actions until it's the last enemy operative to be activated, or until your opponent has activated a number of enemy operatives after this action equal to the result of the D6 (whichever comes first)."
+            ],
+            "conditions": [
+              "This operative cannot perform this action while within control range of an enemy operative."
+            ],
+            "rules": ""
+          },
+          {
+            "id": "b98ad033-f9df-422d-a176-df401f38fe1a",
+            "name": "MIRROR OF MINDS",
+            "ap": 1,
+            "effects": [
+              "<b>PSYCHIC</b>. Select one enemy operative that’s a valid target for and within 8\" of this operative. Both players roll five D6. Pair your dice with your opponent’s dice based on matching results. For each matching pair, inflict D3 damage on that enemy operative (to a maximum of 8). For example, if you rolled <b>6, 5, 5, 2, 1</b> and your opponent rolled <b>6, 5, 4, 3, 1, </b>you would inflict 3D3 damage on that enemy operative."
+            ],
+            "conditions": [
+              "This operative cannot perform this action while within control range of an enemy operative."
+            ],
+            "rules": ""
+          }
+        ]
+      }
+    ],
+    "strategy_ploys": [
+      {
+        "id": "8659671a-b991-42b2-a8ef-1850a812b72f",
+        "name": "DARTING SALVO\n",
+        "cp": null,
+        "description": "Advancing in a dazzling blurr of vibrant colour, Harlequins fire on the move, leaping away before their opponents can return fire.",
+        "rules": "Whenever a friendly <b><font color=\"#f55c29\">VOID-DANCER TROUPE</font></b> operative performs the <b>Reposition </b>action during its activation, it can perform the <b>Shoot </b>action during that action (it must do so in a location it can be placed, and any remaining move distance it had from that <b>Reposition </b>action can be used after it does so).",
+        "weapons": [],
+        "abilities": [],
+        "actions": []
+      },
+      {
+        "id": "388b4372-fd83-4153-83b0-79fd4593958a",
+        "name": "RISING CRESCENDO",
+        "cp": null,
+        "description": "With each darting advance and lethal flourish, the tempo of the troupe’s performance increases, building towards a violent crescendo.",
+        "rules": "Friendly <b><font color=\"#f55c29\">VOID-DANCER TROUPE</font></b> operatives can perform the <b>Dash </b>action during the same activation in which they performed the <b>Charge </b>action, but not vice versa (i.e. not <b>Dash </b>then <b>Charge</b>).",
+        "weapons": [],
+        "abilities": [],
+        "actions": []
+      },
+      {
+        "id": "70971c46-f0d4-472b-853c-e5cf5b6be585",
+        "name": "PRISMATIC BLUR",
+        "cp": null,
+        "description": "So swift and dazzling are the Harlequins that even veteran marksmen struggle to draw a bead upon their lithe forms.",
+        "rules": "Whenever an operative is shooting a friendly <b><font color=\"#f55c29\">VOID-DANCER TROUPE</font></b> operative that performed an action in which it moved during this turning point, you can re-roll one of your defence dice.",
+        "weapons": [],
+        "abilities": [],
+        "actions": []
+      },
+      {
+        "id": "8180f7e2-0691-4f2a-be2f-870ff35cf89f",
+        "name": "CEGORACH’S JEST\n",
+        "cp": null,
+        "description": "Attempts to engage the troupe in melee combat meet with little success. Luckless assailants find their wellaimed strikes meeting only thin air.\n",
+        "rules": "Whenever a friendly <b><font color=\"#f55c29\">VOID-DANCER TROUPE</font></b> operative is fighting or retaliating and your opponent strikes with a normal success, you can roll one D6: if the result is less than the Hit stat of your opponent’s selected weapon, that strike is a block instead (ignore the Brutal weapon rule, if relevant) and you cannot use this rule for the rest of the sequence.",
+        "weapons": [],
+        "abilities": [],
+        "actions": []
+      }
+    ],
+    "firefight_ploys": [
+      {
+        "id": "89d90a87-539a-42fc-88aa-bbb3c4d71d17",
+        "name": "MURDEROUS ENTRANCE",
+        "description": "The Harlequin assault materialises with terrifying speed, a flurry of deadly blows landing before the foe can raise a blade in response.",
+        "rules": "Use this firefight ploy when a friendly <b style=\"\"><font color=\"#f55c29\">VOID-DANCER TROUPE</font></b> operative is fighting during an activation in which it performed the <b>Charge </b>action, after you strike. You can immediately resolve another of your normal successes as a strike (before your opponent), or one of your critical successes if there are none.",
+        "weapons": [],
+        "abilities": [],
+        "actions": []
+      },
+      {
+        "id": "aa01af5c-9a42-41d7-b7b4-84461ccacdbc",
+        "name": "THE CURTAIN FALLS\n",
+        "description": "Upon landing a devastating blow, the Harlequin disengages, leaving their wounded opponent flailing desperately in response",
+        "rules": "Use this firefight ploy when a friendly <font color=\"#f55c29\"><b>VOID-DANCER TROUPE</b></font> operative is fighting, after you strike with a critical success. End that sequence (any remaining attack dice are discarded) and immediately perform a free <b>Dash </b>or <b>Fall Back</b> action up to 3\" with that operative (then the <b>Fight </b>action ends). That operative can do so even if it’s performed an action that prevents it from performing the <b>Dash </b>or <b>Fall Back</b> action.",
+        "weapons": [],
+        "abilities": [],
+        "actions": []
+      },
+      {
+        "id": "fd5e8c1d-0e35-48a2-b2e9-85c1feb74f87",
+        "name": "ELUSIVE TARGET\n",
+        "description": "Swift, agile and graceful, Harlequins dart from cover to cover, evading their opponents with contemptuous ease.",
+        "rules": "Use this firefight ploy during a friendly <b><font color=\"#f55c29\">VOID-DANCER TROUPE</font></b> operative’s activation. Until the start of its next activation, while that operative has a Conceal order and is in cover, it cannot be selected as a valid target, taking precedence over all other rules (e.g. Seek, Vantage terrain) except being within 2\".",
+        "weapons": [],
+        "abilities": [],
+        "actions": []
+      },
+      {
+        "id": "dad3dffb-a568-45e9-9cd6-2ecea624d004",
+        "name": "DOMINO FIELD",
+        "description": "Harlequins bear a variety of esoteric equipment, including the ubiquitous Domino Field, which breaks up their outline and renders them difficult to target.",
+        "rules": "Use this firefight ploy when an operative is shooting a friendly <b><font color=\"#f55c29\">VOID-DANCER TROUPE</font></b> operative, during the Resolve Defence Dice step. You can allocate one of your rolled successful dice to block all of your opponent's attack dice with matching results (e.g. one of your successful defence dice results of 5 can be used to block all successful attack dice results of 5).",
+        "weapons": [],
+        "abilities": [],
+        "actions": []
+      }
+    ],
+    "equipment": [
+      {
+        "id": "a9e62a49-544c-43f1-917a-f0c370552e5c",
+        "name": "WRAITHBONE TALISMAN\n",
+        "description": "Charged with psychic power, this item provides fleeting insight to the bearer, enabling them to strike their opponents with unerring accuracy.",
+        "weapons": [],
+        "abilities": [],
+        "actions": []
+      }
+    ],
+    "rules": [
+      {
+        "id": "05bf3f70-914e-4214-9b3b-cf5b3acda4aa",
+        "name": "SAEDATH",
+        "description": "Void-dancer Troupes put on a performance as they attack from the Webway. A single player begins in the pivotal role, then the rest of the troupe progressively join in.",
+        "rules": "<div><span style=\"font-size: 0.875rem;\">As a </span><b style=\"font-size: 0.875rem;\">STRATEGIC GAMBIT</b><span style=\"font-size: 0.875rem;\"> in the first turning point, you must select an </span><b style=\"font-size: 0.875rem;\">ALLEGORY </b><span style=\"font-size: 0.875rem;\">(Epic or Melodrama below) for your kill team for the battle, and one friendly </span><b style=\"font-size: 0.875rem;\"><font color=\"#f55c29\">VOID-DANCER TROUPE</font></b><span style=\"font-size: 0.875rem;\"> operative to have the </span><b style=\"font-size: 0.875rem;\">PIVOTAL ROLE</b><span style=\"font-size: 0.875rem;\"> for the battle. Whenever a friendly operative has the </span><b style=\"font-size: 0.875rem;\">PIVOTAL ROLE</b><span style=\"font-size: 0.875rem;\">, it has the </span><b style=\"font-size: 0.875rem;\">ACCOLADE </b><span style=\"font-size: 0.875rem;\">rule of your </span><b style=\"font-size: 0.875rem;\">ALLEGORY </b><span style=\"font-size: 0.875rem;\">for the battle. </span></div><div><br></div><div>As a <b>STRATEGIC GAMBIT</b> in each subsequent turning point, you can select one friendly <b><font color=\"#f55c29\">VOID-DANCER TROUPE</font></b> operative to gain the <b>ACCOLADE </b>rule of your <b>ALLEGORY </b>for the battle. </div><div><br></div><div>Once per turning point, when a friendly operative that has the <b>PIVOTAL ROLE</b> completes the performance of your <b>ALLEGORY</b>, you can select one friendly <b><font color=\"#f55c29\">VOID-DANCER TROUPE</font></b> operative to gain the <b>ACCOLADE </b>rule of your <b>ALLEGORY </b>for the battle.</div><div><br></div><div><b style=\"background-color: rgb(245, 92, 41);\"> Epic </b>\n<b>Performance</b>: The operative incapacitates an enemy operative while fighting.\n<b>Accolade</b>: Whenever this operative is fighting, its melee weapons have the Balanced weapon rule.</div><div>\n<b style=\"background-color: rgb(245, 92, 41);\"> Melodrama </b>\n<b>Performance</b>: The operative incapacitates an enemy operative while shooting.\n<b>Accolade</b>: The operative’s ranged weapons have the Balanced weapon rule.</div>",
+        "weapons": [],
+        "abilities": [],
+        "actions": []
+      },
+      {
+        "id": "261d9940-a9c4-458d-ae54-788490dd1006",
+        "name": "HARLEQUIN’S PANOPLY\n",
+        "description": "The tools of the Harlequins' trade afford them additional mobility and make them highly difficult to target, enabling them to dodge away from piercing shots of plasma and melta fire.",
+        "rules": "&nbsp;Whenever an operative is shooting a friendly <font color=\"#f55c29\"><b>VOID-DANCER TROUPE</b></font> operative, ignore the Piercing weapon rule.<div>\nWhenever a friendly <font color=\"#f55c29\"><b>VOID-DANCER TROUPE</b></font> operative is climbing up, you can treat the vertical distance as 2\" (regardless of how far the operative actually moves vertically). <div><br></div><div>Friendly <b><font color=\"#f55c29\">VOID-DANCER TROUPE</font></b> operatives can move within control range of enemy operatives (they must still start and end the move following all requirements for that move).</div></div>",
+        "weapons": [],
+        "abilities": [],
+        "actions": []
+      }
+    ]
+  },
+  {
+    "id": "57cc1240-75db-48de-b352-f1d85339be43",
+    "name": "SANCTIFIERS",
+    "unit": "Adeptus Ministorum Zealots",
+    "description": "Sanctifiers draw their strength from an unshakeable faith in the Emperor. When they are grouped together, they gain miraculous power that elevates them far beyond what a mere Human civilian should be capable of in the 41st Millennium.",
+    "selection": [],
+    "operatives": [
+      {
+        "id": "b2c9487c-9628-431b-9c95-036494233cf6",
+        "name": "CONFESSOR",
+        "description": "Amongst the most zealous of the Imperium’s clergy, Confessors are wandering priests with decades of experience in rooting out traitors and heretics. They are skilled orators possessed of towering charisma.",
+        "keywords": [
+          "SANCTIFIER",
+          "IMPERIUM",
+          "ADEPTUS MINISTORUM",
+          "LEADER",
+          "CONFESSOR"
+        ],
+        "stats": {
+          "apl": 2,
+          "move": 6,
+          "save": 5,
+          "wounds": 10,
+          "base_size": 32
+        },
+        "weapons": [
+          {
+            "id": "193f9606-ec51-4bfd-8813-08f661f445bd",
+            "name": "Mace of Censure",
+            "type": "Melee",
+            "rules": "Brutal, Shock",
+            "stats": {
+              "attack": 4,
+              "hit": 3,
+              "dmg_normal": 5,
+              "dmg_critical": 5
+            },
+            "weapons": [],
+            "abilities": [],
+            "actions": []
+          }
+        ],
+        "abilities": [
+          {
+            "id": "b6d544e2-9ae3-4c29-a023-0e5c14cf3aeb",
+            "name": "Lead the Procession",
+            "rules": "In each turning point after the first, whenever this operative is an ORATOR and performs the Charge, Fall Back or Reposition action during its activation, you can use this rule before it moves. If you do, determine each other friendly SANCTIFIER operative that’s benefitting from the SERMON. After this operative ends that action, each of those friendly SANCTIFIER operatives can immediately perform a free Charge, Fall Back or Reposition action in an order of your choice (choose separately for each), but each must end that move in a location where they are still benefitting from the SERMON. If this operative is incapacitated before this rule is fully resolved, e.g. from the Guard action’s interruption (see close quarters rules, Kill Team Core Book), don’t remove it from the killzone until this rule has been resolved.",
+            "weapons": [],
+            "abilities": [],
+            "actions": []
+          },
+          {
+            "id": "fce7821d-3c9c-4ba1-b4e2-ef5dc2df69b0",
+            "name": "Commanding Declamation",
+            "rules": "Whenever an enemy operative would perform an action during an activation or counteraction while visible to and within 6\" of this operative, you can use this rule. If you do, roll one D6: if the result is higher than that enemy operative’s APL stat:\n\n• It cannot perform that action during that activation/\ncounteraction (the AP spent on it isn’t refunded). If it’s a\ncounteraction, that counteraction ends.\n\n• You cannot use this rule again during the battle",
+            "weapons": [],
+            "abilities": [],
+            "actions": []
+          }
+        ],
+        "actions": []
+      },
+      {
+        "id": "37c9d0a1-0dc3-47ba-9431-2a360148d196",
+        "name": "CHERUB",
+        "description": "Grown in flesh-vats, Cherubim are diminutive servitors that undertake a wide variety of ritual tasks and duties. Those that accompany Sanctifiers are often armed with incentivisers to disable fleeing foes.",
+        "keywords": [
+          "SANCTIFIER",
+          "IMPERIUM",
+          "ADEPTUS MINISTORUM",
+          "CHERUB"
+        ],
+        "stats": {
+          "apl": 2,
+          "move": 7,
+          "save": 5,
+          "wounds": 5,
+          "base_size": 25
+        },
+        "weapons": [
+          {
+            "id": "88b1b553-d723-49eb-a481-bd66f0797072",
+            "name": "Incentiviser",
+            "type": "Melee",
+            "rules": "Shock",
+            "stats": {
+              "attack": 3,
+              "hit": 5,
+              "dmg_normal": 1,
+              "dmg_critical": 3
+            },
+            "weapons": [],
+            "abilities": [],
+            "actions": []
+          }
+        ],
+        "abilities": [
+          {
+            "id": "58e70d5a-c370-4b1c-88a8-95cbc07eafbd",
+            "name": "Cherub",
+            "rules": "• Whenever determining control of an objective marker, treat this operative’s APL stat as 1 lower. Note this isn’t a change to its APL stat, so any changes are cumulative with this.\n\n• Whenever this operative has a Conceal order and is in cover, it cannot be selected as a valid target, taking precedence over all other rules (e.g. Vantage terrain).\n\n• This operative cannot use any weapons that aren’t on its datacard, or perform unique actions other than Incentivise.",
+            "weapons": [],
+            "abilities": [],
+            "actions": []
+          },
+          {
+            "id": "5cdd6e43-2256-4ee6-b9d2-9ee0e05f3645",
+            "name": "Fly",
+            "rules": "Whenever this operative is performing the Charge, Fall Back or Reposition action, it can FLY. If it does, don’t move it. Instead, remove it from the killzone and set it back up wholly within a distance equal to its Move stat horizontally of its original location (in a killzone that uses the close quarters rules, e.g. Killzone: Gallowdark, this distance cannot be measured over or through Wall terrain). Note that it gains no additional distance when performing the Charge action. It must be set up in a location it can be placed, and unless it’s the Charge action, it cannot be set up within control range of an enemy operative.",
+            "weapons": [],
+            "abilities": [],
+            "actions": []
+          }
+        ],
+        "actions": [
+          {
+            "id": "e0d7b72a-5dc3-4e08-b81b-8eceb3b340c9",
+            "name": "INCENTIVISE",
+            "ap": "1",
+            "effects": [
+              "SUPPORT. Select one other friendly SANCTIFIER operative (excluding CONFESSOR, DEATH CULT ASSASSIN, MIRACULIST and ORATOR) visible to and within 2\" of this operative. Until the end of that operative’s next activation, add 1 to its APL stat."
+            ],
+            "conditions": [
+              "This operative cannot perform this action while within control range of an enemy operative"
+            ]
+          }
+        ]
+      }
+    ],
+    "strategy_ploys": [],
+    "firefight_ploys": [],
+    "equipment": [],
+    "rules": []
+  },
+  {
+    "id": "913f092b-77df-425b-a645-0e44fb1a15dd",
+    "name": "CHAOS CULT BLADES OF KHAINE",
+    "unit": "",
+    "description": "",
+    "selection": [],
+    "operatives": [
+      {
+        "id": "c68821ca-8020-407c-968b-50ad6462de3a",
+        "name": "INQUISITORIAL AGENT TEMPESTUS SCION VOX-OPERATOR",
+        "description": "",
+        "keywords": [],
+        "stats": {
+          "apl": 2,
+          "move": 6,
+          "save": 4,
+          "wounds": 8,
+          "base_size": 28
+        },
+        "weapons": [
+          {
+            "id": "4d3978b0-3005-4301-a84a-a863bee98b8c",
+            "name": "Liberator autostubs (hypersense)",
+            "type": "Ranged",
+            "rules": "",
+            "stats": {
+              "attack": 4,
+              "hit": 3,
+              "dmg_normal": 3,
+              "dmg_critical": 4
+            },
+            "effects": [],
+            "conditions": [],
+            "weapons": [],
+            "abilities": [],
+            "actions": []
+          }
+        ],
+        "abilities": [],
+        "actions": []
+      }
+    ],
+    "strategy_ploys": [],
+    "firefight_ploys": [],
+    "equipment": [],
+    "rules": []
+  }
+]
