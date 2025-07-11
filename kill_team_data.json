@@ -29,12 +29,7 @@
               "hit": 3,
               "dmg_normal": 5,
               "dmg_critical": 3
-            },
-            "effects": [],
-            "conditions": [],
-            "weapons": [],
-            "abilities": [],
-            "actions": []
+            }
           },
           {
             "id": "2696dc65-d99c-4216-ae03-85eb8f1a5c7d",
@@ -46,12 +41,7 @@
               "hit": 3,
               "dmg_normal": 4,
               "dmg_critical": 5
-            },
-            "effects": [],
-            "conditions": [],
-            "weapons": [],
-            "abilities": [],
-            "actions": []
+            }
           },
           {
             "id": "490ab1c6-a64b-4cb0-b314-7e5096b00a6d",
@@ -63,12 +53,7 @@
               "hit": 3,
               "dmg_normal": 3,
               "dmg_critical": 4
-            },
-            "effects": [],
-            "conditions": [],
-            "weapons": [],
-            "abilities": [],
-            "actions": []
+            }
           },
           {
             "id": "dd77b984-f2d3-41b2-82d7-d0f07b852469",
@@ -80,12 +65,7 @@
               "hit": 3,
               "dmg_normal": 4,
               "dmg_critical": 5
-            },
-            "effects": [],
-            "conditions": [],
-            "weapons": [],
-            "abilities": [],
-            "actions": []
+            }
           },
           {
             "id": "ddf97156-342f-4bdf-93b9-2389b0bc9978",
@@ -97,12 +77,7 @@
               "hit": 3,
               "dmg_normal": 4,
               "dmg_critical": 5
-            },
-            "effects": [],
-            "conditions": [],
-            "weapons": [],
-            "abilities": [],
-            "actions": []
+            }
           },
           {
             "id": "ea1e87e8-ee95-4ffd-822b-f12d3b12181f",
@@ -114,12 +89,7 @@
               "hit": 3,
               "dmg_normal": 4,
               "dmg_critical": 5
-            },
-            "effects": [],
-            "conditions": [],
-            "weapons": [],
-            "abilities": [],
-            "actions": []
+            }
           },
           {
             "id": "8a28e567-b2ec-4ae8-a178-d1cf7c098932",
@@ -131,9 +101,7 @@
               "hit": 3,
               "dmg_normal": 3,
               "dmg_critical": 7
-            },
-            "effects": [],
-            "conditions": []
+            }
           },
           {
             "id": "6ef92097-7336-44cc-bfcc-54384376fb7d",
@@ -145,9 +113,7 @@
               "hit": 3,
               "dmg_normal": 4,
               "dmg_critical": 6
-            },
-            "effects": [],
-            "conditions": []
+            }
           }
         ],
         "abilities": [
@@ -155,8 +121,6 @@
             "id": "d36f5aa1-5987-48f3-8a07-c2536dd7489c",
             "name": "Lead the Performance",
             "rules": "Once per battle <b>STRATEGIC GAMBIT</b>. If this operative is in the killzone, change the <b>ALLEGORY </b>you selected for your kill team. Note that the <b>ACCOLADE </b>rule friendly operatives have will also change.",
-            "effects": [],
-            "conditions": [],
             "weapons": [],
             "abilities": [],
             "actions": []
@@ -187,9 +151,7 @@
               "hit": 3,
               "dmg_normal": 4,
               "dmg_critical": 5
-            },
-            "effects": [],
-            "conditions": []
+            }
           },
           {
             "id": "913a75b5-7f68-45db-82bd-ce4424b4a6e8",
@@ -201,9 +163,7 @@
               "hit": 3,
               "dmg_normal": 4,
               "dmg_critical": 5
-            },
-            "effects": [],
-            "conditions": []
+            }
           },
           {
             "id": "5cf95da1-6a59-49e9-8ba1-c2a4e51b0be9",
@@ -215,9 +175,7 @@
               "hit": 3,
               "dmg_normal": 3,
               "dmg_critical": 4
-            },
-            "effects": [],
-            "conditions": []
+            }
           }
         ],
         "abilities": [
@@ -225,8 +183,6 @@
             "id": "2ece0cca-f301-4796-adc4-3e8b929f9250",
             "name": "<font color=\"#f55c29\">*</font>Humbling Cruelty",
             "rules": "If the target of this weapon isn’t incapacitated but any of your attack dice inflict damage, the target gains one of your Humbling Cruelty tokens (if it doesn’t already have one). Whenever an enemy operative has one of your Humbling Cruelty tokens, worsen the Hit stat of its weapons by 1 and subtract 2\" from its Move stat. This isn’t cumulative with being injured. At the end of that enemy operative’s next activation, remove its Humbling Cruelty token.",
-            "effects": [],
-            "conditions": [],
             "weapons": [],
             "abilities": [],
             "actions": []
@@ -257,9 +213,7 @@
               "hit": 3,
               "dmg_normal": 5,
               "dmg_critical": 3
-            },
-            "effects": [],
-            "conditions": []
+            }
           },
           {
             "id": "e930790d-f2bb-4a45-a662-4abea7764a38",
@@ -271,9 +225,7 @@
               "hit": 3,
               "dmg_normal": 4,
               "dmg_critical": 5
-            },
-            "effects": [],
-            "conditions": []
+            }
           },
           {
             "id": "e9062841-7729-4cb4-9228-4b5b1b8706f7",
@@ -285,9 +237,7 @@
               "hit": 3,
               "dmg_normal": 3,
               "dmg_critical": 4
-            },
-            "effects": [],
-            "conditions": []
+            }
           },
           {
             "id": "0001039d-73ba-4a5f-8dd9-846be3e4964b",
@@ -299,9 +249,7 @@
               "hit": 3,
               "dmg_normal": 4,
               "dmg_critical": 5
-            },
-            "effects": [],
-            "conditions": []
+            }
           },
           {
             "id": "bce6afcb-34c9-4210-bc19-6e8547c10273",
@@ -313,9 +261,7 @@
               "hit": 3,
               "dmg_normal": 4,
               "dmg_critical": 5
-            },
-            "effects": [],
-            "conditions": []
+            }
           },
           {
             "id": "86311275-2ef2-40dd-9ff7-3a04f0d1d01b",
@@ -327,9 +273,7 @@
               "hit": 3,
               "dmg_normal": 4,
               "dmg_critical": 5
-            },
-            "effects": [],
-            "conditions": []
+            }
           },
           {
             "id": "47ad5420-5ae5-4cb5-9d02-eb1f9a5feae8",
@@ -341,9 +285,7 @@
               "hit": 3,
               "dmg_normal": 3,
               "dmg_critical": 7
-            },
-            "effects": [],
-            "conditions": []
+            }
           }
         ],
         "abilities": [
@@ -351,8 +293,6 @@
             "id": "394f8019-da62-4825-98a5-e1aaee954160",
             "name": "Luck of the Laughing God",
             "rules": "Once per turning point, you can use this rule. If you do, you can use a firefight ploy for 0CP if this is the specified <font color=\"#f55c29\">VOID-DANCER TROUPE</font> operative (including Command Re-roll if the attack or defence dice was rolled for this operative). You cannot select the same firefight ploy for this rule more than once per battle.",
-            "effects": [],
-            "conditions": [],
             "weapons": [],
             "abilities": [],
             "actions": []
@@ -383,9 +323,7 @@
               "hit": 3,
               "dmg_normal": 1,
               "dmg_critical": 1
-            },
-            "effects": [],
-            "conditions": []
+            }
           },
           {
             "id": "510c6a0d-5d17-4f3b-a7ee-bf7503eaa87a",
@@ -397,9 +335,7 @@
               "hit": 3,
               "dmg_normal": 4,
               "dmg_critical": 5
-            },
-            "effects": [],
-            "conditions": []
+            }
           },
           {
             "id": "76a5d054-ec00-4927-bfff-78018c32ae6c",
@@ -411,9 +347,7 @@
               "hit": 3,
               "dmg_normal": 3,
               "dmg_critical": 4
-            },
-            "effects": [],
-            "conditions": []
+            }
           },
           {
             "id": "aadce0d6-0fad-4977-8195-1a7ed2c0786d",
@@ -425,9 +359,7 @@
               "hit": 3,
               "dmg_normal": 4,
               "dmg_critical": 4
-            },
-            "effects": [],
-            "conditions": []
+            }
           }
         ],
         "abilities": [],
@@ -441,8 +373,7 @@
             ],
             "conditions": [
               "This operative cannot perform this action while within control range of an enemy operative."
-            ],
-            "rules": ""
+            ]
           },
           {
             "id": "b98ad033-f9df-422d-a176-df401f38fe1a",
@@ -453,8 +384,7 @@
             ],
             "conditions": [
               "This operative cannot perform this action while within control range of an enemy operative."
-            ],
-            "rules": ""
+            ]
           }
         ]
       }
@@ -495,7 +425,7 @@
         "name": "CEGORACH’S JEST\n",
         "cp": null,
         "description": "Attempts to engage the troupe in melee combat meet with little success. Luckless assailants find their wellaimed strikes meeting only thin air.\n",
-        "rules": "Whenever a friendly <b><font color=\"#f55c29\">VOID-DANCER TROUPE</font></b> operative is fighting or retaliating and your opponent strikes with a normal success, you can roll one D6: if the result is less than the Hit stat of your opponent’s selected weapon, that strike is a block instead (ignore the Brutal weapon rule, if relevant) and you cannot use this rule for the rest of the sequence.",
+        "rules": "Whenever a friendly <b><font color=\"#f55c29\">VOID-DANCER TROUPE</font></b> operative is fighting or retaliating and your opponent strikes with a normal success, you can roll one D6: if the result is less than the Hit stat of your opponent’s selected weapon, that strike is a block instead (ignore the Brutal weapon rule, if relevant) and you cannot use this rule for the rest of the sequence).",
         "weapons": [],
         "abilities": [],
         "actions": []
@@ -546,7 +476,8 @@
         "description": "Charged with psychic power, this item provides fleeting insight to the bearer, enabling them to strike their opponents with unerring accuracy.",
         "weapons": [],
         "abilities": [],
-        "actions": []
+        "actions": [],
+        "rules": "&nbsp;Once per turning point, when a friendly <b><font color=\"#f55c29\">VOID-DANCER TROUPE</font></b> operative is shooting, fighting or retaliating, if you roll two or more fails, you can discard one of them to retain another as a normal success instead."
       }
     ],
     "rules": [
@@ -569,186 +500,5 @@
         "actions": []
       }
     ]
-  },
-  {
-    "id": "57cc1240-75db-48de-b352-f1d85339be43",
-    "name": "SANCTIFIERS",
-    "unit": "Adeptus Ministorum Zealots",
-    "description": "Sanctifiers draw their strength from an unshakeable faith in the Emperor. When they are grouped together, they gain miraculous power that elevates them far beyond what a mere Human civilian should be capable of in the 41st Millennium.",
-    "selection": [],
-    "operatives": [
-      {
-        "id": "b2c9487c-9628-431b-9c95-036494233cf6",
-        "name": "CONFESSOR",
-        "description": "Amongst the most zealous of the Imperium’s clergy, Confessors are wandering priests with decades of experience in rooting out traitors and heretics. They are skilled orators possessed of towering charisma.",
-        "keywords": [
-          "SANCTIFIER",
-          "IMPERIUM",
-          "ADEPTUS MINISTORUM",
-          "LEADER",
-          "CONFESSOR"
-        ],
-        "stats": {
-          "apl": 2,
-          "move": 6,
-          "save": 5,
-          "wounds": 10,
-          "base_size": 32
-        },
-        "weapons": [
-          {
-            "id": "193f9606-ec51-4bfd-8813-08f661f445bd",
-            "name": "Mace of Censure",
-            "type": "Melee",
-            "rules": "Brutal, Shock",
-            "stats": {
-              "attack": 4,
-              "hit": 3,
-              "dmg_normal": 5,
-              "dmg_critical": 5
-            },
-            "weapons": [],
-            "abilities": [],
-            "actions": []
-          }
-        ],
-        "abilities": [
-          {
-            "id": "b6d544e2-9ae3-4c29-a023-0e5c14cf3aeb",
-            "name": "Lead the Procession",
-            "rules": "In each turning point after the first, whenever this operative is an ORATOR and performs the Charge, Fall Back or Reposition action during its activation, you can use this rule before it moves. If you do, determine each other friendly SANCTIFIER operative that’s benefitting from the SERMON. After this operative ends that action, each of those friendly SANCTIFIER operatives can immediately perform a free Charge, Fall Back or Reposition action in an order of your choice (choose separately for each), but each must end that move in a location where they are still benefitting from the SERMON. If this operative is incapacitated before this rule is fully resolved, e.g. from the Guard action’s interruption (see close quarters rules, Kill Team Core Book), don’t remove it from the killzone until this rule has been resolved.",
-            "weapons": [],
-            "abilities": [],
-            "actions": []
-          },
-          {
-            "id": "fce7821d-3c9c-4ba1-b4e2-ef5dc2df69b0",
-            "name": "Commanding Declamation",
-            "rules": "Whenever an enemy operative would perform an action during an activation or counteraction while visible to and within 6\" of this operative, you can use this rule. If you do, roll one D6: if the result is higher than that enemy operative’s APL stat:\n\n• It cannot perform that action during that activation/\ncounteraction (the AP spent on it isn’t refunded). If it’s a\ncounteraction, that counteraction ends.\n\n• You cannot use this rule again during the battle",
-            "weapons": [],
-            "abilities": [],
-            "actions": []
-          }
-        ],
-        "actions": []
-      },
-      {
-        "id": "37c9d0a1-0dc3-47ba-9431-2a360148d196",
-        "name": "CHERUB",
-        "description": "Grown in flesh-vats, Cherubim are diminutive servitors that undertake a wide variety of ritual tasks and duties. Those that accompany Sanctifiers are often armed with incentivisers to disable fleeing foes.",
-        "keywords": [
-          "SANCTIFIER",
-          "IMPERIUM",
-          "ADEPTUS MINISTORUM",
-          "CHERUB"
-        ],
-        "stats": {
-          "apl": 2,
-          "move": 7,
-          "save": 5,
-          "wounds": 5,
-          "base_size": 25
-        },
-        "weapons": [
-          {
-            "id": "88b1b553-d723-49eb-a481-bd66f0797072",
-            "name": "Incentiviser",
-            "type": "Melee",
-            "rules": "Shock",
-            "stats": {
-              "attack": 3,
-              "hit": 5,
-              "dmg_normal": 1,
-              "dmg_critical": 3
-            },
-            "weapons": [],
-            "abilities": [],
-            "actions": []
-          }
-        ],
-        "abilities": [
-          {
-            "id": "58e70d5a-c370-4b1c-88a8-95cbc07eafbd",
-            "name": "Cherub",
-            "rules": "• Whenever determining control of an objective marker, treat this operative’s APL stat as 1 lower. Note this isn’t a change to its APL stat, so any changes are cumulative with this.\n\n• Whenever this operative has a Conceal order and is in cover, it cannot be selected as a valid target, taking precedence over all other rules (e.g. Vantage terrain).\n\n• This operative cannot use any weapons that aren’t on its datacard, or perform unique actions other than Incentivise.",
-            "weapons": [],
-            "abilities": [],
-            "actions": []
-          },
-          {
-            "id": "5cdd6e43-2256-4ee6-b9d2-9ee0e05f3645",
-            "name": "Fly",
-            "rules": "Whenever this operative is performing the Charge, Fall Back or Reposition action, it can FLY. If it does, don’t move it. Instead, remove it from the killzone and set it back up wholly within a distance equal to its Move stat horizontally of its original location (in a killzone that uses the close quarters rules, e.g. Killzone: Gallowdark, this distance cannot be measured over or through Wall terrain). Note that it gains no additional distance when performing the Charge action. It must be set up in a location it can be placed, and unless it’s the Charge action, it cannot be set up within control range of an enemy operative.",
-            "weapons": [],
-            "abilities": [],
-            "actions": []
-          }
-        ],
-        "actions": [
-          {
-            "id": "e0d7b72a-5dc3-4e08-b81b-8eceb3b340c9",
-            "name": "INCENTIVISE",
-            "ap": "1",
-            "effects": [
-              "SUPPORT. Select one other friendly SANCTIFIER operative (excluding CONFESSOR, DEATH CULT ASSASSIN, MIRACULIST and ORATOR) visible to and within 2\" of this operative. Until the end of that operative’s next activation, add 1 to its APL stat."
-            ],
-            "conditions": [
-              "This operative cannot perform this action while within control range of an enemy operative"
-            ]
-          }
-        ]
-      }
-    ],
-    "strategy_ploys": [],
-    "firefight_ploys": [],
-    "equipment": [],
-    "rules": []
-  },
-  {
-    "id": "913f092b-77df-425b-a645-0e44fb1a15dd",
-    "name": "CHAOS CULT BLADES OF KHAINE",
-    "unit": "",
-    "description": "",
-    "selection": [],
-    "operatives": [
-      {
-        "id": "c68821ca-8020-407c-968b-50ad6462de3a",
-        "name": "INQUISITORIAL AGENT TEMPESTUS SCION VOX-OPERATOR",
-        "description": "",
-        "keywords": [],
-        "stats": {
-          "apl": 2,
-          "move": 6,
-          "save": 4,
-          "wounds": 8,
-          "base_size": 28
-        },
-        "weapons": [
-          {
-            "id": "4d3978b0-3005-4301-a84a-a863bee98b8c",
-            "name": "Liberator autostubs (hypersense)",
-            "type": "Ranged",
-            "rules": "",
-            "stats": {
-              "attack": 4,
-              "hit": 3,
-              "dmg_normal": 3,
-              "dmg_critical": 4
-            },
-            "effects": [],
-            "conditions": [],
-            "weapons": [],
-            "abilities": [],
-            "actions": []
-          }
-        ],
-        "abilities": [],
-        "actions": []
-      }
-    ],
-    "strategy_ploys": [],
-    "firefight_ploys": [],
-    "equipment": [],
-    "rules": []
   }
 ]
