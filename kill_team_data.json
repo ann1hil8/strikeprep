@@ -18631,7 +18631,7 @@
     "unit": "AELDARI HARLEQUIN TROUPE",
     "description": "Even amongst the agile Aeldari, the Harlequins of the Void-dancer Troupes display an almost preternatural level of dexterity and skill. Performance and war merge in their actions, precisely directed to shape the fate of their race.",
     "selection": {
-      "operatives": "<font color=\"#f55c29\">&nbsp;<b>\u2198</b></font> 1 <b><font color=\"#f55c29\">VOID-DANCER TROUPE </font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> <b>LEAD PLAYER </b>operative with one option from each of the following:\n<font color=\"#f55c29\">        \u25cb</font> Fusion pistol, neuro disruptor or shuriken pistol\n<font color=\"#f55c29\">        \u25cb</font> Blade, caress, embrace, kiss or power weapon<div>\n<b><font color=\"#f55c29\">\u2198</font></b> 7 <font color=\"#f55c29\" style=\"font-weight: bold;\">VOID-DANCER TROUPE</font> <span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span><span style=\"font-size: 0.875rem;\"> operatives selected from the following list:</span></div><div>    <font color=\"#f55c29\">\u2022</font> <b>DEATH JESTER</b>\n    <font color=\"#f55c29\">\u2022</font> <b>PLAYER </b>with one option from each of the following:\n        <font color=\"#f55c29\">\u25cb</font> Fusion pistol, neuro disruptor or shuriken pistol\n        <font color=\"#f55c29\">\u25cb</font> Blade, caress, embrace or kiss\n    <font color=\"#f55c29\">\u2022 </font><b>SHADOWSE</b><b style=\"font-size: 0.875rem;\">ER<font color=\"#f55c29\"> </font></b><span style=\"font-size: 0.875rem;\">with hallucinogen grenade and one of the following options:</span></div><div>        <font color=\"#f55c29\">\u25cb</font> Neuro disruptor; miststave\n<font color=\"#f55c29\">        \u25cb</font> Shuriken pistol; miststave<div><br><div>Other than <b>PLAYER </b>operatives, your kill team can only include each operative on this list once. Your kill team can only include up to one fusion pistol and up to one neuro disruptor.</div></div></div>",
+      "operatives": "<font color=\"#f55c29\">&nbsp;<b>\u2198</b></font> 1 <b><font color=\"#f55c29\">VOID-DANCER TROUPE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> <b>LEAD PLAYER </b>operative with one option from each of the following:\n<font color=\"#f55c29\">        \u25cb</font> Fusion pistol, neuro disruptor or shuriken pistol\n<font color=\"#f55c29\">        \u25cb</font> Blade, caress, embrace, kiss or power weapon<div>\n<b><font color=\"#f55c29\">\u2198</font></b> 7 <font color=\"#f55c29\" style=\"font-weight: bold;\">VOID-DANCER TROUPE</font><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span><span style=\"font-size: 0.875rem;\"> operatives selected from the following list:</span></div><div>    <font color=\"#f55c29\">\u2022</font> <b>DEATH JESTER</b>\n    <font color=\"#f55c29\">\u2022</font> <b>PLAYER </b>with one option from each of the following:\n        <font color=\"#f55c29\">\u25cb</font> Fusion pistol, neuro disruptor or shuriken pistol\n        <font color=\"#f55c29\">\u25cb</font> Blade, caress, embrace or kiss\n    <font color=\"#f55c29\">\u2022 </font><b>SHADOWSE</b><b style=\"font-size: 0.875rem;\">ER<font color=\"#f55c29\"> </font></b><span style=\"font-size: 0.875rem;\">with hallucinogen grenade and one of the following options:</span></div><div>        <font color=\"#f55c29\">\u25cb</font> Neuro disruptor; miststave\n<font color=\"#f55c29\">        \u25cb</font> Shuriken pistol; miststave<div><br><div>Other than <b>PLAYER </b>operatives, your kill team can only include each operative on this list once. Your kill team can only include up to one fusion pistol and up to one neuro disruptor.</div></div></div>",
       "archetypes": [
         "INFILTRATION",
         "RECON"
@@ -18642,7 +18642,7 @@
         "id": "24f958a1-9b18-4228-8967-771c581619dc",
         "name": "LEAD PLAYER",
         "description": "Choreographers of conflict, Lead Players are experienced Harlequins clad in extravagant garb. They direct their warriors\u2019 reactions to the fates of battle and ensure their comrades\u2019 performances in the theatre of war is as perfect as it can be.",
-        "keywords": "<font color=\"#f55c29\">VOID-DANCER TROUPE </font><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span>, AELDARI, HARLEQUIN, LEADER, LEAD PLAYER",
+        "keywords": "<font color=\"#f55c29\">VOID-DANCER TROUPE</font><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span>, AELDARI, HARLEQUIN, LEADER, LEAD PLAYER",
         "stats": {
           "apl": 3,
           "move": 7,
@@ -18764,7 +18764,7 @@
         "id": "5d9b0f5f-0879-495f-9b2f-265bbb41a19d",
         "name": "DEATH JESTER",
         "description": "The arrival of a Death Jester in a killzone is announced by a hissing storm of shrieker cannon fire. Enemy infantry are torn apart as the weapon\u2019s gene-toxins cause them to combust horrifically from within. Adding insult to injury, the Death Jester ensures every demise is cruelly ironic.",
-        "keywords": "<font color=\"#f55c29\">VOID-DANCER TROUPE </font><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span>, AELDARI, HARLEQUIN, DEATH JESTER",
+        "keywords": "<font color=\"#f55c29\">VOID-DANCER TROUPE</font><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span>, AELDARI, HARLEQUIN, DEATH JESTER",
         "stats": {
           "apl": 3,
           "move": 7,
@@ -18826,7 +18826,7 @@
         "id": "ea609ff1-0bda-4243-9831-5671cd88c338",
         "name": "PLAYER",
         "description": "Harlequin Players perform with breathtaking skill, whether their stage is a wraithbone-and-glass amphitheatre bathed in crystalline light or the firelit hell of the battlefield. They tumble, sprint and leap, with every trigger squeeze and blade slash bringing orchestrated death to the enemy.",
-        "keywords": "<font color=\"#f55c29\">VOID-DANCER TROUPE </font><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span>, AELDARI, HARLEQUIN, PLAYER",
+        "keywords": "<font color=\"#f55c29\">VOID-DANCER TROUPE</font><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span>, AELDARI, HARLEQUIN, PLAYER",
         "stats": {
           "apl": 3,
           "move": 7,
@@ -18936,7 +18936,7 @@
         "id": "e6a16bfb-4bc1-40e3-9d69-be0de658feb2",
         "name": "SHADOWSEER",
         "description": "Shadowseers can blind foes and drive them mad with their psychic powers. As they obscure their allies with illusions, they fire hallucinogenic grenades that cause disorientation or death. In close combat, Shadowseers\u2019 miststaves scramble the perceptions of those they hit.",
-        "keywords": "<font color=\"#f55c29\">VOID-DANCER TROUPE </font><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span>, AELDARI, HARLEQUIN, PSYKER, SHADOWSEER",
+        "keywords": "<font color=\"#f55c29\">VOID-DANCER TROUPE</font><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span>, AELDARI, HARLEQUIN, PSYKER, SHADOWSEER",
         "stats": {
           "apl": 3,
           "move": 7,
@@ -19027,7 +19027,7 @@
         "name": "DARTING SALVO\n",
         "cp": null,
         "description": "Advancing in a dazzling blurr of vibrant colour, Harlequins fire on the move, leaping away before their opponents can return fire.",
-        "rules": "Whenever a friendly <b><font color=\"#f55c29\">VOID-DANCER TROUPE</font></b> operative performs the <b>Reposition </b>action during its activation, it can perform the <b>Shoot </b>action during that action (it must do so in a location it can be placed, and any remaining move distance it had from that <b>Reposition </b>action can be used after it does so).",
+        "rules": "Whenever a friendly <b><font color=\"#f55c29\">VOID-DANCER TROUPE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative performs the <b>Reposition </b>action during its activation, it can perform the <b>Shoot </b>action during that action (it must do so in a location it can be placed, and any remaining move distance it had from that <b>Reposition </b>action can be used after it does so).",
         "weapons": [],
         "abilities": [],
         "actions": []
@@ -19037,7 +19037,7 @@
         "name": "RISING CRESCENDO",
         "cp": null,
         "description": "With each darting advance and lethal flourish, the tempo of the troupe\u2019s performance increases, building towards a violent crescendo.",
-        "rules": "Friendly <b><font color=\"#f55c29\">VOID-DANCER TROUPE</font></b> operatives can perform the <b>Dash </b>action during the same activation in which they performed the <b>Charge </b>action, but not vice versa (i.e. not <b>Dash </b>then <b>Charge</b>).",
+        "rules": "Friendly <b><font color=\"#f55c29\">VOID-DANCER TROUPE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operatives can perform the <b>Dash </b>action during the same activation in which they performed the <b>Charge </b>action, but not vice versa (i.e. not <b>Dash </b>then <b>Charge</b>).",
         "weapons": [],
         "abilities": [],
         "actions": []
@@ -19047,7 +19047,7 @@
         "name": "PRISMATIC BLUR",
         "cp": null,
         "description": "So swift and dazzling are the Harlequins that even veteran marksmen struggle to draw a bead upon their lithe forms.",
-        "rules": "Whenever an operative is shooting a friendly <b><font color=\"#f55c29\">VOID-DANCER TROUPE</font></b> operative that performed an action in which it moved during this turning point, you can re-roll one of your defence dice.",
+        "rules": "Whenever an operative is shooting a friendly <b><font color=\"#f55c29\">VOID-DANCER TROUPE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative that performed an action in which it moved during this turning point, you can re-roll one of your defence dice.",
         "weapons": [],
         "abilities": [],
         "actions": []
@@ -19057,7 +19057,7 @@
         "name": "CEGORACH\u2019S JEST\n",
         "cp": null,
         "description": "Attempts to engage the troupe in melee combat meet with little success. Luckless assailants find their wellaimed strikes meeting only thin air.\n",
-        "rules": "Whenever a friendly <b><font color=\"#f55c29\">VOID-DANCER TROUPE</font></b> operative is fighting or retaliating and your opponent strikes with a normal success, you can roll one D6: if the result is less than the Hit stat of your opponent\u2019s selected weapon, that strike is a block instead (ignore the Brutal weapon rule, if relevant) and you cannot use this rule for the rest of the sequence).",
+        "rules": "Whenever a friendly <b><font color=\"#f55c29\">VOID-DANCER TROUPE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative is fighting or retaliating and your opponent strikes with a normal success, you can roll one D6: if the result is less than the Hit stat of your opponent\u2019s selected weapon, that strike is a block instead (ignore the Brutal weapon rule, if relevant) and you cannot use this rule for the rest of the sequence).",
         "weapons": [],
         "abilities": [],
         "actions": []
@@ -19068,7 +19068,7 @@
         "id": "89d90a87-539a-42fc-88aa-bbb3c4d71d17",
         "name": "MURDEROUS ENTRANCE",
         "description": "The Harlequin assault materialises with terrifying speed, a flurry of deadly blows landing before the foe can raise a blade in response.",
-        "rules": "Use this firefight ploy when a friendly <b style=\"\"><font color=\"#f55c29\">VOID-DANCER TROUPE</font></b> operative is fighting during an activation in which it performed the <b>Charge </b>action, after you strike. You can immediately resolve another of your normal successes as a strike (before your opponent), or one of your critical successes if there are none.",
+        "rules": "Use this firefight ploy when a friendly <b style=\"\"><font color=\"#f55c29\">VOID-DANCER TROUPE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative is fighting during an activation in which it performed the <b>Charge </b>action, after you strike. You can immediately resolve another of your normal successes as a strike (before your opponent), or one of your critical successes if there are none.",
         "weapons": [],
         "abilities": [],
         "actions": []
@@ -19077,7 +19077,7 @@
         "id": "aa01af5c-9a42-41d7-b7b4-84461ccacdbc",
         "name": "THE CURTAIN FALLS\n",
         "description": "Upon landing a devastating blow, the Harlequin disengages, leaving their wounded opponent flailing desperately in response",
-        "rules": "Use this firefight ploy when a friendly <font color=\"#f55c29\"><b>VOID-DANCER TROUPE</b></font> operative is fighting, after you strike with a critical success. End that sequence (any remaining attack dice are discarded) and immediately perform a free <b>Dash </b>or <b>Fall Back</b> action up to 3\" with that operative (then the <b>Fight </b>action ends). That operative can do so even if it\u2019s performed an action that prevents it from performing the <b>Dash </b>or <b>Fall Back</b> action.",
+        "rules": "Use this firefight ploy when a friendly <font color=\"#f55c29\"><b>VOID-DANCER TROUPE</b></font><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative is fighting, after you strike with a critical success. End that sequence (any remaining attack dice are discarded) and immediately perform a free <b>Dash </b>or <b>Fall Back</b> action up to 3\" with that operative (then the <b>Fight </b>action ends). That operative can do so even if it\u2019s performed an action that prevents it from performing the <b>Dash </b>or <b>Fall Back</b> action.",
         "weapons": [],
         "abilities": [],
         "actions": []
@@ -19086,7 +19086,7 @@
         "id": "fd5e8c1d-0e35-48a2-b2e9-85c1feb74f87",
         "name": "ELUSIVE TARGET\n",
         "description": "Swift, agile and graceful, Harlequins dart from cover to cover, evading their opponents with contemptuous ease.",
-        "rules": "Use this firefight ploy during a friendly <b><font color=\"#f55c29\">VOID-DANCER TROUPE</font></b> operative\u2019s activation. Until the start of its next activation, while that operative has a Conceal order and is in cover, it cannot be selected as a valid target, taking precedence over all other rules (e.g. Seek, Vantage terrain) except being within 2\".",
+        "rules": "Use this firefight ploy during a friendly <b><font color=\"#f55c29\">VOID-DANCER TROUPE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative\u2019s activation. Until the start of its next activation, while that operative has a Conceal order and is in cover, it cannot be selected as a valid target, taking precedence over all other rules (e.g. Seek, Vantage terrain) except being within 2\".",
         "weapons": [],
         "abilities": [],
         "actions": []
@@ -19095,7 +19095,7 @@
         "id": "dad3dffb-a568-45e9-9cd6-2ecea624d004",
         "name": "DOMINO FIELD",
         "description": "Harlequins bear a variety of esoteric equipment, including the ubiquitous Domino Field, which breaks up their outline and renders them difficult to target.",
-        "rules": "Use this firefight ploy when an operative is shooting a friendly <b><font color=\"#f55c29\">VOID-DANCER TROUPE</font></b> operative, during the Resolve Defence Dice step. You can allocate one of your rolled successful dice to block all of your opponent's attack dice with matching results (e.g. one of your successful defence dice results of 5 can be used to block all successful attack dice results of 5).",
+        "rules": "Use this firefight ploy when an operative is shooting a friendly <b><font color=\"#f55c29\">VOID-DANCER TROUPE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative, during the Resolve Defence Dice step. You can allocate one of your rolled successful dice to block all of your opponent's attack dice with matching results (e.g. one of your successful defence dice results of 5 can be used to block all successful attack dice results of 5).",
         "weapons": [],
         "abilities": [],
         "actions": []
@@ -19109,7 +19109,7 @@
         "weapons": [],
         "abilities": [],
         "actions": [],
-        "rules": "&nbsp;Once per turning point, when a friendly <b><font color=\"#f55c29\">VOID-DANCER TROUPE</font></b> operative is shooting, fighting or retaliating, if you roll two or more fails, you can discard one of them to retain another as a normal success instead."
+        "rules": "Once per turning point, when a friendly <b><font color=\"#f55c29\">VOID-DANCER TROUPE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative is shooting, fighting or retaliating, if you roll two or more fails, you can discard one of them to retain another as a normal success instead."
       },
       {
         "id": "bd0ef8b2-f607-4d95-a467-d5d0f53e5d60",
@@ -19118,7 +19118,7 @@
         "weapons": [],
         "abilities": [],
         "actions": [],
-        "rules": "Once per turning point, when a friendly <b><font color=\"#f55c29\">VOID-DANCER TROUPE</font></b> operative is performing the <b>Shoot </b>action and you select a shuriken pistol or shrieker cannon (focused), you can use this rule. If you do, until the end of that action, that weapon has the Devastating 1 weapon rule."
+        "rules": "Once per turning point, when a friendly <b><font color=\"#f55c29\">VOID-DANCER TROUPE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative is performing the <b>Shoot </b>action and you select a shuriken pistol or shrieker cannon (focused), you can use this rule. If you do, until the end of that action, that weapon has the Devastating 1 weapon rule."
       },
       {
         "id": "6c90e00c-bbf9-49c1-b02a-a12771182d9c",
@@ -19127,7 +19127,7 @@
         "weapons": [],
         "abilities": [],
         "actions": [],
-        "rules": "Keep a Tragedy tally. Whenever a friendly <b><font color=\"#f55c29\">VOID-DANCER TROUPE</font></b> operative that has an <b>ACCOLADE </b>rule is incapacitated, add 1 to your Tragedy tally. When your Tragedy tally reaches 3, you gain 1CP and stop that tally."
+        "rules": "Keep a Tragedy tally. Whenever a friendly <b><font color=\"#f55c29\">VOID-DANCER TROUPE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative that has an <b>ACCOLADE </b>rule is incapacitated, add 1 to your Tragedy tally. When your Tragedy tally reaches 3, you gain 1CP and stop that tally."
       },
       {
         "id": "d946f6d3-bdd2-4e51-b948-863b45b039aa",
@@ -19136,7 +19136,7 @@
         "weapons": [],
         "abilities": [],
         "actions": [],
-        "rules": "Once per battle, when you activate a friendly <b><font color=\"#f55c29\">VOID-DANCER TROUPE</font></b> operative, if the friendly operative that has the <b>PIVOTAL ROLE</b> has been incapacitated, you can use this rule. If you do, that activated operative has the <b>PIVOTAL ROLE</b> for the battle."
+        "rules": "Once per battle, when you activate a friendly <b><font color=\"#f55c29\">VOID-DANCER TROUPE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative, if the friendly operative that has the <b>PIVOTAL ROLE</b> has been incapacitated, you can use this rule. If you do, that activated operative has the <b>PIVOTAL ROLE</b> for the battle."
       }
     ],
     "rules": [
