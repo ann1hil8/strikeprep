@@ -889,7 +889,7 @@
     "unit": "AELDARI ASPECT WARRIORS",
     "description": "Athletic, graceful and utterly lethal, the Aeldari warriors that comprise Blades of Khaine kill teams come together to undertake missions of utmost importance on behalf of their craftworlds. They are dispatched to sever specific strands of fate, ensuring that terrible events they have foreseen never come to pass.",
     "selection": {
-      "operatives": "\u2198 1 BLADES OF KHAINE operative selected from the following list:\n* DIRE AVENGER EXARCH with one of the following options:\n  \u25cb Shuriken catapult; fists\n  \u25cb Twin shuriken catapult; gun butts\n* Or one option from each of the following:\n  \u25cb Diresword or power weapon\n  \u25cb Shuriken pistol or shimmershield\n* HOWLING BANSHEE EXARCH with one of the following options:\n  \u25cb Mirrorswords\n  \u25cb Shuriken pistol; executioner\n  \u25cb Shuriken pistol; power weapon\n  \u25cb Shuriken pistol; triskele\n  \u25cb Triskele; power weapon\n* STRIKING SCORPION EXARCH with one of the following options:\n  \u25cb Shuriken pistol; biting blade\n  \u25cb Shuriken pistol; scorpion\u2019s claw and chainsword\n  \u25cb Twin shuriken pistols; twin chainswords\n\u2198 7 BLADES OF KHAINE operatives selected from the following list:\n* DIRE AVENGER WARRIOR\n* HOWLING BANSHEE WARRIOR\n* STRIKING SCORPION WARRIOR",
+      "operatives": "<b><font color=\"#f55c29\">\u2198</font></b> 1 <b><font color=\"#f55c29\">BLADES OF KHAINE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative selected from the following list:\n<font color=\"#f55c29\">    \u2022</font> <b>DIRE AVENGER EXARCH</b> with one of the following options:\n        <font color=\"#f55c29\">\u25cb</font> Shuriken catapult; fists\n        <font color=\"#f55c29\">\u25cb</font> Twin shuriken catapult; gun butts\n<font color=\"#f55c29\">    \u2022</font> Or one option from each of the following:\n        <font color=\"#f55c29\">\u25cb</font> Diresword or power weapon\n        <font color=\"#f55c29\">\u25cb</font> Shuriken pistol or shimmershield\n<font color=\"#f55c29\">    \u2022</font> <b>HOWLING BANSHEE EXARCH</b> with one of the following options:\n        <font color=\"#f55c29\">\u25cb</font> Mirrorswords\n        <font color=\"#f55c29\">\u25cb</font> Shuriken pistol; executioner\n        <font color=\"#f55c29\">\u25cb</font> Shuriken pistol; power weapon\n        <font color=\"#f55c29\">\u25cb</font> Shuriken pistol; triskele\n        <font color=\"#f55c29\">\u25cb</font> Triskele; power weapon\n<font color=\"#f55c29\">    \u2022</font> <b>STRIKING SCORPION EXARCH</b> with one of the following options:\n        <font color=\"#f55c29\">\u25cb</font> Shuriken pistol; biting blade\n        <font color=\"#f55c29\">\u25cb</font> Shuriken pistol; scorpion\u2019s claw and chainsword\n        <font color=\"#f55c29\">\u25cb</font> Twin shuriken pistols; twin chainswords\n<font color=\"#f55c29\">\u2198</font> 7 <b style=\"color: rgb(245, 92, 41);\">BLADES OF KHAINE</b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operatives selected from the following list:\n<font color=\"#f55c29\">    \u2022</font> <b>DIRE AVENGER WARRIO</b>R\n<font color=\"#f55c29\">    \u2022</font> <b>HOWLING BANSHEE WARRIOR</b>\n<font color=\"#f55c29\">    \u2022</font> <b>STRIKING SCORPION WARRIOR</b><div><b><br></b></div><div><span style=\"background-color: rgb(245, 92, 41);\"> ARCHETYPES </span>\nSeek &amp; Destroy, or the associated archetype of the most common Aspect keyword in your kill team (if two keywords are equally most common, you can choose one of those keywords). Aspect keywords and their associated archetypes are as follows:</div><div>\n<font color=\"#f55c29\">    \u2022</font> <b>DIRE AVENGER</b>: Security\n<font color=\"#f55c29\">    \u2022</font> <b>HOWLING BANSHEE</b>: Recon\n<font color=\"#f55c29\">    \u2022</font> <b>STRIKING SCORPION</b>: Infiltration<b></b></div>",
       "archetypes": [
         "Seek & Destroy",
         "DIRE AVENGER: Security",
@@ -902,7 +902,7 @@
         "id": "b1c2d3e4-f5a6-4b7c-8d9e-0123456789b7",
         "name": "DIRE AVENGER EXARCH",
         "description": "These warriors are masters of their Aspect and devoted to their craftworld. In keeping with the tactical flexibility of their Aspect, all are master marksmen and bladesmen, as at ease shredding foes with volleys of razor-sharp shuriken as they are duelling enemy heroes in single combat.",
-        "keywords": "BLADES OF KHAINE , AELDARI, ASURYANI, LEADER, DIRE AVENGER, EXARCH",
+        "keywords": "<b><font color=\"#f55c29\">BLADES OF KHAINE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span>, AELDARI, ASURYANI, LEADER, DIRE AVENGER, EXARCH",
         "stats": {
           "apl": 3,
           "move": 7,
@@ -911,6 +911,18 @@
           "base_size": 28
         },
         "weapons": [
+          {
+            "id": "a27756f3-67f0-49df-9ff8-01c7141047cb",
+            "name": "SHURIKEN CATAPULT",
+            "type": "Ranged",
+            "rules": "Rending",
+            "stats": {
+              "attack": 4,
+              "hit": 3,
+              "dmg_normal": 3,
+              "dmg_critical": 4
+            }
+          },
           {
             "id": "c1d2e3f4-a5b6-4c7d-8e9f-0123456789f1",
             "name": "SHURIKEN PISTOL",
@@ -925,100 +937,105 @@
           },
           {
             "id": "c1d2e3f4-a5b6-4c7d-8e9f-0123456789f2",
-            "name": "TRISKELE (THROW)",
+            "name": "TWIN SHURIKEN CATAPULT",
             "type": "Ranged",
-            "rules": "Range 8\", Rending, Torrent 2\"",
+            "rules": "Ceaseless, Rending",
             "stats": {
               "attack": 4,
               "hit": 3,
-              "dmg_normal": 2,
-              "dmg_critical": 3
-            }
-          },
-          {
-            "id": "c1d2e3f4-a5b6-4c7d-8e9f-0123456789f3",
-            "name": "EXECUTIONER",
-            "type": "Melee",
-            "rules": "Lethal 5+",
-            "stats": {
-              "attack": 5,
-              "hit": 3,
               "dmg_normal": 3,
-              "dmg_critical": 7
+              "dmg_critical": 4
             }
           },
           {
-            "id": "c1d2e3f4-a5b6-4c7d-8e9f-0123456789f4",
-            "name": "MIRRORSWORDS",
+            "id": "cdad6b6a-1ffc-4e73-8a14-ccd6db3e5edc",
+            "name": "DIRESWORD",
             "type": "Melee",
-            "rules": "Ceaseless, Lethal 5+",
-            "stats": {
-              "attack": 5,
-              "hit": 3,
-              "dmg_normal": 4,
-              "dmg_critical": 6
-            }
-          },
-          {
-            "id": "c1d2e3f4-a5b6-4c7d-8e9f-0123456789f5",
-            "name": "POWER WEAPON",
-            "type": "Melee",
-            "rules": "Lethal 5+",
-            "stats": {
-              "attack": 5,
-              "hit": 3,
-              "dmg_normal": 4,
-              "dmg_critical": 6
-            }
-          },
-          {
-            "id": "c1d2e3f4-a5b6-4c7d-8e9f-0123456789f6",
-            "name": "TRISKELE (SLICE)",
-            "type": "Melee",
-            "rules": "Rending",
+            "rules": "Lethal 5+, Rending",
             "stats": {
               "attack": 5,
               "hit": 3,
               "dmg_normal": 4,
               "dmg_critical": 5
             }
+          },
+          {
+            "id": "e865740c-0bc9-4828-98c0-c258f609ac19",
+            "name": "FISTS",
+            "type": "Melee",
+            "rules": "-",
+            "stats": {
+              "attack": 4,
+              "hit": 3,
+              "dmg_normal": 2,
+              "dmg_critical": 4
+            }
+          },
+          {
+            "id": "4f464d48-5e7b-4524-b177-de91dc2acac6",
+            "name": "GUN BUTTS",
+            "type": "Melee",
+            "rules": "-",
+            "stats": {
+              "attack": 3,
+              "hit": 4,
+              "dmg_normal": 2,
+              "dmg_critical": 3
+            }
+          },
+          {
+            "id": "7986e4aa-bb16-4854-b9e5-37b8dd126f23",
+            "name": "POWER WEAPON",
+            "type": "Ranged",
+            "rules": "Lethal 5+",
+            "stats": {
+              "attack": 5,
+              "hit": 3,
+              "dmg_normal": 4,
+              "dmg_critical": 6
+            }
           }
         ],
         "abilities": [
           {
             "id": "c1d2e3f4-a5b6-4c7d-8e9f-0123456789f7",
-            "name": "Banshee Mask",
-            "rules": "Whenever this operative is fighting, worsen the Hit stat of the enemy operative\u2019s melee weapons by 1. This isn\u2019t cumulative with being injured.",
+            "name": "DEFENCE TACTIC",
+            "rules": "Whenever this operative contests an objective marker or one of your mission markers, or whenever it\u2019s shooting an enemy operative that does, this operative\u2019s weapons have the Balanced weapon rule",
             "weapons": [],
             "abilities": [],
             "actions": []
           },
           {
             "id": "c1d2e3f4-a5b6-4c7d-8e9f-0123456789f8",
-            "name": "Exarch",
-            "rules": "This operative can perform two Shoot or two Fight actions during its activation.",
+            "name": "EXARCH",
+            "rules": "This operative can perform two <b>Shoot </b>or two <b>Fight </b>actions during its activation.",
             "weapons": [],
             "abilities": [],
             "actions": []
+          },
+          {
+            "id": "4a9cdc47-0681-4bbe-9556-7062a6095819",
+            "name": "SHIMMERSHIELD",
+            "rules": "Whenever an operative is shooting a friendly <b><font color=\"#f55c29\">BLADES OF KHAINE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative that\u2019s visible to and within 2\" of this operative, ignore the Piercing weapon rule. This operative only has this rule if you select the shimmershield weapon option."
           }
         ],
         "actions": []
       },
       {
-        "id": "b1c2d3e4-f5a6-4b7c-8d9e-0123456789b8",
-        "name": "HOWLING BANSHEE EXARCH",
-        "description": "HOWLING BANSHEE EXARCH",
-        "keywords": "BLADES OF KHAINE , AELDARI, ASURYANI, LEADER, HOWLING BANSHEE, EXARCH",
+        "id": "71a8e71f-998f-4b79-a6f5-4a28d5f34a33",
+        "name": "DIRE AVENGER WARRIOR",
+        "description": "These operatives are famed for being as deadly on the attack as they are immovable in the defence, and are regarded as being the most tactically flexible of all the Aspects. They use their shuriken catapults to create an impenetrable storm of monomolecular blades.",
+        "keywords": "<b><font color=\"#f55c29\">BLADES OF KHAINE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span>, AELDARI, ASURYANI, DIRE AVENGER, WARRIOR",
         "stats": {
           "apl": 3,
           "move": 7,
-          "save": 3,
-          "wounds": 9,
+          "save": 4,
+          "wounds": 8,
           "base_size": 28
         },
         "weapons": [
           {
-            "id": "c1d2e3f4-a5b6-4c7d-8e9f-0123456789f9",
+            "id": "11e6dd25-2419-4c96-af62-8479c4146321",
             "name": "SHURIKEN CATAPULT",
             "type": "Ranged",
             "rules": "Rending",
@@ -1029,6 +1046,41 @@
               "dmg_critical": 4
             }
           },
+          {
+            "id": "633981a5-6ced-4508-b6b2-6f9b458004da",
+            "name": "FISTS",
+            "type": "Melee",
+            "rules": "-",
+            "stats": {
+              "attack": 4,
+              "hit": 3,
+              "dmg_normal": 2,
+              "dmg_critical": 4
+            }
+          }
+        ],
+        "abilities": [
+          {
+            "id": "d758df87-dd01-4737-a92f-aad28c51200b",
+            "name": "DEFENCE TACTICS",
+            "rules": "Whenever this operative contests an objective marker or one of your mission markers, or whenever it's shooting an enemy operative that does, this operative\u2019s weapons have the Balanced weapon rule."
+          }
+        ],
+        "actions": []
+      },
+      {
+        "id": "b1c2d3e4-f5a6-4b7c-8d9e-0123456789b8",
+        "name": "HOWLING BANSHEE EXARCH",
+        "description": "Not only do the skills in elegant swordplay displayed by a Howling Banshee Exarch exceed those of the warriors she leads, but so harrowing and biting are her cries that their echoing reverberations haunt those who hear them long after the screams have died away.",
+        "keywords": "<b><font color=\"#f55c29\">BLADES OF KHAINE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span>, AELDARI, ASURYANI, LEADER, HOWLING BANSHEE, EXARCH",
+        "stats": {
+          "apl": 3,
+          "move": 7,
+          "save": 3,
+          "wounds": 9,
+          "base_size": 28
+        },
+        "weapons": [
           {
             "id": "c1d2e3f4-a5b6-4c7d-8e9f-0123456789g0",
             "name": "SHURIKEN PISTOL",
@@ -1042,51 +1094,27 @@
             }
           },
           {
-            "id": "c1d2e3f4-a5b6-4c7d-8e9f-0123456789g1",
-            "name": "TWIN SHURIKEN CATAPULT",
+            "id": "c1d2e3f4-a5b6-4c7d-8e9f-0123456789f9",
+            "name": "TRISKELE (THROW)",
             "type": "Ranged",
-            "rules": "Ceaseless, Rending",
+            "rules": "Range 8\", Rending, Torrent 2\"",
             "stats": {
               "attack": 4,
               "hit": 3,
-              "dmg_normal": 3,
-              "dmg_critical": 4
+              "dmg_normal": 2,
+              "dmg_critical": 3
             }
           },
           {
-            "id": "c1d2e3f4-a5b6-4c7d-8e9f-0123456789g2",
-            "name": "DIRESWORD",
+            "id": "fb1a3b3b-7f2d-4cc9-9eea-b8fee88112fa",
+            "name": "EXECUTIONER",
             "type": "Melee",
-            "rules": "Lethal 5+, Rending",
+            "rules": "Lethal 5+",
             "stats": {
               "attack": 5,
               "hit": 3,
-              "dmg_normal": 4,
-              "dmg_critical": 5
-            }
-          },
-          {
-            "id": "c1d2e3f4-a5b6-4c7d-8e9f-0123456789g3",
-            "name": "FISTS",
-            "type": "Melee",
-            "rules": "-",
-            "stats": {
-              "attack": 4,
-              "hit": 3,
-              "dmg_normal": 2,
-              "dmg_critical": 4
-            }
-          },
-          {
-            "id": "c1d2e3f4-a5b6-4c7d-8e9f-0123456789g4",
-            "name": "GUN BUTTS",
-            "type": "Melee",
-            "rules": "-",
-            "stats": {
-              "attack": 3,
-              "hit": 4,
-              "dmg_normal": 2,
-              "dmg_critical": 3
+              "dmg_normal": 3,
+              "dmg_critical": 7
             }
           },
           {
@@ -1112,16 +1140,80 @@
               "dmg_normal": 4,
               "dmg_critical": 5
             }
+          },
+          {
+            "id": "486047e3-04e6-4531-aeb0-d49d83a6f21b",
+            "name": "MIRRORSWORDS",
+            "type": "Melee",
+            "rules": "Ceaseless, Lethal 5+",
+            "stats": {
+              "attack": 5,
+              "hit": 3,
+              "dmg_normal": 4,
+              "dmg_critical": 6
+            }
           }
         ],
         "abilities": [
           {
+            "id": "2374ca80-b729-40b8-b56c-b294bceed113",
+            "name": "BANSHEE MASK",
+            "rules": "Whenever this operative is fighting, worsen the Hit stat of the enemy operative\u2019s melee weapons by 1. This isn\u2019t cumulative with being injured."
+          },
+          {
             "id": "c1d2e3f4-a5b6-4c7d-8e9f-0123456789g7",
             "name": "Exarch",
-            "rules": "This operative can perform two Shoot or two Fight actions during its activation.",
+            "rules": "This operative can perform two <b>Shoot </b>or two <b>Fight </b>actions during its activation.",
             "weapons": [],
             "abilities": [],
             "actions": []
+          }
+        ],
+        "actions": []
+      },
+      {
+        "id": "2ca66ea7-8ec1-40ac-b275-19f29cecc7cf",
+        "name": "HOWLING BANSHEE WARRIOR",
+        "description": "The piercing, psychosonic scream that precedes the assault of these bone-armoured operatives renders those who hear it all but helpless. These shock waves buy the Howling Banshees time enough to strike, each one taking a head with a sweep of their glittering power weapon",
+        "keywords": "<b><font color=\"#f55c29\">BLADES OF KHAINE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span>, AELDARI, ASURYANI, HOWLING BANSHEE, WARRIOR",
+        "stats": {
+          "apl": 3,
+          "move": 7,
+          "save": 4,
+          "wounds": 8,
+          "base_size": 28
+        },
+        "weapons": [
+          {
+            "id": "fba37d93-0c15-400b-a61e-7fd9bca7a35e",
+            "name": "SHURIKEN PISTOL ",
+            "type": "Ranged",
+            "rules": "Range 8\", Rending",
+            "stats": {
+              "attack": 4,
+              "hit": 3,
+              "dmg_normal": 3,
+              "dmg_critical": 4
+            }
+          },
+          {
+            "id": "4e461489-d260-40c6-8b08-2fbbd52500c3",
+            "name": "POWER WEAPON",
+            "type": "Melee",
+            "rules": "Lethal 5+",
+            "stats": {
+              "attack": 4,
+              "hit": 3,
+              "dmg_normal": 4,
+              "dmg_critical": 6
+            }
+          }
+        ],
+        "abilities": [
+          {
+            "id": "cdcebe95-058d-4a00-acd3-17b5b24b4637",
+            "name": "BANSHEE MASK",
+            "rules": "Whenever this operative is fighting, worsen the Hit stat of the enemy operative\u2019s melee weapons by 1. This isn\u2019t cumulative with being injured."
           }
         ],
         "actions": []
