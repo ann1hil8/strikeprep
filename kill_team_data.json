@@ -1219,10 +1219,98 @@
         "actions": []
       },
       {
+        "id": "08731732-4c06-4376-a3f4-06ff813bcd2c",
+        "name": "STRIKING SCORPION EXARCH\n",
+        "description": "These sinister figures are even more skilled than the Aspect Warriors they lead. With the gigantic chainsword known as the biting blade, a Striking Scorpion Exarch can cleave their foes in two with a single swing, and use their scorpion\u2019s claw to tear open Space Marine power armour with ease.",
+        "keywords": "<b><font color=\"#f55c29\">BLADES OF KHAINE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span>, AELDARI, ASURYANI, LEADER, STRIKING SCORPION, EXARCH",
+        "stats": {
+          "apl": 3,
+          "move": 7,
+          "save": 3,
+          "wounds": 9,
+          "base_size": 28
+        },
+        "weapons": [
+          {
+            "id": "a06c18d2-40e2-4ec1-881e-117c16594706",
+            "name": "SHURIKEN PISTOL",
+            "type": "Ranged",
+            "rules": "Range 8\", Rending",
+            "stats": {
+              "attack": 4,
+              "hit": 3,
+              "dmg_normal": 3,
+              "dmg_critical": 4
+            }
+          },
+          {
+            "id": "1dc11545-1067-446c-9ae8-f2cb4ef5c790",
+            "name": "TWIN SHURIKEN PISTOLS",
+            "type": "Ranged",
+            "rules": "Range 8\", Ceaseless, Rending",
+            "stats": {
+              "attack": 4,
+              "hit": 3,
+              "dmg_normal": 3,
+              "dmg_critical": 4
+            }
+          },
+          {
+            "id": "75362162-dbd6-447b-ae05-92d6f734c7aa",
+            "name": "BITING BLADE",
+            "type": "Melee",
+            "rules": "Rending",
+            "stats": {
+              "attack": 5,
+              "hit": 3,
+              "dmg_normal": 5,
+              "dmg_critical": 6
+            }
+          },
+          {
+            "id": "1e5c62b8-1002-4df5-9dfb-b7a6d62ff3db",
+            "name": "SCORPION\u2019S CLAW AND CHAINSWORD",
+            "type": "Melee",
+            "rules": "Brutal, Lethal 5+",
+            "stats": {
+              "attack": 5,
+              "hit": 3,
+              "dmg_normal": 4,
+              "dmg_critical": 6
+            }
+          },
+          {
+            "id": "3bcc5ab6-5d42-42b1-b6b4-d7315f155181",
+            "name": "TWIN CHAINSWORDS",
+            "type": "Melee",
+            "rules": "Ceaseless, Rending",
+            "stats": {
+              "attack": 5,
+              "hit": 3,
+              "dmg_normal": 4,
+              "dmg_critical": 5
+            }
+          }
+        ],
+        "abilities": [
+          {
+            "id": "e68e6e7c-b44e-4184-95f7-1404839215dd",
+            "name": "MANDIBLASTERS",
+            "rules": "Whenever this operative performs the <b>Fight </b>action, at the start of the Roll Attack Dice step, you can use this rule. If you do, inflict 2 damage on the enemy operative in that sequence."
+          },
+          {
+            "id": "6a0dafc6-eb84-4b03-9870-665d0de9b577",
+            "name": "EXARCH",
+            "rules": "This operative can perform two <b>Shoot </b>or two <b>Fight </b>actions during its activation."
+          }
+        ],
+        "actions": []
+      },
+      {
         "id": "b1c2d3e4-f5a6-4b7c-8d9e-0123456789b9",
         "name": "STRIKING SCORPION WARRIOR",
         "description": "With limitless patience, after stalking their prey for hours or waiting in position for days, Striking Scorpions burst from concealment. With chainswords whirring and mandiblasters spitting needles of white fire, the Aspect Warriors\u2019 emerald green armour is soon streaked red.",
-        "keywords": "BLADES OF KHAINE , AELDARI, ASURYANI, STRIKING SCORPION, WARRIOR",
+        "keywords": "<b><font color=\"#f55c29\">BLADES OF KHAINE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span>, AELDARI, ASURYANI, STRIKING SCORPION, WARRIOR",
         "stats": {
           "apl": 3,
           "move": 7,
@@ -1235,16 +1323,34 @@
             "id": "c1d2e3f4-a5b6-4c7d-8e9f-0123456789g8",
             "name": "SHURIKEN CATAPULT",
             "type": "Ranged",
-            "rules": "Rending",
+            "rules": "Range 8\", Rending",
             "stats": {
               "attack": 4,
               "hit": 3,
               "dmg_normal": 3,
               "dmg_critical": 4
             }
+          },
+          {
+            "id": "a1b5d3df-365e-4391-a64d-197d85e23043",
+            "name": "CHAINSWORD",
+            "type": "Melee",
+            "rules": "Rending",
+            "stats": {
+              "attack": 4,
+              "hit": 3,
+              "dmg_normal": 4,
+              "dmg_critical": 5
+            }
           }
         ],
-        "abilities": [],
+        "abilities": [
+          {
+            "id": "db01fde6-af56-485c-9961-8d20ab460ad3",
+            "name": "MANDIBLASTERS",
+            "rules": "Whenever this operative performs the <b>Fight </b>action, at the start of the Roll Attack Dice step, you can use this rule. If you do, inflict 2 damage on the enemy operative in that sequence."
+          }
+        ],
         "actions": []
       }
     ],
@@ -1254,7 +1360,23 @@
         "name": "FOREWARNED",
         "cp": null,
         "description": "Aspect Warriors go to battle armed with the foresight of their Craftworld\u2019s seers.",
-        "rules": "Whenever an operative is shooting a ready friendly BLADES OF KHAINE operative, you can re-roll any of your defence dice results of one result (e.g. results of 2).",
+        "rules": "Whenever an operative is shooting a ready friendly <b><font color=\"#f55c29\">BLADES OF KHAINE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative, you can re-roll any of your defence dice results of one result (e.g. results of 2).",
+        "weapons": [],
+        "abilities": [],
+        "actions": []
+      },
+      {
+        "id": "ba285891-4e80-4165-98a3-e31e0515dbc4",
+        "name": "RUTHLESS POISE\n",
+        "description": "Centuries of combat experience coupled with lightning reactions and exceptional grace render Aspect Warriors utterly lethal.",
+        "rules": "Whenever a friendly <b><font color=\"#f55c29\">BLADES OF KHAINE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative is fighting a ready enemy operative, that friendly operative\u2019s melee weapons have the Ceaseless weapon rule."
+      },
+      {
+        "id": "d1e2f3a4-b5c6-4d7e-8f9a-0123456789d6",
+        "name": "KHAINE\u2019S VENGEANCE",
+        "cp": null,
+        "description": "The Aspect Warriors draw upon the Bloody-Handed God\u2019s merciless example to dispatch their foes.",
+        "rules": "Whenever a friendly <b><font color=\"#f55c29\">BLADES OF KHAINE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative is shooting an expended enemy operative, that friendly operative\u2019s ranged weapons have the Ceaseless weapon rule.",
         "weapons": [],
         "abilities": [],
         "actions": []
@@ -1264,17 +1386,7 @@
         "name": "DANCE OF DEATH",
         "cp": null,
         "description": "Lithe, acrobatic and utterly deadly, Aeldari Aspect Warriors exchange tactical positions with flawless grace.",
-        "rules": "Select two friendly BLADES OF KHAINE operatives visible to and within 6\" of each other. Remove them both from the killzone and set them back up in each other\u2019s previous locations (in other words, swap their positions).",
-        "weapons": [],
-        "abilities": [],
-        "actions": []
-      },
-      {
-        "id": "d1e2f3a4-b5c6-4d7e-8f9a-0123456789d6",
-        "name": "KHAINE\u2019S VENGEANCE",
-        "cp": null,
-        "description": "The Aspect Warriors draw upon the Bloody-Handed God\u2019s merciless example to dispatch their foes.",
-        "rules": "Whenever a friendly BLADES OF KHAINE operative is shooting an expended enemy operative, that friendly operative\u2019s ranged weapons have the Ceaseless weapon rule.",
+        "rules": "Select two friendly <b style=\"\"><font color=\"#f55c29\">BLADES OF KHAINE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operatives visible to and within 6\" of each other. Remove them both from the killzone and set them back up in each other\u2019s previous locations (in other words, swap their positions).",
         "weapons": [],
         "abilities": [],
         "actions": []
@@ -1282,22 +1394,77 @@
     ],
     "firefight_ploys": [
       {
+        "id": "c1913f5f-5877-41c0-89f3-4cb554fd64a9",
+        "name": "BLADEWIND",
+        "description": "Aspect Warriors strike with speed and precision, their shining blades scything through the foe in a storm of steel.",
+        "rules": "Use this firefight ploy during a friendly <b><font color=\"#f55c29\">BLADES OF KHAINE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative\u2019s activation. During that activation, that operative can perform two <b>Fight </b>actions."
+      },
+      {
+        "id": "ccf2a47b-a8c5-41f8-85a5-46614a642bc6",
+        "name": "STARFALL",
+        "description": "With punishing fusillades of accurate shuriken fire do the Aspect Warriors fell their enemies.",
+        "rules": "Use this firefight ploy during a friendly <b><font color=\"#f55c29\">BLADES OF KHAINE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative\u2019s activation. During that activation, that operative can perform two <b>Shoot </b>actions."
+      },
+      {
+        "id": "46d23e9d-f479-4c07-a75f-7f0ac7573f5f",
+        "name": "FADING LIGHT\n",
+        "description": "The Aspect Warrior slips away into darkness, leaving their foe striking at nothing but shadow.",
+        "rules": "Use this firefight ploy during a friendly <b><font color=\"#f55c29\">BLADES OF KHAINE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative\u2019s activation, before or after it performs an action. During that activation, that operative can perform the <b>Fall Back</b> action for 1 less AP."
+      },
+      {
         "id": "e1f2a3b4-c5d6-4e7f-8a9b-0123456789e2",
         "name": "CONTEMPT",
         "description": "The martial superiority of the Aeldari species is expressed by their Aspect Warriors, who dance through incoming fire and heavy strikes with contemptuous ease.",
-        "rules": "Use this firefight ploy during a friendly BLADES OF KHAINE operative\u2019s activation, before or after it performs an action.",
+        "rules": "Use this firefight ploy when a friendly <b><font color=\"#f55c29\">BLADES OF KHAINE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative is retaliating or an enemy operative is shooting it, after your opponent rolls their attack dice, but before re-rolls. Until the end of the sequence, your opponent cannot re-roll their attack dice (if your opponent declared the use of any firefight ploys during that sequence that would allow them to re-roll, that ploy is cancelled and the CP spent on it is refunded).",
         "weapons": [],
         "abilities": [],
         "actions": []
       }
     ],
-    "equipment": [],
+    "equipment": [
+      {
+        "id": "af97fa28-d511-4265-a2f2-1d0b4daf964b",
+        "name": "RUNE OF PROPHECY\n",
+        "description": "Affixed to an Aspect Warrior\u2019s armour by a powerful seer, this warp-charged rune provides the bearer with a sliver of its creator\u2019s prophetic vision.",
+        "weapons": [],
+        "abilities": [],
+        "actions": [],
+        "rules": "Once per battle, after rolling off to decide initiative, you can add D3 to, or subtract D3 from, your result."
+      },
+      {
+        "id": "8a45f411-295b-490f-932f-78c5a46682ca",
+        "name": "RUNE OF SHIELDING\n",
+        "description": "Shimmering with empyric energy, this rune flares brightly when it suffers impact from an enemy weapon, turning aside bullet, bolt or blade.",
+        "weapons": [],
+        "abilities": [],
+        "actions": [],
+        "rules": "Once per battle, when an attack dice inflicts Normal Dmg on a friendly <b><font color=\"#f55c29\">BLADES OF KHAINE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative, you can ignore that inflicted damage."
+      },
+      {
+        "id": "6e407396-ff2a-41ab-9020-1132ac07dc56",
+        "name": "RUNE OF FORESIGHT\n",
+        "description": "The bearer foresees the battle to come, anticipating the movements of the foe and positioning their warriors with uncanny guile.",
+        "weapons": [],
+        "abilities": [],
+        "actions": [],
+        "rules": "When this equipment is revealed, roll one D3. In the Strategy phase of the turning point equal to the result, you gain 1 additional CP."
+      },
+      {
+        "id": "1a79c9c3-9976-4af6-a7de-98c9f73782ad",
+        "name": "WRAITHBONE TALISMAN\n",
+        "description": "Grown from living wraithbone material, this talisman lends the bearer strength and determination in the midst of battle.",
+        "weapons": [],
+        "abilities": [],
+        "actions": [],
+        "rules": "Once per turning point, when a friendly <b style=\"\"><font color=\"#f55c29\" style=\"\">BLADES OF KHAINE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative is shooting, fighting or retaliating, if you roll two or more fails, you can discard one of them to retain another as a normal success instead."
+      }
+    ],
     "rules": [
       {
         "id": "g1a2b3c4-d5e6-4f7a-8b9c-0123456789g3",
         "name": "ASPECT TECHNIQUES",
         "description": "Aspect Warriors are trained in myriad killing techniques, parrying blows and acrobatic movements. These are as breathtaking to behold as they are lethal to their foes.",
-        "rules": "Each ASPECT TECHNIQUE is in a category: Dire Avenger, Howling Banshee and Striking Scorpion. Each ASPECT TECHNIQUE can only be used with a friendly operative that has the matching Aspect keyword, and each will specify when it can be used and what its effects are. In addition:\n* You cannot use more than one ASPECT TECHNIQUE per activation or counteraction.\n* You cannot use each ASPECT TECHNIQUE more than once per turning point.\n* If every friendly BLADES OF KHAINE operative selected for deployment has the same Aspect keyword (e.g. STRIKING SCORPION), you cannot use each ASPECT TECHNIQUE more than twice per turning point (instead of once).\n\nHOWLING BANSHEE ASPECT TECHNIQUE\nTHE WOE: Howling Banshees are woe given form. Emitting sonic screeches from their helms, they hurl themselves into the stunned foe, the lightning speed of their swordplay cutting through the enemy before a blow can be landed in return.\nSCREAM-THAT-STEALS: Use this ASPECT TECHNIQUE when a friendly HOWLING BANSHEE operative is fighting or retaliating, at the start of the Resolve Attack Dice step. You can resolve one of your successes before the normal order. If you do, that success must be used to block.\nACROBATIC: Use this ASPECT TECHNIQUE when a friendly HOWLING BANSHEE operative performs an action in which it moves. Until the end of the action, that operative: Can ignore all vertical distances whenever it drops and climbs.\n\nDIRE AVENGER ASPECT TECHNIQUE\nUse this ASPECT TECHNIQUE when an operative is shooting a friendly DIRE AVENGER operative, and you\u2019ve rolled two or more fails. You can discard one of them to retain the other as a normal success instead.\nTHE SLICING HURRICANE: Use this ASPECT TECHNIQUE when a friendly DIRE AVENGER operative is performing the Reposition action. That operative can perform the Shoot action during that action (it must do so in a location it can be placed, and any remaining move distance it had from that Reposition action can be used after it does so). You must select its shuriken catapult, shuriken pistol or twin shuriken catapult for that Shoot action.\nDEATH OF A THOUSAND BLADES: Use this ASPECT TECHNIQUE when a friendly DIRE AVENGER operative is performing the Shoot action and you select a shuriken catapult or twin shuriken catapult. Until the end of that action, that weapon has the Torrent 2\" weapon rule, but you cannot select more than one secondary target.\n\nSTRIKING SCORPION ASPECT TECHNIQUE\nMERCILESS STRIKES: Use this ASPECT TECHNIQUE during a friendly STRIKING SCORPION operative\u2019s activation. Until the start of its next activation, while that operative has a Conceal order and is in cover, it cannot be selected as a valid target, taking precedence over all other rules (e.g. Seek, Vantage terrain) except being within 2\".",
+        "rules": "Each <b>ASPECT TECHNIQUE</b> is in a category: Dire Avenger, Howling Banshee and Striking Scorpion. <div>Each <b>ASPECT TECHNIQUE</b> can only be used with a friendly operative that has the matching Aspect keyword, and each will specify when it can be used and what its effects are. In addition:</div><div>\n\u2022 You cannot use more than one <b>ASPECT TECHNIQUE</b> per activation or counteraction.\n\u2022 You cannot use each <b>ASPECT TECHNIQUE</b> more than once per turning point.\n\u2022 If every friendly <b><font color=\"#f55c29\">BLADES OF KHAINE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative selected for deployment has the same Aspect keyword (e.g. <b>STRIKING SCORPION</b>), you cannot use each <b>ASPECT TECHNIQUE</b> more than twice per turning point (instead of once).\n\n<span style=\"background-color: rgb(245, 92, 41);\"> HOWLING BANSHEE ASPECT TECHNIQUE </span>\n<font color=\"#f55c29\"><b>THE WOE:</b></font> Howling Banshees are woe given form. Emitting sonic screeches from their helms, they hurl themselves into the stunned foe, the lightning speed of their swordplay cutting through the enemy before a blow can be landed in return.\nSCREAM-THAT-STEALS: Use this ASPECT TECHNIQUE when a friendly HOWLING BANSHEE operative is fighting or retaliating, at the start of the Resolve Attack Dice step. You can resolve one of your successes before the normal order. If you do, that success must be used to block.\nACROBATIC: Use this ASPECT TECHNIQUE when a friendly HOWLING BANSHEE operative performs an action in which it moves. Until the end of the action, that operative: Can ignore all vertical distances whenever it drops and climbs.\n\nDIRE AVENGER ASPECT TECHNIQUE\nUse this ASPECT TECHNIQUE when an operative is shooting a friendly DIRE AVENGER operative, and you\u2019ve rolled two or more fails. You can discard one of them to retain the other as a normal success instead.\nTHE SLICING HURRICANE: Use this ASPECT TECHNIQUE when a friendly DIRE AVENGER operative is performing the Reposition action. That operative can perform the Shoot action during that action (it must do so in a location it can be placed, and any remaining move distance it had from that Reposition action can be used after it does so). You must select its shuriken catapult, shuriken pistol or twin shuriken catapult for that Shoot action.\nDEATH OF A THOUSAND BLADES: Use this ASPECT TECHNIQUE when a friendly DIRE AVENGER operative is performing the Shoot action and you select a shuriken catapult or twin shuriken catapult. Until the end of that action, that weapon has the Torrent 2\" weapon rule, but you cannot select more than one secondary target.\n\nSTRIKING SCORPION ASPECT TECHNIQUE\nMERCILESS STRIKES: Use this ASPECT TECHNIQUE during a friendly STRIKING SCORPION operative\u2019s activation. Until the start of its next activation, while that operative has a Conceal order and is in cover, it cannot be selected as a valid target, taking precedence over all other rules (e.g. Seek, Vantage terrain) except being within 2\".</div>",
         "weapons": [],
         "abilities": [],
         "actions": []
