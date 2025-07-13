@@ -196,12 +196,18 @@
           {
             "id": "2cfecdea-750d-4659-813a-d4b116f687fb",
             "name": "DOCTRINE WARFARE",
-            "rules": "Whenever you would use the Combat Doctrine\nstrategy ploy and then select Assault or Tactical, if this operative\nis in the killzone, it costs you 0CP."
+            "rules": "Whenever you would use the Combat Doctrine\nstrategy ploy and then select Assault or Tactical, if this operative\nis in the killzone, it costs you 0CP.",
+            "weapons": [],
+            "abilities": [],
+            "actions": []
           },
           {
             "id": "0007adc5-c466-4b85-9158-75e8aa1f8f96",
             "name": "CHAPTER VETERAN",
-            "rules": "At the end of the Select Operatives step, if this operative is selected for deployment, select one additional <b>CHAPTER TACTIC</b> for it to have for the battle. Unlike primary and secondary <b>CHAPTER TACTICS</b>, you don\u2019t have to select the same one for each battle in a campaign or tournament."
+            "rules": "At the end of the Select Operatives step, if this operative is selected for deployment, select one additional <b>CHAPTER TACTIC</b> for it to have for the battle. Unlike primary and secondary <b>CHAPTER TACTICS</b>, you don\u2019t have to select the same one for each battle in a campaign or tournament.",
+            "weapons": [],
+            "abilities": [],
+            "actions": []
           }
         ],
         "actions": []
@@ -332,12 +338,18 @@
           {
             "id": "d332bb97-7f3a-4d3a-9131-afce85b7159c",
             "name": "DOCTRINE WARFARE",
-            "rules": "Whenever you would use the Combat Doctrine strategy ploy and then select Devastator or Tactical, if this operative is in the killzone, it costs you 0CP"
+            "rules": "Whenever you would use the Combat Doctrine strategy ploy and then select Devastator or Tactical, if this operative is in the killzone, it costs you 0CP",
+            "weapons": [],
+            "abilities": [],
+            "actions": []
           },
           {
             "id": "8f0f78a2-03a7-402c-a0ba-b59465fa94d9",
             "name": "CHAPTER VETERAN",
-            "rules": "At the end of the Select Operatives step, if this operative is selected for deployment, select one additional <b>CHAPTER TACTIC</b> for it to have for the battle. Unlike primary and secondary <b>CHAPTER TACTICS</b>, you don\u2019t have to select the same one for each battle in a campaign or tournament."
+            "rules": "At the end of the Select Operatives step, if this operative is selected for deployment, select one additional <b>CHAPTER TACTIC</b> for it to have for the battle. Unlike primary and secondary <b>CHAPTER TACTICS</b>, you don\u2019t have to select the same one for each battle in a campaign or tournament.",
+            "weapons": [],
+            "abilities": [],
+            "actions": []
           }
         ],
         "actions": []
@@ -384,7 +396,10 @@
           {
             "id": "3cc33d97-f26c-4a6c-a005-8fdcc4547667",
             "name": "GRENADIER",
-            "rules": "This operative can use frag and krak grenades (see universal equipment). Doing so doesn\u2019t count towards any limited uses you have (i.e. if you also select those grenades from equipment for other operatives). Whenever it\u2019s doing so, improve the Hit stat of that weapon by 1."
+            "rules": "This operative can use frag and krak grenades (see universal equipment). Doing so doesn\u2019t count towards any limited uses you have (i.e. if you also select those grenades from equipment for other operatives). Whenever it\u2019s doing so, improve the Hit stat of that weapon by 1.",
+            "weapons": [],
+            "abilities": [],
+            "actions": []
           }
         ],
         "actions": []
@@ -739,7 +754,10 @@
           {
             "id": "13cdd8e7-7969-4192-bb33-e9c0fe9be2fe",
             "name": "CAMO CLOAK",
-            "rules": "Whenever an operative is shooting this operative, ignore the Saturate weapon rule. This operative has the Stealthy <b>CHAPTER TACTIC</b>. If you selected that <b>CHAPTER TACTIC</b>, you can do both of its options (i.e. retain two cover saves \u2013 one normal and one critical success)."
+            "rules": "Whenever an operative is shooting this operative, ignore the Saturate weapon rule. This operative has the Stealthy <b>CHAPTER TACTIC</b>. If you selected that <b>CHAPTER TACTIC</b>, you can do both of its options (i.e. retain two cover saves \u2013 one normal and one critical success).",
+            "weapons": [],
+            "abilities": [],
+            "actions": []
           }
         ],
         "actions": [
@@ -772,7 +790,10 @@
         "id": "4f2eaacb-d83a-46b2-9003-8da954efbcab",
         "name": "AND THEY SHALL KNOW NO FEAR\n",
         "description": "Space Marines possess extraordinary courage and are utterly unflinching in the face of terrifying horrors and overwhelming odds.",
-        "rules": "You can ignore any changes to the stats of friendly <b><font color=\"#f55c29\">ANGEL OF DEATH</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operatives from being injured (including their weapons\u2019 stats)."
+        "rules": "You can ignore any changes to the stats of friendly <b><font color=\"#f55c29\">ANGEL OF DEATH</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operatives from being injured (including their weapons\u2019 stats).",
+        "weapons": [],
+        "abilities": [],
+        "actions": []
       },
       {
         "id": "d1e2f3a4-b5c6-4d7e-8f9a-0123456789d2",
@@ -800,7 +821,10 @@
         "id": "9e69e022-2491-4d1c-b3e1-b36a619b9605",
         "name": "ADJUST DOCTRINE",
         "description": "Adeptus Astartes kill teams adapt their strategies on the fly to overcome the foe. Swiftly traded hand signals and abrupt vox exchanges herald a shift in doctrine.",
-        "rules": "Use this firefight ploy during a friendly <b><font color=\"#f55c29\">ANGEL OF DEATH</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative\u2019s activation, before or after it performs an action. If you\u2019ve used the Combat Doctrine strategy ploy during this turning point, change the <b>COMBAT DOCTRINE</b> you selected."
+        "rules": "Use this firefight ploy during a friendly <b><font color=\"#f55c29\">ANGEL OF DEATH</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative\u2019s activation, before or after it performs an action. If you\u2019ve used the Combat Doctrine strategy ploy during this turning point, change the <b>COMBAT DOCTRINE</b> you selected.",
+        "weapons": [],
+        "abilities": [],
+        "actions": []
       },
       {
         "id": "e1f2a3b4-c5d6-4e7f-8a9b-0123456789e1",
@@ -815,13 +839,19 @@
         "id": "93f290e7-266b-43fb-b1d5-284ea9eb98fc",
         "name": "SHOCK ASSAULT",
         "description": "The Adeptus Astartes strike with exceptional speed and strength, the roar of chainswords and brutal assaults spelling death for their foes.",
-        "rules": "Use this firefight ploy when a friendly <b><font color=\"#f55c29\">ANGEL OF DEATH</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative is performing the <b>Fight </b>action during an activation in which it performed the <b>Charge </b>action, at the start of the Resolve Attack Dice step. Until the end of that action:<div>\n\u2022 Its melee weapon has the Shock weapon rule.\n\u2022 The first time you strike during that sequence, inflict 1 additional damage (to a maximum of 7).</div>"
+        "rules": "Use this firefight ploy when a friendly <b><font color=\"#f55c29\">ANGEL OF DEATH</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative is performing the <b>Fight </b>action during an activation in which it performed the <b>Charge </b>action, at the start of the Resolve Attack Dice step. Until the end of that action:<div>\n\u2022 Its melee weapon has the Shock weapon rule.\n\u2022 The first time you strike during that sequence, inflict 1 additional damage (to a maximum of 7).</div>",
+        "weapons": [],
+        "abilities": [],
+        "actions": []
       },
       {
         "id": "519cfda2-d169-4ee5-a3ee-1bfd7001cc66",
         "name": "WRATH OF VENGEANCE\n",
         "description": "When roused to anger, a battle-brother of the Adeptus Astartes may be spurred to acts of extraordinary strength and athleticism.",
-        "rules": "Use this firefight ploy when a friendly <b><font color=\"#f55c29\">ANGEL OF DEATH</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative is counteracting. It can perform an additional 1AP action for free during that counteraction, but both actions must be different."
+        "rules": "Use this firefight ploy when a friendly <b><font color=\"#f55c29\">ANGEL OF DEATH</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative is counteracting. It can perform an additional 1AP action for free during that counteraction, but both actions must be different.",
+        "weapons": [],
+        "abilities": [],
+        "actions": []
       }
     ],
     "equipment": [
@@ -867,19 +897,21 @@
         "id": "g1a2b3c4-d5e6-4f7a-8b9c-0123456789g1",
         "name": "CHAPTER TACTICS",
         "description": "Each Space Marine Chapter is a martial brotherhood with its own combat philosophies, suited to the unique skills and temperaments of its battle-brothers. These tenets of war may be clothed in esoteric rituals built up over thousands of years, but remain as brutally effective as when they were first laid down.",
-        "rules": "When selecting your kill team, select a primary and secondary <b>CHAPTER TACTIC</b> for friendly <b><font color=\"#f55c29\">ANGEL OF DEATH<i class=\"fas fa-skull\"></i></font></b> operatives to gain for the battle. Multiple instances of the same <b>CHAPTER TACTIC</b> aren\u2019t cumulative.<div>\n<b>Designer\u2019s Note:</b> If you\u2019re playing a series of games, i.e. a campaign or tournament, you must select the same primary and secondary <font color=\"#f55c29\">CHAPTER TACTIC</font> for every battle (you can still change the secondary with the Adaptive Tactics strategy ploy).*</div><div>\n<span style=\"background-color: rgb(245, 92, 41);\"> 1. AGGRESSIVE </span></div><div>    This operative\u2019s melee weapons have the Rending weapon rule.\n<span style=\"background-color: rgb(245, 92, 41);\"> 2. DUELLER </span></div><div>Once per sequence, whenever this operative is fighting or retaliating:\n  * One of your normal successes can block one unresolved critical success (unless the enemy operative\u2019s weapon has the Brutal weapon rule).\n  * One of your critical successes can block two unresolved normal successes (instead of one critical success).\n<span style=\"background-color: rgb(245, 92, 41);\"> 3. RESOLUTE </span></div><div>    You can ignore any changes to this operative\u2019s APL stat.</div><div><span style=\"background-color: rgb(245, 92, 41);\"> 4. STEALTHY </span>\n    Whenever an operative is shooting this operative, if you can retain any cover saves, you can retain one additional cover save, or you can retain one cover save as a critical success instead. This isn\u2019t cumulative with improved cover saves from Vantage terrain.\n<span style=\"background-color: rgb(245, 92, 41);\"> 5. MOBILE </span>\n    \u2022 This operative can perform the <b>Fall Back</b> action for 1 less AP.\n    \u2022 This operative can perform the <b>Charge </b>action while within control range of an enemy operative, and can leave that operative\u2019s control range to do so (but then normal requirements for that move apply).\n<span style=\"background-color: rgb(245, 92, 41);\"> 6. HARDY </span>\nWhenever an operative is shooting this operative, defence dice results of 5+ are critical successes.\n<span style=\"background-color: rgb(245, 92, 41);\"> 7. SHARPSHOOTER </span>\nWhenever this operative is shooting during an activation in which it hasn\u2019t performed the <b>Charge</b>, <b>Fall Back</b> or <b>Reposition </b>action, its bolt weapons have the Severe weapon rule.</div><div><span style=\"font-size: 0.875rem; background-color: rgb(245, 92, 41);\"> 8. SIEGE SPECIALIST </span></div><div><span style=\"font-size: 0.875rem;\">This operative\u2019s ranged weapons have the Saturate weapon rule.</span></div>",
+        "banner": "",
         "weapons": [],
         "abilities": [],
-        "actions": []
+        "actions": [],
+        "rules": "When selecting your kill team, select a primary and secondary <b>CHAPTER TACTIC</b> for friendly <b><font color=\"#f55c29\">ANGEL OF DEATH<i class=\"fas fa-skull\"></i></font></b> operatives to gain for the battle. Multiple instances of the same <b>CHAPTER TACTIC</b> aren\u2019t cumulative.<div>\n<b>Designer\u2019s Note:</b> If you\u2019re playing a series of games, i.e. a campaign or tournament, you must select the same primary and secondary <font color=\"#f55c29\">CHAPTER TACTIC</font> for every battle (you can still change the secondary with the Adaptive Tactics strategy ploy).*</div><div>\n<span style=\"background-color: rgb(245, 92, 41);\"> 1. AGGRESSIVE </span></div><div>    This operative\u2019s melee weapons have the Rending weapon rule.\n<span style=\"background-color: rgb(245, 92, 41);\"> 2. DUELLER </span></div><div>Once per sequence, whenever this operative is fighting or retaliating:\n  * One of your normal successes can block one unresolved critical success (unless the enemy operative\u2019s weapon has the Brutal weapon rule).\n  * One of your critical successes can block two unresolved normal successes (instead of one critical success).\n<span style=\"background-color: rgb(245, 92, 41);\"> 3. RESOLUTE </span></div><div>    You can ignore any changes to this operative\u2019s APL stat.</div><div><span style=\"background-color: rgb(245, 92, 41);\"> 4. STEALTHY </span>\n    Whenever an operative is shooting this operative, if you can retain any cover saves, you can retain one additional cover save, or you can retain one cover save as a critical success instead. This isn\u2019t cumulative with improved cover saves from Vantage terrain.\n<span style=\"background-color: rgb(245, 92, 41);\"> 5. MOBILE </span>\n    \u2022 This operative can perform the <b>Fall Back</b> action for 1 less AP.\n    \u2022 This operative can perform the <b>Charge </b>action while within control range of an enemy operative, and can leave that operative\u2019s control range to do so (but then normal requirements for that move apply).\n<span style=\"background-color: rgb(245, 92, 41);\"> 6. HARDY </span>\nWhenever an operative is shooting this operative, defence dice results of 5+ are critical successes.\n<span style=\"background-color: rgb(245, 92, 41);\"> 7. SHARPSHOOTER </span>\nWhenever this operative is shooting during an activation in which it hasn\u2019t performed the <b>Charge</b>, <b>Fall Back</b> or <b>Reposition </b>action, its bolt weapons have the Severe weapon rule.</div><div><span style=\"font-size: 0.875rem; background-color: rgb(245, 92, 41);\"> 8. SIEGE SPECIALIST </span></div><div><span style=\"font-size: 0.875rem;\">This operative\u2019s ranged weapons have the Saturate weapon rule.</span></div>"
       },
       {
         "id": "g1a2b3c4-d5e6-4f7a-8b9c-0123456789g2",
         "name": "ASTARTES",
         "description": "These genetically modified superhumans are made for one purpose: war.",
-        "rules": "During each friendly <b><font color=\"#f55c29\">ANGEL OF DEATH</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative\u2019s activation, it can perform either two <b>Shoot </b>actions or two <b>Fight </b>actions. If it\u2019s two <b>Shoot </b>actions, a bolt weapon must be selected for at least one of them, and if it\u2019s a bolt sniper rifle or heavy bolter, 1 additional AP must be spent for the second action if both actions are using that weapon.\n<br><div>Each friendly <b><font color=\"#f55c29\">ANGEL OF DEATH</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span><span style=\"font-size: 0.875rem;\"> operative can counteract regardless of its order.</span></div>",
+        "banner": "",
         "weapons": [],
         "abilities": [],
-        "actions": []
+        "actions": [],
+        "rules": "During each friendly <b><font color=\"#f55c29\">ANGEL OF DEATH</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative\u2019s activation, it can perform either two <b>Shoot </b>actions or two <b>Fight </b>actions. If it\u2019s two <b>Shoot </b>actions, a bolt weapon must be selected for at least one of them, and if it\u2019s a bolt sniper rifle or heavy bolter, 1 additional AP must be spent for the second action if both actions are using that weapon.\n<br><div>Each friendly <b><font color=\"#f55c29\">ANGEL OF DEATH</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span><span style=\"font-size: 0.875rem;\"> operative can counteract regardless of its order.</span></div>"
       }
     ]
   },
@@ -1016,7 +1048,10 @@
           {
             "id": "4a9cdc47-0681-4bbe-9556-7062a6095819",
             "name": "SHIMMERSHIELD",
-            "rules": "Whenever an operative is shooting a friendly <b><font color=\"#f55c29\">BLADES OF KHAINE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative that\u2019s visible to and within 2\" of this operative, ignore the Piercing weapon rule. This operative only has this rule if you select the shimmershield weapon option."
+            "rules": "Whenever an operative is shooting a friendly <b><font color=\"#f55c29\">BLADES OF KHAINE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative that\u2019s visible to and within 2\" of this operative, ignore the Piercing weapon rule. This operative only has this rule if you select the shimmershield weapon option.",
+            "weapons": [],
+            "abilities": [],
+            "actions": []
           }
         ],
         "actions": []
@@ -1063,7 +1098,10 @@
           {
             "id": "d758df87-dd01-4737-a92f-aad28c51200b",
             "name": "DEFENCE TACTICS",
-            "rules": "Whenever this operative contests an objective marker or one of your mission markers, or whenever it's shooting an enemy operative that does, this operative\u2019s weapons have the Balanced weapon rule."
+            "rules": "Whenever this operative contests an objective marker or one of your mission markers, or whenever it's shooting an enemy operative that does, this operative\u2019s weapons have the Balanced weapon rule.",
+            "weapons": [],
+            "abilities": [],
+            "actions": []
           }
         ],
         "actions": []
@@ -1158,7 +1196,10 @@
           {
             "id": "2374ca80-b729-40b8-b56c-b294bceed113",
             "name": "BANSHEE MASK",
-            "rules": "Whenever this operative is fighting, worsen the Hit stat of the enemy operative\u2019s melee weapons by 1. This isn\u2019t cumulative with being injured."
+            "rules": "Whenever this operative is fighting, worsen the Hit stat of the enemy operative\u2019s melee weapons by 1. This isn\u2019t cumulative with being injured.",
+            "weapons": [],
+            "abilities": [],
+            "actions": []
           },
           {
             "id": "c1d2e3f4-a5b6-4c7d-8e9f-0123456789g7",
@@ -1213,7 +1254,10 @@
           {
             "id": "cdcebe95-058d-4a00-acd3-17b5b24b4637",
             "name": "BANSHEE MASK",
-            "rules": "Whenever this operative is fighting, worsen the Hit stat of the enemy operative\u2019s melee weapons by 1. This isn\u2019t cumulative with being injured."
+            "rules": "Whenever this operative is fighting, worsen the Hit stat of the enemy operative\u2019s melee weapons by 1. This isn\u2019t cumulative with being injured.",
+            "weapons": [],
+            "abilities": [],
+            "actions": []
           }
         ],
         "actions": []
@@ -1296,12 +1340,18 @@
           {
             "id": "e68e6e7c-b44e-4184-95f7-1404839215dd",
             "name": "MANDIBLASTERS",
-            "rules": "Whenever this operative performs the <b>Fight </b>action, at the start of the Roll Attack Dice step, you can use this rule. If you do, inflict 2 damage on the enemy operative in that sequence."
+            "rules": "Whenever this operative performs the <b>Fight </b>action, at the start of the Roll Attack Dice step, you can use this rule. If you do, inflict 2 damage on the enemy operative in that sequence.",
+            "weapons": [],
+            "abilities": [],
+            "actions": []
           },
           {
             "id": "6a0dafc6-eb84-4b03-9870-665d0de9b577",
             "name": "EXARCH",
-            "rules": "This operative can perform two <b>Shoot </b>or two <b>Fight </b>actions during its activation."
+            "rules": "This operative can perform two <b>Shoot </b>or two <b>Fight </b>actions during its activation.",
+            "weapons": [],
+            "abilities": [],
+            "actions": []
           }
         ],
         "actions": []
@@ -1348,7 +1398,10 @@
           {
             "id": "db01fde6-af56-485c-9961-8d20ab460ad3",
             "name": "MANDIBLASTERS",
-            "rules": "Whenever this operative performs the <b>Fight </b>action, at the start of the Roll Attack Dice step, you can use this rule. If you do, inflict 2 damage on the enemy operative in that sequence."
+            "rules": "Whenever this operative performs the <b>Fight </b>action, at the start of the Roll Attack Dice step, you can use this rule. If you do, inflict 2 damage on the enemy operative in that sequence.",
+            "weapons": [],
+            "abilities": [],
+            "actions": []
           }
         ],
         "actions": []
@@ -1369,7 +1422,10 @@
         "id": "ba285891-4e80-4165-98a3-e31e0515dbc4",
         "name": "RUTHLESS POISE\n",
         "description": "Centuries of combat experience coupled with lightning reactions and exceptional grace render Aspect Warriors utterly lethal.",
-        "rules": "Whenever a friendly <b><font color=\"#f55c29\">BLADES OF KHAINE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative is fighting a ready enemy operative, that friendly operative\u2019s melee weapons have the Ceaseless weapon rule."
+        "rules": "Whenever a friendly <b><font color=\"#f55c29\">BLADES OF KHAINE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative is fighting a ready enemy operative, that friendly operative\u2019s melee weapons have the Ceaseless weapon rule.",
+        "weapons": [],
+        "abilities": [],
+        "actions": []
       },
       {
         "id": "d1e2f3a4-b5c6-4d7e-8f9a-0123456789d6",
@@ -1397,19 +1453,28 @@
         "id": "c1913f5f-5877-41c0-89f3-4cb554fd64a9",
         "name": "BLADEWIND",
         "description": "Aspect Warriors strike with speed and precision, their shining blades scything through the foe in a storm of steel.",
-        "rules": "Use this firefight ploy during a friendly <b><font color=\"#f55c29\">BLADES OF KHAINE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative\u2019s activation. During that activation, that operative can perform two <b>Fight </b>actions."
+        "rules": "Use this firefight ploy during a friendly <b><font color=\"#f55c29\">BLADES OF KHAINE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative\u2019s activation. During that activation, that operative can perform two <b>Fight </b>actions.",
+        "weapons": [],
+        "abilities": [],
+        "actions": []
       },
       {
         "id": "ccf2a47b-a8c5-41f8-85a5-46614a642bc6",
         "name": "STARFALL",
         "description": "With punishing fusillades of accurate shuriken fire do the Aspect Warriors fell their enemies.",
-        "rules": "Use this firefight ploy during a friendly <b><font color=\"#f55c29\">BLADES OF KHAINE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative\u2019s activation. During that activation, that operative can perform two <b>Shoot </b>actions."
+        "rules": "Use this firefight ploy during a friendly <b><font color=\"#f55c29\">BLADES OF KHAINE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative\u2019s activation. During that activation, that operative can perform two <b>Shoot </b>actions.",
+        "weapons": [],
+        "abilities": [],
+        "actions": []
       },
       {
         "id": "46d23e9d-f479-4c07-a75f-7f0ac7573f5f",
         "name": "FADING LIGHT\n",
         "description": "The Aspect Warrior slips away into darkness, leaving their foe striking at nothing but shadow.",
-        "rules": "Use this firefight ploy during a friendly <b><font color=\"#f55c29\">BLADES OF KHAINE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative\u2019s activation, before or after it performs an action. During that activation, that operative can perform the <b>Fall Back</b> action for 1 less AP."
+        "rules": "Use this firefight ploy during a friendly <b><font color=\"#f55c29\">BLADES OF KHAINE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative\u2019s activation, before or after it performs an action. During that activation, that operative can perform the <b>Fall Back</b> action for 1 less AP.",
+        "weapons": [],
+        "abilities": [],
+        "actions": []
       },
       {
         "id": "e1f2a3b4-c5d6-4e7f-8a9b-0123456789e2",
@@ -1464,10 +1529,174 @@
         "id": "g1a2b3c4-d5e6-4f7a-8b9c-0123456789g3",
         "name": "ASPECT TECHNIQUES",
         "description": "Aspect Warriors are trained in myriad killing techniques, parrying blows and acrobatic movements. These are as breathtaking to behold as they are lethal to their foes.",
-        "rules": "Each <b>ASPECT TECHNIQUE</b> is in a category: Dire Avenger, Howling Banshee and Striking Scorpion. <div>Each <b>ASPECT TECHNIQUE</b> can only be used with a friendly operative that has the matching Aspect keyword, and each will specify when it can be used and what its effects are. In addition:</div><div>\n\u2022 You cannot use more than one <b>ASPECT TECHNIQUE</b> per activation or counteraction.\n\u2022 You cannot use each <b>ASPECT TECHNIQUE</b> more than once per turning point.\n\u2022 If every friendly <b><font color=\"#f55c29\">BLADES OF KHAINE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative selected for deployment has the same Aspect keyword (e.g. <b>STRIKING SCORPION</b>), you cannot use each <b>ASPECT TECHNIQUE</b> more than twice per turning point (instead of once).\n\n<span style=\"background-color: rgb(245, 92, 41);\"> HOWLING BANSHEE ASPECT TECHNIQUE </span>\n<font color=\"#f55c29\"><b>THE WOE:</b></font> Howling Banshees are woe given form. Emitting sonic screeches from their helms, they hurl themselves into the stunned foe, the lightning speed of their swordplay cutting through the enemy before a blow can be landed in return.\nSCREAM-THAT-STEALS: Use this ASPECT TECHNIQUE when a friendly HOWLING BANSHEE operative is fighting or retaliating, at the start of the Resolve Attack Dice step. You can resolve one of your successes before the normal order. If you do, that success must be used to block.\nACROBATIC: Use this ASPECT TECHNIQUE when a friendly HOWLING BANSHEE operative performs an action in which it moves. Until the end of the action, that operative: Can ignore all vertical distances whenever it drops and climbs.\n\nDIRE AVENGER ASPECT TECHNIQUE\nUse this ASPECT TECHNIQUE when an operative is shooting a friendly DIRE AVENGER operative, and you\u2019ve rolled two or more fails. You can discard one of them to retain the other as a normal success instead.\nTHE SLICING HURRICANE: Use this ASPECT TECHNIQUE when a friendly DIRE AVENGER operative is performing the Reposition action. That operative can perform the Shoot action during that action (it must do so in a location it can be placed, and any remaining move distance it had from that Reposition action can be used after it does so). You must select its shuriken catapult, shuriken pistol or twin shuriken catapult for that Shoot action.\nDEATH OF A THOUSAND BLADES: Use this ASPECT TECHNIQUE when a friendly DIRE AVENGER operative is performing the Shoot action and you select a shuriken catapult or twin shuriken catapult. Until the end of that action, that weapon has the Torrent 2\" weapon rule, but you cannot select more than one secondary target.\n\nSTRIKING SCORPION ASPECT TECHNIQUE\nMERCILESS STRIKES: Use this ASPECT TECHNIQUE during a friendly STRIKING SCORPION operative\u2019s activation. Until the start of its next activation, while that operative has a Conceal order and is in cover, it cannot be selected as a valid target, taking precedence over all other rules (e.g. Seek, Vantage terrain) except being within 2\".</div>",
+        "banner": "",
         "weapons": [],
         "abilities": [],
-        "actions": []
+        "actions": [],
+        "rules": "Each <b>ASPECT TECHNIQUE</b> is in a category: Dire Avenger, Howling Banshee and Striking Scorpion. <div>Each <b>ASPECT TECHNIQUE</b> can only be used with a friendly operative that has the matching Aspect keyword, and each will specify when it can be used and what its effects are. In addition:</div><div>\n\u2022 You cannot use more than one <b>ASPECT TECHNIQUE</b> per activation or counteraction.\n\u2022 You cannot use each <b>ASPECT TECHNIQUE</b> more than once per turning point.\n\u2022 If every friendly <b><font color=\"#f55c29\">BLADES OF KHAINE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative selected for deployment has the same Aspect keyword (e.g. <b>STRIKING SCORPION</b>), you cannot use each <b>ASPECT TECHNIQUE</b> more than twice per turning point (instead of once).<br></div>"
+      },
+      {
+        "id": "e239f47b-ce4d-44d2-a550-2c64434a5add",
+        "name": "THE WOE\n",
+        "description": "Howling Banshees are woe given form. Emitting sonic screeches from their helms, they hurl themselves into the stunned foe, the lightning speed of their swordplay cutting through the enemy before a blow can be landed in return.",
+        "banner": "HOWLING BANSHEE ASPECT TECHNIQUE",
+        "weapons": [],
+        "abilities": [],
+        "actions": [],
+        "rules": "Use this <b>ASPECT TECHNIQUE</b> during a friendly <b>HOWLING BANSHEE</b> operative\u2019s activation, after it\u2019s performed the <b>Charge </b>action and incapacitated an enemy operative during the <b>Fight </b>action, and is no longer within control range of enemy operatives. That friendly operative can immediately perform a free <b>Charge </b>action using any remaining move distance it had from that first <b>Charge </b>action. That operative can perform two <b>Charge </b>actions during its activation to do so. The operative cannot have performed any other actions during this activation (but can do so after resolving this <b>ASPECT TECHNIQUE</b>)."
+      },
+      {
+        "id": "51163006-833e-4d93-87a6-520404990e2e",
+        "name": "RAIN OF TEARS\n",
+        "description": "Howling Banshees dive in and out of combat with infuriating speed and agility, making it almost impossible for those few who survive their most brutal attacks to strike in return.",
+        "banner": "HOWLING BANSHEE ASPECT TECHNIQUE",
+        "weapons": [],
+        "abilities": [],
+        "actions": [],
+        "rules": "Use this <b>ASPECT TECHNIQUE</b> when a friendly <b>HOWLING BANSHEE</b> operative is fighting, after you strike with a critical success. End that sequence (any remaining attack dice are discarded) and immediately perform a free <b>Dash </b>or <b>Fall Back</b> action up to 3\" with that operative (then the <b>Fight </b>action ends). That operative can do so even if it\u2019s performed an action that prevents it from performing the <b>Dash </b>or <b>Fall Back</b> action."
+      },
+      {
+        "id": "79d35698-a56c-4fe6-b3a7-e64dd1ddfdb2",
+        "name": "ACROBATIC",
+        "description": "When Howling Banshees traverse the battlefield, little slows them down. With effortless grace they leap and flip over intervening obstacles, landing with peerless poise and balance to drive their blades into the foe.",
+        "banner": "HOWLING BANSHEE ASPECT TECHNIQUE",
+        "weapons": [],
+        "abilities": [],
+        "actions": [],
+        "rules": "Use this <b>ASPECT TECHNIQUE</b> when a friendly <b>HOWLING BANSHEE</b> operative performs an action in which it moves. Until the end of the action, that operative:<div>\n\u2022 Can ignore all vertical distances whenever it drops and climbs.\n\u2022 Can move through enemy operatives, move within control range of them, and during the <b>Charge </b>action can leave their control range (it must still end the move following all requirements for that move).\n\u2022 Cannot move more than its Move stat if it\u2019s the <b>Charge </b>action.</div>"
+      },
+      {
+        "id": "c9422f9e-09d0-44b6-9dea-5245b37e8289",
+        "name": "SCREAM-THAT-STEALS\n",
+        "description": "Any hope the foe has of retaining the upper hand over a Howling Banshee is lost the moment the leaping Aspect Warrior activates their Banshee mask. Their senses overwhelmed, the enemy are all but helpless against the merciless melee attacks that follow.",
+        "banner": "HOWLING BANSHEE ASPECT TECHNIQUE",
+        "weapons": [],
+        "abilities": [],
+        "actions": [],
+        "rules": "Use this <b>ASPECT TECHNIQUE</b> when a friendly <b>HOWLING BANSHEE</b> operative is fighting or retaliating, at the start of the Resolve Attack Dice step. You can resolve one of your successes before the normal order. If you do, that success must be used to block."
+      },
+      {
+        "id": "361706e8-ee42-4392-bf96-17456fb60485",
+        "name": "SHRIEK-THAT-KILLS\n",
+        "description": "Those Howling Banshees who have learned how to focus their vocal chords correctly can emit a shriek so piercing and deafening that it can not only stun a foe, but liquefy their brain.",
+        "banner": "HOWLING BANSHEE ASPECT TECHNIQUE",
+        "weapons": [
+          {
+            "id": "502d0484-446c-47cd-b166-f0cfb43677a5",
+            "name": "SHRIEK-THAT-KILLS",
+            "type": "Ranged",
+            "rules": "Range 6\", Saturate, Seek Light, Stun, Torrent 1\"",
+            "stats": {
+              "attack": 6,
+              "hit": 3,
+              "dmg_normal": 1,
+              "dmg_critical": 2
+            }
+          }
+        ],
+        "abilities": [],
+        "actions": [],
+        "rules": "Use this <b>ASPECT TECHNIQUE</b> when a friendly <b>HOWLING BANSHEE</b> operative is performing the <b>Shoot </b>action. Until the end of that action, that operative can use the following ranged weapon:\n"
+      },
+      {
+        "id": "a63d5853-41b6-4355-a7bf-30dbcad0e8a8",
+        "name": "THE SLICING HURRICANE\n",
+        "description": "Trained to embrace supreme tactical flexibility, Dire Avengers are capable of unleashing clouds of razor-sharp shuriken while moving to secure ground or slipping out of reach of the foe.",
+        "banner": "DIRE AVENGER ASPECT TECHNIQUE",
+        "weapons": [],
+        "abilities": [],
+        "actions": [],
+        "rules": "Use this <b>ASPECT TECHNIQUE</b> when a friendly <b>DIRE AVENGER</b> operative is performing the <b>Reposition </b>action. That operative can perform the <b>Shoot </b>action during that action (it must do so in a location it can be placed, and any remaining move distance it had from that <b>Reposition </b>action can be used after it does so). You must select its shuriken catapult, shuriken pistol or twin shuriken catapult for that <b>Shoot </b>action."
+      },
+      {
+        "id": "42164c0c-6906-46ac-8beb-fd5ef071b66f",
+        "name": "DEATH OF A THOUSAND BLADES\n",
+        "description": "Dire Avengers can unleash great deluges of monomolecular shuriken from their weapons. These lethal volleys echo the Death of a Thousand Blades \u2013 the punishment that Khaine meted out upon traitors, cheats and others he deemed unworthy of a clean kill.",
+        "banner": "DIRE AVENGER ASPECT TECHNIQUE",
+        "weapons": [],
+        "abilities": [],
+        "actions": [],
+        "rules": "Use this <b>ASPECT TECHNIQUE</b> when a friendly <b>DIRE AVENGER</b> operative is performing the <b>Shoot </b>action and you select a shuriken catapult or twin shuriken catapult. Until the end of that action, that weapon has the Torrent 2\" weapon rule, but you cannot select more than one secondary target."
+      },
+      {
+        "id": "be55665a-7d1d-4d59-a2aa-e3df37b9f3a3",
+        "name": "VIGILANCE OF THE AVENGER\n",
+        "description": "The noble warrior who is tasked with punishing the unjust and the criminal must be ever vigilant. Their eyes must be keen and their aim must be true.",
+        "banner": "DIRE AVENGER ASPECT TECHNIQUE",
+        "weapons": [],
+        "abilities": [],
+        "actions": [],
+        "rules": "&nbsp;Use this <b>ASPECT TECHNIQUE</b> when a friendly <b>DIRE AVENGER</b> operative is performing the <b>Shoot </b>action and you select a shuriken catapult or twin shuriken catapult. Until the end of that action, that weapon has the Lethal 5+ weapon rule."
+      },
+      {
+        "id": "76591c8e-5e1b-4876-afab-e47e88a6dda0",
+        "name": "UNSTINTING, IMMOVABLE\n",
+        "description": "Dire Avengers wear armour fashioned from psycho-sensitive thermoplas scales that are reactive to impact. When suffering a blow, the armour stiffens to spread the energy across the wearer. On top of this flexible suit, these Aspect Warriors wear bone-like plates over the most vulnerable areas of their body.",
+        "banner": "DIRE AVENGER ASPECT TECHNIQUE",
+        "weapons": [],
+        "abilities": [],
+        "actions": [],
+        "rules": "Use this <b>ASPECT TECHNIQUE</b> when an operative is shooting a friendly <b>DIRE AVENGER</b> operative, and you\u2019ve rolled two or more fails. You can discard one of them to retain the other as a normal success instead."
+      },
+      {
+        "id": "ca1ab7ef-8dcf-47d5-84c1-f2a3c710be44",
+        "name": "RAGING HEAT OF THE DYING FLAME\n",
+        "description": "The flames upon shrines of Asuryan possess a searing heat and never burn out, even if they dwindle. Thus does the Dire Avenger strive to imitate these flames, equally dangerous to the foe regardless of the injuries they sustain.",
+        "banner": "DIRE AVENGER ASPECT TECHNIQUE",
+        "weapons": [],
+        "abilities": [],
+        "actions": [],
+        "rules": "Use this <b>ASPECT TECHNIQUE</b> during a friendly <b>DIRE AVENGER</b> operative\u2019s activation. Until the start of that operative\u2019s next activation, you can ignore any changes to its stats from being injured (including its weapons\u2019 stats)."
+      },
+      {
+        "id": "7f39cee1-8149-4b10-ae84-7de068e6f01a",
+        "name": "PATIENT STALK, SUDDEN BLOW\n",
+        "description": "Carefully concealed in cover or in shadows, Striking Scorpions stalk their oblivious prey, manoeuvring around their targets in complete silence to select the optimum position to launch their killing strike.",
+        "banner": "STRIKING SCORPION ASPECT TECHNIQUE",
+        "weapons": [],
+        "abilities": [],
+        "actions": [],
+        "rules": "Use this <b>ASPECT TECHNIQUE</b> when a friendly <b>STRIKING SCORPION</b> operative that has a Conceal order performs the <b>Reposition </b>action. During that action, that operative can move within control range of enemy operatives (it cannot end the move there), and you can inflict D3+2 damage on one enemy operative it moved within control range of after it\u2019s moved."
+      },
+      {
+        "id": "6c3ac8a8-57fd-4bb3-80c7-be5ba3dd4ab4",
+        "name": "STRIKE AND FADE\n",
+        "description": "Masters of the hit and run attack, Striking Scorpions withdraw from combat as suddenly as they strike, disappearing into shadow like murderous spirits.",
+        "banner": "STRIKING SCORPION ASPECT TECHNIQUE",
+        "weapons": [],
+        "abilities": [],
+        "actions": [],
+        "rules": "Use this <b>ASPECT TECHNIQUE</b> when a friendly <b>STRIKING SCORPION</b> operative incapacitates an enemy operative while fighting or retaliating, and is no longer within 3\" of enemy operatives. Change that friendly operative\u2019s order to Conceal and it can immediately perform a free <b>Dash </b>action, even if it\u2019s performed an action that prevents it from performing the <b>Dash </b>action."
+      },
+      {
+        "id": "e55c0b0a-3d80-409b-aa56-8f4762727c59",
+        "name": "SCORPION\u2019S EYE\n",
+        "description": "A Striking Scorpion\u2019s shuriken pistol has a viewfinder psychically linked to its bearer. With it, the Aspect Warrior can see through multiple spectra as well as swiftly identify friend from foe.",
+        "banner": "STRIKING SCORPION ASPECT TECHNIQUE",
+        "weapons": [],
+        "abilities": [],
+        "actions": [],
+        "rules": "Use this <b>ASPECT TECHNIQU</b>E when a friendly <b>STRIKING SCORPION</b> operative is performing the <b>Shoot </b>action and you select a shuriken pistol. Until the end of that action, that weapon has the Seek Light weapon rule."
+      },
+      {
+        "id": "e99449fb-e13e-4a45-acc2-2b202b2185b3",
+        "name": "MERCILESS STRIKES\n",
+        "description": "When Striking Scorpions launch their assault, they attack with relentless ferocity, landing blow after blow to grant the enemy no moment or reprieve.",
+        "banner": "STRIKING SCORPION ASPECT TECHNIQUE",
+        "weapons": [],
+        "abilities": [],
+        "actions": [],
+        "rules": "Use this <b>ASPECT TECHNIQUE</b> when a friendly <b>STRIKING SCORPION</b> operative is fighting, the first time you strike with a critical success during that sequence. Until the end of that sequence, that operative\u2019s melee weapon has the Shock weapon rule."
+      },
+      {
+        "id": "a8b6f3bb-262b-47b2-aec9-47be37c9f7b5",
+        "name": "ONE WITH THE GLOOM\n",
+        "description": "Years of strict training render Striking Scorpions capable of blending uncannily with the shadows, waiting for the perfect moment to attack their unsuspecting foes with terrifying accuracy.",
+        "banner": "STRIKING SCORPION ASPECT TECHNIQUE",
+        "weapons": [],
+        "abilities": [],
+        "actions": [],
+        "rules": "Use this <b>ASPECT TECHNIQUE</b> during a friendly <b>STRIKING SCORPION</b> operative\u2019s activation. Until the start of its next activation, while that operative has a Conceal order and is in cover, it cannot be selected as a valid target, taking precedence over all other rules (e.g. Seek, Vantage terrain) except being within 2\"."
       }
     ]
   },
@@ -2009,19 +2238,21 @@
         "id": "g1a2b3c4-d5e6-4f7a-8b9c-0123456789g4",
         "name": "BLOODED",
         "description": "The Blooded seek to earn the favour of malign warp entities by hurling themselves into combat and slaying the most potent foes. Should they die in the attempt, their souls may serve as acceptable sacrifices.",
-        "rules": "You gain one Blooded token:\n* In the Ready step of each Strategy phase.\n* The first time an enemy operative is incapacitated during the battle.",
+        "banner": "",
         "weapons": [],
         "abilities": [],
-        "actions": []
+        "actions": [],
+        "rules": "You gain one Blooded token:\n* In the Ready step of each Strategy phase.\n* The first time an enemy operative is incapacitated during the battle."
       },
       {
         "id": "g1a2b3c4-d5e6-4f7a-8b9c-0123456789g5",
         "name": "CROSSFIRE",
         "description": "Combined with their advanced coordination skills, the professional training and high-grade weapons of Brood Brothers make them a deadly threat. With a sinister synchronicity born of the alien Broodmind that worms through their psyche, these soldiers are capable of a concentration of firepower or a harmonising of blows that is ferociously effective.",
-        "rules": "Whenever an enemy operative that has one or more of your Crossfire tokens is shooting against or fighting against a friendly BROOD BROTHER operative, that friendly operative\u2019s weapons have the Relentless weapon rule.",
+        "banner": "",
         "weapons": [],
         "abilities": [],
-        "actions": []
+        "actions": [],
+        "rules": "Whenever an enemy operative that has one or more of your Crossfire tokens is shooting against or fighting against a friendly BROOD BROTHER operative, that friendly operative\u2019s weapons have the Relentless weapon rule."
       }
     ]
   },
@@ -2919,10 +3150,11 @@
         "id": "g1a2b3c4-d5e6-4f7a-8b9c-0123456789g6",
         "name": "ACCURSED GIFTS",
         "description": "Accursed followers of Chaos are blessed by the gods with a horrifying array of mutations. Chiropteran wings, rigid horns, wicked claws and dextrous tentacles: all of these diabolical gifts are used to devastating effect.",
-        "rules": "1. Deformed Wings: Whenever this operative is climbing up, you can treat the vertical distance as 2\" (regardless of how far the operative actually moves vertically). Whenever this operative is dropping, ignore the vertical distance.\n2. Fleet: Add 1\" to this operative\u2019s Move stat.\n3. Chitinous: Improve this operative\u2019s Save stat by 1.",
+        "banner": "",
         "weapons": [],
         "abilities": [],
-        "actions": []
+        "actions": [],
+        "rules": "1. Deformed Wings: Whenever this operative is climbing up, you can treat the vertical distance as 2\" (regardless of how far the operative actually moves vertically). Whenever this operative is dropping, ignore the vertical distance.\n2. Fleet: Add 1\" to this operative\u2019s Move stat.\n3. Chitinous: Improve this operative\u2019s Save stat by 1."
       }
     ]
   },
@@ -3280,10 +3512,11 @@
         "id": "g1a2b3c4-d5e6-4f7a-8b9c-0123456789g7",
         "name": "AELDARI RAIDERS",
         "description": "Aeldari are lithe, graceful and swift \u2013 qualities the Corsair Voidscarred utilise to outmanoeuvre their enemies.",
-        "rules": "Each friendly CORSAIR VOIDSCARRED operative can perform a free Dash action during their activation.",
+        "banner": "",
         "weapons": [],
         "abilities": [],
-        "actions": []
+        "actions": [],
+        "rules": "Each friendly CORSAIR VOIDSCARRED operative can perform a free Dash action during their activation."
       }
     ]
   },
@@ -4128,10 +4361,11 @@
         "id": "g1a2b3c4-d5e6-4f7a-8b9c-0123456789g8",
         "name": "GUARDSMEN ORDERS",
         "description": "The soldiers of the Death Korps of Krieg are unquestioningly loyal to their officers, following barked orders with a speed and efficiency that is the envy of many other regiments.",
-        "rules": "STRATEGIC GAMBIT and SUPPORT. A friendly DEATH KORPS WATCHMASTER operative can issue a GUARDSMAN ORDER. Whenever it does, select one GUARDSMAN ORDER for all friendly DEATH KORPS operatives within 6\" of it to receive.\nWhenever a friendly operative receives a GUARDSMAN ORDER, apply its rules until the end of the turning point. Operatives cannot benefit from more than one GUARDSMAN ORDER at once; they only benefit from the most recent order they received during the turning point.\nGUARDSMEN ORDERS OPTIONS ARE PRESENTED ON THEIR OWN CARD\nTake Aim! R Move stats cannot be worsened.",
+        "banner": "",
         "weapons": [],
         "abilities": [],
-        "actions": []
+        "actions": [],
+        "rules": "STRATEGIC GAMBIT and SUPPORT. A friendly DEATH KORPS WATCHMASTER operative can issue a GUARDSMAN ORDER. Whenever it does, select one GUARDSMAN ORDER for all friendly DEATH KORPS operatives within 6\" of it to receive.\nWhenever a friendly operative receives a GUARDSMAN ORDER, apply its rules until the end of the turning point. Operatives cannot benefit from more than one GUARDSMAN ORDER at once; they only benefit from the most recent order they received during the turning point.\nGUARDSMEN ORDERS OPTIONS ARE PRESENTED ON THEIR OWN CARD\nTake Aim! R Move stats cannot be worsened."
       }
     ]
   },
@@ -4378,10 +4612,11 @@
         "id": "uuid-adaptable-terms",
         "name": "ADAPTABLE TERMS",
         "description": "When: At the end of the second turning point.\nEffect: Select a new tac op or a new primary op. If you select a new tac op, any points scored from the previous tac op are discarded.",
-        "rules": "When: At the end of the second turning point.\nEffect: Select a new tac op or a new primary op. If you select a new tac op, any points scored from the previous tac op are discarded.",
+        "banner": "",
         "weapons": [],
         "abilities": [],
-        "actions": []
+        "actions": [],
+        "rules": "When: At the end of the second turning point.\nEffect: Select a new tac op or a new primary op. If you select a new tac op, any points scored from the previous tac op are discarded."
       }
     ]
   },
@@ -4717,19 +4952,21 @@
         "id": "uuid-ruthless-efficiency",
         "name": "RUTHLESS EFFICIENCY",
         "description": "A target, whether marked to be apprehended or eliminated, stands little chance of escaping the attention of an Adeptus Arbites Exaction Squad.",
-        "rules": "Whenever a friendly EXACTION SQUAD  operative is shooting (excluding with frag or krak grenades) and you\u2019re selecting a valid target, you can use this rule. If you do, having other friendly EXACTION SQUAD  operatives within an enemy operative\u2019s control range doesn\u2019t prevent that enemy operative from being selected.",
+        "banner": "",
         "weapons": [],
         "abilities": [],
-        "actions": []
+        "actions": [],
+        "rules": "Whenever a friendly EXACTION SQUAD  operative is shooting (excluding with frag or krak grenades) and you\u2019re selecting a valid target, you can use this rule. If you do, having other friendly EXACTION SQUAD  operatives within an enemy operative\u2019s control range doesn\u2019t prevent that enemy operative from being selected."
       },
       {
         "id": "uuid-repress",
         "name": "REPRESS",
         "description": "Experienced in suppressing riots, rebellions and various other kinds of unrest, the Adeptus Arbites are resilient in the face of any oncoming foe, no matter their origin.",
-        "rules": null,
+        "banner": "",
         "weapons": [],
         "abilities": [],
-        "actions": []
+        "actions": [],
+        "rules": null
       }
     ]
   },
@@ -5195,10 +5432,11 @@
         "id": "uuid-farstalker",
         "name": "FARSTALKER",
         "description": "Farstalker Kindbands move and fight instinctively, reacting to developing battlefield conditions with an inhuman speed of thought.",
-        "rules": "In the Ready step of each Strategy phase, you can change the order of up to three friendly FARSTALKER KINBAND  operatives that are not within control range of enemy operatives.\nWhenever it\u2019s your turn to counteract, you can change the order of one friendly FARSTALKER KINBAND  operative that\u2019s not within control range of enemy operatives instead. This still counts as you counteracting (so activation alternates back to your opponent afterwards), but doesn\u2019t count as that friendly operative\u2019s counteraction for this turning point.",
+        "banner": "",
         "weapons": [],
         "abilities": [],
-        "actions": []
+        "actions": [],
+        "rules": "In the Ready step of each Strategy phase, you can change the order of up to three friendly FARSTALKER KINBAND  operatives that are not within control range of enemy operatives.\nWhenever it\u2019s your turn to counteract, you can change the order of one friendly FARSTALKER KINBAND  operative that\u2019s not within control range of enemy operatives instead. This still counts as you counteracting (so activation alternates back to your opponent afterwards), but doesn\u2019t count as that friendly operative\u2019s counteraction for this turning point."
       }
     ]
   },
@@ -5625,10 +5863,11 @@
         "id": "RL_FR_FRENZY",
         "name": "FRENZY",
         "description": "Fellgor Ravagers channel their pain into an animalistic frenzy, dismissing wounds and bursting with aggression.",
-        "rules": "Whenever a friendly *FELLGOR RAVAGER* operative that doesn\u2019t have one of your Frenzy tokens would be incapacitated during the battle, it\u2019s not incapacitated and it gains one of your Frenzy tokens. All remaining attack dice are discarded (including yours if this operative is fighting or retaliating). If it has a Conceal order, change it to Engage.\nWhenever a friendly *FELLGOR RAVAGER* operative has one of your Frenzy tokens:\n* It\u2019s only incapacitated as detailed overleaf. (Note: 'overleaf' refers to content not provided in these excerpts).\n* It cannot have a Conceal order.\n* It\u2019s injured.\n* It cannot perform the Pick Up Marker or mission actions (excluding Operate Hatch).\n* For the purpose of determining control of markers, treat its APL stat as 1. This takes precedence over any stat changes.\nIts activation or counteraction ends.",
+        "banner": "",
         "weapons": [],
         "abilities": [],
-        "actions": []
+        "actions": [],
+        "rules": "Whenever a friendly *FELLGOR RAVAGER* operative that doesn\u2019t have one of your Frenzy tokens would be incapacitated during the battle, it\u2019s not incapacitated and it gains one of your Frenzy tokens. All remaining attack dice are discarded (including yours if this operative is fighting or retaliating). If it has a Conceal order, change it to Engage.\nWhenever a friendly *FELLGOR RAVAGER* operative has one of your Frenzy tokens:\n* It\u2019s only incapacitated as detailed overleaf. (Note: 'overleaf' refers to content not provided in these excerpts).\n* It cannot have a Conceal order.\n* It\u2019s injured.\n* It cannot perform the Pick Up Marker or mission actions (excluding Operate Hatch).\n* For the purpose of determining control of markers, treat its APL stat as 1. This takes precedence over any stat changes.\nIts activation or counteraction ends."
       }
     ]
   },
@@ -6169,37 +6408,41 @@
         "id": "RL_GI_NIGHTMARE_HULKS",
         "name": "NIGHTMARE HULKS",
         "description": "Several among the infected have had their forms bloated and swollen into enormous twisted creatures, blessed with the bounteous gifts of Nurgle. Though made powerful by such mutations, these monstrosities are somewhat clumsy in their movements.",
-        "rules": "Whenever your opponent is selecting a valid target, friendly *GELLERPOX INFECTED NIGHTMARE HULK* operatives cannot use Light terrain for cover. While this can allow such operatives to be targeted (assuming they\u2019re visible), it doesn\u2019t remove their cover save (if any).\nFriendly *GELLERPOX INFECTED NIGHTMARE HULK* operatives cannot perform unique actions. You must spend 1 additional AP for friendly *GELLERPOX INFECTED NIGHTMARE HULK* operatives (excluding *VULGRAR THRICE-CURSED*) to perform the Pick Up Marker and mission actions (excluding Operate Hatch).",
+        "banner": "",
         "weapons": [],
         "abilities": [],
-        "actions": []
+        "actions": [],
+        "rules": "Whenever your opponent is selecting a valid target, friendly *GELLERPOX INFECTED NIGHTMARE HULK* operatives cannot use Light terrain for cover. While this can allow such operatives to be targeted (assuming they\u2019re visible), it doesn\u2019t remove their cover save (if any).\nFriendly *GELLERPOX INFECTED NIGHTMARE HULK* operatives cannot perform unique actions. You must spend 1 additional AP for friendly *GELLERPOX INFECTED NIGHTMARE HULK* operatives (excluding *VULGRAR THRICE-CURSED*) to perform the Pick Up Marker and mission actions (excluding Operate Hatch)."
       },
       {
         "id": "RL_GI_REVOLTINGLY_RESILIENT",
         "name": "REVOLTINGLY RESILIENT",
         "description": "The monstrous transformations wrought upon these hulking brutes have rendered their aberrant physiologies incredibly resistant to harm.",
-        "rules": "Whenever an attack dice inflicts damage of 3 or more on a friendly *GELLERPOX INFECTED NIGHTMARE HULK* or *GELLERPOX INFECTED MUTANT* operative, roll one D6: on a 4+, subtract 1 from that inflicted damage.",
+        "banner": "",
         "weapons": [],
         "abilities": [],
-        "actions": []
+        "actions": [],
+        "rules": "Whenever an attack dice inflicts damage of 3 or more on a friendly *GELLERPOX INFECTED NIGHTMARE HULK* or *GELLERPOX INFECTED MUTANT* operative, roll one D6: on a 4+, subtract 1 from that inflicted damage."
       },
       {
         "id": "RL_GI_MUTOID_VERMIN",
         "name": "MUTOID VERMIN",
         "description": "Tiny pests become monstrous threats under the effects of the Gellerpox, but are still grubs that can be ignored by highly trained warriors.",
-        "rules": "*MUTOID VERMIN* operatives cannot perform any actions other than Charge, Dash, Fall Back, Fight, Reposition and Shoot, or use any weapons that aren't on their datacard. They can perform the Fall Back action for 1 less AP.\n*MUTOID VERMIN* operatives cannot contest markers or areas of the killzone, and are ignored for your opponent\u2019s kill/elimination op (when they're incapacitated, and when determining your starting number of operatives). They're also ignored for victory conditions and scoring VPs if either require operatives to \u2018escape\u2019, \u2018survive\u2019 or be incapacitated by enemy operatives (if they escape/survive/are incapacitated, determining how many operatives must escape/survive/be incapacitated, etc.).",
+        "banner": "",
         "weapons": [],
         "abilities": [],
-        "actions": []
+        "actions": [],
+        "rules": "*MUTOID VERMIN* operatives cannot perform any actions other than Charge, Dash, Fall Back, Fight, Reposition and Shoot, or use any weapons that aren't on their datacard. They can perform the Fall Back action for 1 less AP.\n*MUTOID VERMIN* operatives cannot contest markers or areas of the killzone, and are ignored for your opponent\u2019s kill/elimination op (when they're incapacitated, and when determining your starting number of operatives). They're also ignored for victory conditions and scoring VPs if either require operatives to \u2018escape\u2019, \u2018survive\u2019 or be incapacitated by enemy operatives (if they escape/survive/are incapacitated, determining how many operatives must escape/survive/be incapacitated, etc.)."
       },
       {
         "id": "RL_GI_TECHNO_CURSE",
         "name": "TECHNO-CURSE",
         "description": "At the end of the Select Operatives step, select one *TECHNO-CURSE* for friendly *GELLERPOX INFECTED* operatives to gain for the battle.",
-        "rules": "At the end of the Select Operatives step, select one *TECHNO-CURSE* for friendly *GELLERPOX INFECTED* operatives to gain for the battle. Whenever an enemy operative is within your selected *TECHNO-CURSE\u2019s* infection range, that enemy operative is affected by the symptom of the selected *TECHNO-CURSE*. Each *TECHNO-CURSE*, its infection range and its symptom is listed below:\n* **Barrelwarp**: As the Gellerpox infects ranged weapons, it warps barrels and corrodes rifling, reducing the effectiveness of such weapons. Infection Range: Within 2\" of a friendly *GELLERPOX INFECTED* operative (excluding *MUTOID VERMIN*), or within 3\" of a friendly *GELLERPOX INFECTED GLITCHLING* operative. Symptom: Subtract 1 from the Atk stat of that enemy operative\u2019s ranged weapons.\n* **Screaming Rustspikes**: Blades equipped by the enemy become strange and twisted, with spikes bursting from sword grips to pierce the flesh of the wielder. Infection Range: Within control range of a friendly *GELLERPOX INFECTED* operative (excluding *MUTOID VERMIN*). Symptom: Whenever that enemy operative is fighting or retaliating against a friendly *GELLERPOX INFECTED* operative, if your opponent discards any attack dice as a fail, inflict 1 damage on that enemy operative.\n* **Viral Vox-static**: Not explicitly stated in source.  Infection Range: Within 3\" of a friendly *GELLERPOX INFECTED* operative (excluding *MUTOID VERMIN*), or within 4\" of a friendly *GELLERPOX INFECTED GLITCHLING* operative. Symptom: That enemy operative\u2019s APL stat cannot be added to (remove all positive APL stat changes it has).",
+        "banner": "",
         "weapons": [],
         "abilities": [],
-        "actions": []
+        "actions": [],
+        "rules": "At the end of the Select Operatives step, select one *TECHNO-CURSE* for friendly *GELLERPOX INFECTED* operatives to gain for the battle. Whenever an enemy operative is within your selected *TECHNO-CURSE\u2019s* infection range, that enemy operative is affected by the symptom of the selected *TECHNO-CURSE*. Each *TECHNO-CURSE*, its infection range and its symptom is listed below:\n* **Barrelwarp**: As the Gellerpox infects ranged weapons, it warps barrels and corrodes rifling, reducing the effectiveness of such weapons. Infection Range: Within 2\" of a friendly *GELLERPOX INFECTED* operative (excluding *MUTOID VERMIN*), or within 3\" of a friendly *GELLERPOX INFECTED GLITCHLING* operative. Symptom: Subtract 1 from the Atk stat of that enemy operative\u2019s ranged weapons.\n* **Screaming Rustspikes**: Blades equipped by the enemy become strange and twisted, with spikes bursting from sword grips to pierce the flesh of the wielder. Infection Range: Within control range of a friendly *GELLERPOX INFECTED* operative (excluding *MUTOID VERMIN*). Symptom: Whenever that enemy operative is fighting or retaliating against a friendly *GELLERPOX INFECTED* operative, if your opponent discards any attack dice as a fail, inflict 1 damage on that enemy operative.\n* **Viral Vox-static**: Not explicitly stated in source.  Infection Range: Within 3\" of a friendly *GELLERPOX INFECTED* operative (excluding *MUTOID VERMIN*), or within 4\" of a friendly *GELLERPOX INFECTED GLITCHLING* operative. Symptom: That enemy operative\u2019s APL stat cannot be added to (remove all positive APL stat changes it has)."
       }
     ]
   },
@@ -6498,19 +6741,21 @@
         "id": "RL_GM_RUNES_OF_KHORNE",
         "name": "RUNES OF KHORNE",
         "description": "Khornate runes carved into the flesh of Goremongers give them an infernal resistance to ranged attacks.",
-        "rules": "Whenever an operative is shooting a friendly *GOREMONGER* operative that's not within control range of enemy operatives, you can re-roll one of your defence dice.",
+        "banner": "",
         "weapons": [],
         "abilities": [],
-        "actions": []
+        "actions": [],
+        "rules": "Whenever an operative is shooting a friendly *GOREMONGER* operative that's not within control range of enemy operatives, you can re-roll one of your defence dice."
       },
       {
         "id": "RL_GM_SANGUAVITAE",
         "name": "SANGUAVITAE",
         "description": "The blood-infused concoction within the Goremongers\u2019 tanks is known as sanguavitae. Empowered by this fluid, they can undertake gore-drenched deeds far beyond the capabilities of most Humans. Through these acts they emulate Bloodletters and venerate Khorne.",
-        "rules": "At the start of the Ready step of each Strategy phase, roll one D6: on a 4+, increase your GORE TANK. When your GORE TANK is full, you gain 1CP.\nWhenever a friendly *GOREMONGER* operative incapacitates an operative within its control range, or visible to and within 2\" of it, you can increase its GORE TANK.\nWhenever a friendly *GOREMONGER* operative uses a *SANGUAVITAE* rule, you must decrease its GORE TANK.\n(Note: The specific 'SANGUAVITAE' rules are not provided in the excerpts beyond the general mechanics.)",
+        "banner": "",
         "weapons": [],
         "abilities": [],
-        "actions": []
+        "actions": [],
+        "rules": "At the start of the Ready step of each Strategy phase, roll one D6: on a 4+, increase your GORE TANK. When your GORE TANK is full, you gain 1CP.\nWhenever a friendly *GOREMONGER* operative incapacitates an operative within its control range, or visible to and within 2\" of it, you can increase its GORE TANK.\nWhenever a friendly *GOREMONGER* operative uses a *SANGUAVITAE* rule, you must decrease its GORE TANK.\n(Note: The specific 'SANGUAVITAE' rules are not provided in the excerpts beyond the general mechanics.)"
       }
     ]
   },
@@ -6846,10 +7091,11 @@
         "id": "RL_HOA_POWER_FROM_PAIN",
         "name": "POWER FROM PAIN",
         "description": "Not explicitly stated in source.",
-        "rules": "You gain 1 Pain token: At the start of the battle. In the Ready step of each Strategy phase. The first time an enemy operative is incapacitated during the battle. You can spend 1 of your Pain tokens to use one of the following rules for the friendly *HAND OF THE ARCHON* operative that is the specified operative for that rule:\n* **Vitalised Surge**: After the operative incapacitates an enemy operative and that enemy operative is removed from the killzone. Effect: The operative can immediately perform a free Dash action, even if it\u2019s performed an action that prevents it from performing the Dash action.\n* **Stimulated Senses**: After rolling your attack or defence dice for the operative. Effect: You can re-roll one of your dice.",
+        "banner": "",
         "weapons": [],
         "abilities": [],
-        "actions": []
+        "actions": [],
+        "rules": "You gain 1 Pain token: At the start of the battle. In the Ready step of each Strategy phase. The first time an enemy operative is incapacitated during the battle. You can spend 1 of your Pain tokens to use one of the following rules for the friendly *HAND OF THE ARCHON* operative that is the specified operative for that rule:\n* **Vitalised Surge**: After the operative incapacitates an enemy operative and that enemy operative is removed from the killzone. Effect: The operative can immediately perform a free Dash action, even if it\u2019s performed an action that prevents it from performing the Dash action.\n* **Stimulated Senses**: After rolling your attack or defence dice for the operative. Effect: You can re-roll one of your dice."
       }
     ]
   },
@@ -8209,19 +8455,21 @@
         "id": "uuid-placeholder-0113",
         "name": "DAUNTLESS EXPLORERS",
         "description": "STRATEGIC GAMBIT in the first turning point. Each friendly HERNKYN YAEGIR operative wholly within your drop zone can immediately perform a free Reposition action. Each that does so must end that move wholly within 4\" of your drop zone.",
-        "rules": "STRATEGIC GAMBIT in the first turning point. Each friendly HERNKYN YAEGIR operative wholly within your drop zone can immediately perform a free Reposition action. Each that does so must end that move wholly within 4\" of your drop zone.",
+        "banner": "",
         "weapons": [],
         "abilities": [],
-        "actions": []
+        "actions": [],
+        "rules": "STRATEGIC GAMBIT in the first turning point. Each friendly HERNKYN YAEGIR operative wholly within your drop zone can immediately perform a free Reposition action. Each that does so must end that move wholly within 4\" of your drop zone."
       },
       {
         "id": "uuid-placeholder-0114",
         "name": "RESOURCEFUL",
         "description": "In the Ready step of each Strategy phase after the first, you gain Resourceful points determined by the number of friendly HERNKYN YAEGIR operatives in the killzone that aren\u2019t within control range of enemy operatives. At the end of each turning point, discard your Resourceful points.\nWhenever a friendly HERNKYN YAEGIR operative that isn\u2019t within control range of enemy operatives is activated, you can spend 1 of your Resourceful points to do one of the following:\n* Until the end of its activation, add 1 to its APL stat.\n* It regains up to D3+1 lost wounds.",
-        "rules": "In the Ready step of each Strategy phase after the first, you gain Resourceful points determined by the number of friendly HERNKYN YAEGIR operatives in the killzone that aren\u2019t within control range of enemy operatives. At the end of each turning point, discard your Resourceful points.\nWhenever a friendly HERNKYN YAEGIR operative that isn\u2019t within control range of enemy operatives is activated, you can spend 1 of your Resourceful points to do one of the following:\n* Until the end of its activation, add 1 to its APL stat.\n* It regains up to D3+1 lost wounds.",
+        "banner": "",
         "weapons": [],
         "abilities": [],
-        "actions": []
+        "actions": [],
+        "rules": "In the Ready step of each Strategy phase after the first, you gain Resourceful points determined by the number of friendly HERNKYN YAEGIR operatives in the killzone that aren\u2019t within control range of enemy operatives. At the end of each turning point, discard your Resourceful points.\nWhenever a friendly HERNKYN YAEGIR operative that isn\u2019t within control range of enemy operatives is activated, you can spend 1 of your Resourceful points to do one of the following:\n* Until the end of its activation, add 1 to its APL stat.\n* It regains up to D3+1 lost wounds."
       }
     ]
   },
@@ -8692,28 +8940,31 @@
         "id": "uuid-placeholder-0151",
         "name": "REANIMATION PROTOCOLS",
         "description": "The first time each friendly HIEROTEK CIRCLE operative is incapacitated, before it\u2019s removed from the killzone, place one of your Reanimation markers within its control range. Then remove it as incapacitated, also removing any tokens and rules effects it had (e.g. CHRONOMANCER operative\u2019s Chronometron action, Poison tokens, APL stat changes, being implanted, etc.).\n* It has 1 wound remaining.\n* It has an order of your choice and is ready.\n* Remove that Reanimation marker.\nAs REANIMATED operatives are no longer incapacitated, for the purposes of the kill op, this means your opponent\u2019s kill grade can go down during the battle (they lose VP accordingly). However, it won\u2019t retroactively change any other VPs your opponent has scored, e.g. from tac ops.",
-        "rules": "The first time each friendly HIEROTEK CIRCLE operative is incapacitated, before it\u2019s removed from the killzone, place one of your Reanimation markers within its control range. Then remove it as incapacitated, also removing any tokens and rules effects it had (e.g. CHRONOMANCER operative\u2019s Chronometron action, Poison tokens, APL stat changes, being implanted, etc.).\n* It has 1 wound remaining.\n* It has an order of your choice and is ready.\n* Remove that Reanimation marker.\nAs REANIMATED operatives are no longer incapacitated, for the purposes of the kill op, this means your opponent\u2019s kill grade can go down during the battle (they lose VP accordingly). However, it won\u2019t retroactively change any other VPs your opponent has scored, e.g. from tac ops.",
+        "banner": "",
         "weapons": [],
         "abilities": [],
-        "actions": []
+        "actions": [],
+        "rules": "The first time each friendly HIEROTEK CIRCLE operative is incapacitated, before it\u2019s removed from the killzone, place one of your Reanimation markers within its control range. Then remove it as incapacitated, also removing any tokens and rules effects it had (e.g. CHRONOMANCER operative\u2019s Chronometron action, Poison tokens, APL stat changes, being implanted, etc.).\n* It has 1 wound remaining.\n* It has an order of your choice and is ready.\n* Remove that Reanimation marker.\nAs REANIMATED operatives are no longer incapacitated, for the purposes of the kill op, this means your opponent\u2019s kill grade can go down during the battle (they lose VP accordingly). However, it won\u2019t retroactively change any other VPs your opponent has scored, e.g. from tac ops."
       },
       {
         "id": "uuid-placeholder-0152",
         "name": "MAGNIFY",
         "description": "Whenever this operative is performing the Shoot action with this weapon, if another friendly HIEROTEK CIRCLE APPRENTEK or HIEROTEK CIRCLE CRYPTEK operative has an Engage order and is visible to this operative, you can use this rule. If you do, treat that operative as the active operative for the purposes of determining a valid target, cover and obscured. If you do, this weapon has the Ceaseless weapon rule until the end of that action.",
-        "rules": "Whenever this operative is performing the Shoot action with this weapon, if another friendly HIEROTEK CIRCLE APPRENTEK or HIEROTEK CIRCLE CRYPTEK operative has an Engage order and is visible to this operative, you can use this rule. If you do, treat that operative as the active operative for the purposes of determining a valid target, cover and obscured. If you do, this weapon has the Ceaseless weapon rule until the end of that action.",
+        "banner": "",
         "weapons": [],
         "abilities": [],
-        "actions": []
+        "actions": [],
+        "rules": "Whenever this operative is performing the Shoot action with this weapon, if another friendly HIEROTEK CIRCLE APPRENTEK or HIEROTEK CIRCLE CRYPTEK operative has an Engage order and is visible to this operative, you can use this rule. If you do, treat that operative as the active operative for the purposes of determining a valid target, cover and obscured. If you do, this weapon has the Ceaseless weapon rule until the end of that action."
       },
       {
         "id": "uuid-placeholder-0153",
         "name": "LIVING METAL",
         "description": "The Necrons\u2019 semi-sentient metal skin enables them to heal devastating damage in the midst of battle.\nIn the Ready step of each Strategy phase, after resolving all other rules in this step (e.g. Reanimation Protocols faction rule), each friendly HIEROTEK CIRCLE operative regains D3+1 lost wounds (roll separately for each).",
-        "rules": "The Necrons\u2019 semi-sentient metal skin enables them to heal devastating damage in the midst of battle.\nIn the Ready step of each Strategy phase, after resolving all other rules in this step (e.g. Reanimation Protocols faction rule), each friendly HIEROTEK CIRCLE operative regains D3+1 lost wounds (roll separately for each).",
+        "banner": "",
         "weapons": [],
         "abilities": [],
-        "actions": []
+        "actions": [],
+        "rules": "The Necrons\u2019 semi-sentient metal skin enables them to heal devastating damage in the midst of battle.\nIn the Ready step of each Strategy phase, after resolving all other rules in this step (e.g. Reanimation Protocols faction rule), each friendly HIEROTEK CIRCLE operative regains D3+1 lost wounds (roll separately for each)."
       }
     ]
   },
@@ -9771,10 +10022,11 @@
         "id": "uuid-placeholder-0241",
         "name": "DOCTRINA IMPERATIVES",
         "description": "At the end of the Select Operatives step, select one DOCTRINA IMPERATIVE to be a Primary Mode for your kill team until the end of the battle (note that selecting a Primary Mode doesn\u2019t automatically give you the effects of that DOCTRINA IMPERATIVE for the battle; you must still select it as a STRATEGIC GAMBIT, as below).\nSTRATEGIC GAMBIT. Select one DOCTRINA IMPERATIVE for friendly HUNTER CLADE operatives to have until the Ready step of the next Strategy phase. Each DOCTRINA IMPERATIVE has both an Optimisation and a Deprecation rule. Both are in effect while your kill team has that DOCTRINA IMPERATIVE. Once per battle, when you select the DOCTRINA IMPERATIVE that\u2019s your kill team\u2019s Primary Mode, you can ignore its Deprecation rule.\nBulwark Imperative Optimisation changed to read: \u2018Normal Dmg of 3 or more inflicts 1 less damage on friendly HUNTER CLADE operatives.\u2019.",
-        "rules": "At the end of the Select Operatives step, select one DOCTRINA IMPERATIVE to be a Primary Mode for your kill team until the end of the battle (note that selecting a Primary Mode doesn\u2019t automatically give you the effects of that DOCTRINA IMPERATIVE for the battle; you must still select it as a STRATEGIC GAMBIT, as below).\nSTRATEGIC GAMBIT. Select one DOCTRINA IMPERATIVE for friendly HUNTER CLADE operatives to have until the Ready step of the next Strategy phase. Each DOCTRINA IMPERATIVE has both an Optimisation and a Deprecation rule. Both are in effect while your kill team has that DOCTRINA IMPERATIVE. Once per battle, when you select the DOCTRINA IMPERATIVE that\u2019s your kill team\u2019s Primary Mode, you can ignore its Deprecation rule.\nBulwark Imperative Optimisation changed to read: \u2018Normal Dmg of 3 or more inflicts 1 less damage on friendly HUNTER CLADE operatives.\u2019.",
+        "banner": "",
         "weapons": [],
         "abilities": [],
-        "actions": []
+        "actions": [],
+        "rules": "At the end of the Select Operatives step, select one DOCTRINA IMPERATIVE to be a Primary Mode for your kill team until the end of the battle (note that selecting a Primary Mode doesn\u2019t automatically give you the effects of that DOCTRINA IMPERATIVE for the battle; you must still select it as a STRATEGIC GAMBIT, as below).\nSTRATEGIC GAMBIT. Select one DOCTRINA IMPERATIVE for friendly HUNTER CLADE operatives to have until the Ready step of the next Strategy phase. Each DOCTRINA IMPERATIVE has both an Optimisation and a Deprecation rule. Both are in effect while your kill team has that DOCTRINA IMPERATIVE. Once per battle, when you select the DOCTRINA IMPERATIVE that\u2019s your kill team\u2019s Primary Mode, you can ignore its Deprecation rule.\nBulwark Imperative Optimisation changed to read: \u2018Normal Dmg of 3 or more inflicts 1 less damage on friendly HUNTER CLADE operatives.\u2019."
       }
     ]
   },
@@ -11336,10 +11588,11 @@
         "id": "inquisitorial-requisition",
         "name": "INQUISITORIAL REQUISITION",
         "description": "Few authorities in the Imperium have greater jurisdiction than the Inquisition. An Inquisitor can, on a whim, requisition forces from virtually any of the Imperium\u2019s military branches.",
-        "rules": "REQUISITIONED operatives can be taken from one of the following groups to supplement an INQUISITORIAL AGENT kill team, as specified in this kill team\u2019s selection rules:\n  \u2022 DEATH KORPS\n  \u2022 EXACTION SQUAD\n  \u2022 IMPERIAL NAVY BREACHER\n  \u2022 KASRKIN\n  \u2022 SISTER OF SILENCE\n  \u2022 TEMPESTUS SCION\nThese operatives have their faction keyword replaced in all instances on their datacards with INQUISITORIAL AGENT (unless they already have it). You cannot use ploys and equipment associated with a REQUISITIONED operative\u2019s former faction keyword, and you cannot use a REQUISITIONED operative\u2019s former faction rules unless specified on their Inquisitorial Requisition card (it only applies to those REQUISITIONED operatives). Note that with their new faction keyword, REQUISITIONED operatives can interact with the INQUISITORIAL AGENT rules.\nFor example, a REQUISITIONED VOX-OPERATOR operative from the DEATH KORPS group would have its DEATH KORPS keyword replaced in all instances on its datacard with INQUISITORIAL AGENT. This allows you to select any other friendly INQUISITORIAL AGENT operative for its Signal unique action. However, the Guardsman Orders faction rule isn\u2019t permitted, so its Relay Orders additional rule would be ignored. It would now also be a valid operative for the INQUISITORIAL AGENT MYSTIC operative\u2019s Scry unique action.",
+        "banner": "",
         "weapons": [],
         "abilities": [],
-        "actions": []
+        "actions": [],
+        "rules": "REQUISITIONED operatives can be taken from one of the following groups to supplement an INQUISITORIAL AGENT kill team, as specified in this kill team\u2019s selection rules:\n  \u2022 DEATH KORPS\n  \u2022 EXACTION SQUAD\n  \u2022 IMPERIAL NAVY BREACHER\n  \u2022 KASRKIN\n  \u2022 SISTER OF SILENCE\n  \u2022 TEMPESTUS SCION\nThese operatives have their faction keyword replaced in all instances on their datacards with INQUISITORIAL AGENT (unless they already have it). You cannot use ploys and equipment associated with a REQUISITIONED operative\u2019s former faction keyword, and you cannot use a REQUISITIONED operative\u2019s former faction rules unless specified on their Inquisitorial Requisition card (it only applies to those REQUISITIONED operatives). Note that with their new faction keyword, REQUISITIONED operatives can interact with the INQUISITORIAL AGENT rules.\nFor example, a REQUISITIONED VOX-OPERATOR operative from the DEATH KORPS group would have its DEATH KORPS keyword replaced in all instances on its datacard with INQUISITORIAL AGENT. This allows you to select any other friendly INQUISITORIAL AGENT operative for its Signal unique action. However, the Guardsman Orders faction rule isn\u2019t permitted, so its Relay Orders additional rule would be ignored. It would now also be a valid operative for the INQUISITORIAL AGENT MYSTIC operative\u2019s Scry unique action."
       }
     ]
   },
@@ -13414,10 +13667,11 @@
         "id": "legionaries-marks-of-chaos",
         "name": "MARKS OF CHAOS",
         "description": "By making dark pacts with the Ruinous Powers, Legionaries may increase their own might. Yet such bargains rarely come without a cost. [19]",
-        "rules": "Whenever you select a LEGIONARY operative for the battle, you must select one of the following keywords for it to have for that battle: KHORNE, NURGLE, SLAANESH, TZEENTCH, UNDIVIDED. Each operative\u2019s keyword can be different, but a BALEFIRE ACOLYTE operative cannot have the KHORNE keyword. [19]",
+        "banner": "",
         "weapons": [],
         "abilities": [],
-        "actions": []
+        "actions": [],
+        "rules": "Whenever you select a LEGIONARY operative for the battle, you must select one of the following keywords for it to have for that battle: KHORNE, NURGLE, SLAANESH, TZEENTCH, UNDIVIDED. Each operative\u2019s keyword can be different, but a BALEFIRE ACOLYTE operative cannot have the KHORNE keyword. [19]"
       }
     ]
   },
@@ -13683,10 +13937,11 @@
         "id": "mandrakes-soulstrike",
         "name": "SOULSTRIKE",
         "description": "The balefire hurled by the Mandrakes burns cold and fierce, fed by the tinder of their victim\u2019s life force and animus. Conventional armour offers little protection against this insidious force. [27]",
-        "rules": "Successful defence dice are determined differently. Each result that\u2019s equal to or less than the target\u2019s APL stat is a success and is retained. Each result that\u2019s higher than the target\u2019s APL stat is a fail and is discarded. Each result of 1 is always a critical success. Each other success is a normal success. Each result of 6 is always a fail. [28]",
+        "banner": "",
         "weapons": [],
         "abilities": [],
-        "actions": []
+        "actions": [],
+        "rules": "Successful defence dice are determined differently. Each result that\u2019s equal to or less than the target\u2019s APL stat is a success and is retained. Each result that\u2019s higher than the target\u2019s APL stat is a fail and is discarded. Each result of 1 is always a critical success. Each other success is a normal success. Each result of 6 is always a fail. [28]"
       }
     ]
   },
@@ -14346,10 +14601,11 @@
         "id": "nemesis-claw-astartes",
         "name": "ASTARTES",
         "description": "These genetically modified superhumans are made for one purpose: war. [39]",
-        "rules": "During each friendly NEMESIS CLAW operative\u2019s activation, it can perform either two Shoot actions or two Fight actions. If it\u2019s two Shoot actions, a bolt pistol, boltgun or scoped bolt pistol must be selected for at least one of them. This operative can counteract regardless of its order. [39]",
+        "banner": "",
         "weapons": [],
         "abilities": [],
-        "actions": []
+        "actions": [],
+        "rules": "During each friendly NEMESIS CLAW operative\u2019s activation, it can perform either two Shoot actions or two Fight actions. If it\u2019s two Shoot actions, a bolt pistol, boltgun or scoped bolt pistol must be selected for at least one of them. This operative can counteract regardless of its order. [39]"
       }
     ]
   },
@@ -14918,10 +15174,11 @@
         "id": "novitiates-acts-of-faith",
         "name": "ACTS OF FAITH",
         "description": "Novitiates harness their fervent faith to perform miraculous acts on the battlefield. [48, 50, 52, 53]",
-        "rules": "Your kill team generates Faith points, which can be spent to empower their actions or activate special abilities. The accumulation and expenditure of Faith points are central to the Novitiates' combat style.",
+        "banner": "",
         "weapons": [],
         "abilities": [],
-        "actions": []
+        "actions": [],
+        "rules": "Your kill team generates Faith points, which can be spent to empower their actions or activate special abilities. The accumulation and expenditure of Faith points are central to the Novitiates' combat style."
       }
     ]
   },
@@ -15815,10 +16072,11 @@
         "id": "f5a6b7c8-d9e0-f1a2-b3c4-d5e6f7a8b9c0",
         "name": "MARKERLIGHTS",
         "description": "Markerlights are precision targeting beams used by T'au forces [5, 6, 9, 14, 15, 18, 19, 23].",
-        "rules": "Whenever a friendly PATHFINDER operative performs the Markerlight action on their datacard, the selected enemy operative gains one of your Markerlight tokens (if it doesn\u2019t already have one) [5, 6, 9, 14, 15, 18, 19].\nWhenever an enemy operative has one of your Markerlight tokens:\n * Whenever an operative is shooting that enemy operative, you can re-roll one of your attack dice.\n * Whenever that enemy operative performs a Normal Move, Dash, Charge or Fall Back action, subtract 2\" from its Move stat [6].",
+        "banner": "",
         "weapons": [],
         "abilities": [],
-        "actions": []
+        "actions": [],
+        "rules": "Whenever a friendly PATHFINDER operative performs the Markerlight action on their datacard, the selected enemy operative gains one of your Markerlight tokens (if it doesn\u2019t already have one) [5, 6, 9, 14, 15, 18, 19].\nWhenever an enemy operative has one of your Markerlight tokens:\n * Whenever an operative is shooting that enemy operative, you can re-roll one of your attack dice.\n * Whenever that enemy operative performs a Normal Move, Dash, Charge or Fall Back action, subtract 2\" from its Move stat [6]."
       }
     ]
   },
@@ -16567,37 +16825,41 @@
         "id": "z6a7b8c9-d0e1-f2g3-h4i5-j6k7l8m9n0o1",
         "name": "ASTARTES",
         "description": "These genetically modified superhumans are made for one purpose: war [45].",
-        "rules": "During each friendly PHOBOS STRIKE TEAM operative\u2019s activation, it can perform either two Shoot actions or two Fight actions. If it\u2019s two Shoot actions, a bolt weapon must be selected for at least one of them. A bolt weapon is any ranged weapon that includes \u2018bolt\u2019 in its name, e.g. marksman bolt carbine, special issue bolt pistol, etc.\nEach friendly PHOBOS STRIKE TEAM operative can counteract regardless of its order [45].",
+        "banner": "",
         "weapons": [],
         "abilities": [],
-        "actions": []
+        "actions": [],
+        "rules": "During each friendly PHOBOS STRIKE TEAM operative\u2019s activation, it can perform either two Shoot actions or two Fight actions. If it\u2019s two Shoot actions, a bolt weapon must be selected for at least one of them. A bolt weapon is any ranged weapon that includes \u2018bolt\u2019 in its name, e.g. marksman bolt carbine, special issue bolt pistol, etc.\nEach friendly PHOBOS STRIKE TEAM operative can counteract regardless of its order [45]."
       },
       {
         "id": "a7b8c9d0-e1f2-g3h4-i5j6-k7l8m9n0o1p2",
         "name": "MULTI-SPECTRUM ARRAY",
         "description": "Feeding into the auto-senses of the bearer\u2019s armour, the multi-spectrum array\u2019s powerful augurs help to reveal hidden foes [46].",
-        "rules": "Whenever a friendly INCURSOR operative is shooting, enemy operatives cannot be obscured [46].",
+        "banner": "",
         "weapons": [],
         "abilities": [],
-        "actions": []
+        "actions": [],
+        "rules": "Whenever a friendly INCURSOR operative is shooting, enemy operatives cannot be obscured [46]."
       },
       {
         "id": "b8c9d0e1-f2g3-h4i5-j6k7-l8m9n0o1p2q3",
         "name": "DURABLE",
         "description": "Phobos Strike Team operatives possess transhuman durability [47].",
-        "rules": "You can ignore any changes to the stats of friendly PHOBOS STRIKE TEAM operatives from being injured (including their weapons\u2019 stats) [47].",
+        "banner": "",
         "weapons": [],
         "abilities": [],
-        "actions": []
+        "actions": [],
+        "rules": "You can ignore any changes to the stats of friendly PHOBOS STRIKE TEAM operatives from being injured (including their weapons\u2019 stats) [47]."
       },
       {
         "id": "c9d0e1f2-g3h4-i5j6-k7l8-m9n0o1p2q3r4",
         "name": "DEADLY SHOTS",
         "description": "Space Marines spend countless hours perfecting their marksmanship [47].",
-        "rules": "Whenever a friendly PHOBOS STRIKE TEAM operative is shooting during an activation in which it hasn\u2019t performed the Charge, Fall Back or Reposition action, or against an operative that isn\u2019t in cover, that friendly operative\u2019s ranged weapons have the Balanced weapon rule. Note that for the first requirement, that operative isn\u2019t restricted from performing those actions after shooting [47].",
+        "banner": "",
         "weapons": [],
         "abilities": [],
-        "actions": []
+        "actions": [],
+        "rules": "Whenever a friendly PHOBOS STRIKE TEAM operative is shooting during an activation in which it hasn\u2019t performed the Charge, Fall Back or Reposition action, or against an operative that isn\u2019t in cover, that friendly operative\u2019s ranged weapons have the Balanced weapon rule. Note that for the first requirement, that operative isn\u2019t restricted from performing those actions after shooting [47]."
       }
     ]
   },
@@ -17023,19 +17285,21 @@
         "id": "h8i9j0k1-l2m3-n4o5-p6q7-r8s9t0u1v2w3",
         "name": "POISON",
         "description": "Nurgle deals in warp-tainted poisons, toxins, viral plagues and sicknesses of the soul that defy both natural resilience and medical intervention. Some weapons in this team\u2019s rules have the Poison weapon rule [48].",
-        "rules": "*Poison: In the Resolve Attack Dice step, if you inflict damage with any successes, the operative this weapon is being used against (excluding friendly PLAGUE MARINE operatives) gains one of your Poison tokens (if it doesn\u2019t already have one). Whenever an operative that has one of your Poison tokens is activated, inflict 1 damage on it [48, 54].\n*Toxic: Whenever this operative is using this weapon against an enemy operative that has one of your Poison tokens, add 1 to both Dmg stats of this weapon [50, 56].",
+        "banner": "",
         "weapons": [],
         "abilities": [],
-        "actions": []
+        "actions": [],
+        "rules": "*Poison: In the Resolve Attack Dice step, if you inflict damage with any successes, the operative this weapon is being used against (excluding friendly PLAGUE MARINE operatives) gains one of your Poison tokens (if it doesn\u2019t already have one). Whenever an operative that has one of your Poison tokens is activated, inflict 1 damage on it [48, 54].\n*Toxic: Whenever this operative is using this weapon against an enemy operative that has one of your Poison tokens, add 1 to both Dmg stats of this weapon [50, 56]."
       },
       {
         "id": "i9j0k1l2-m3n4-o5p6-q7r8-s9t0u1v2w3x4",
         "name": "ASTARTES",
         "description": "Space Marines are genetically augmented transhumans forged for only one purpose: war [58].",
-        "rules": "During each friendly PLAGUE MARINE operative\u2019s activation, it can perform either two Shoot actions or two Fight actions. If it\u2019s two Shoot actions, a bolt pistol, boltgun or PSYCHIC weapon must be selected for at least one of them. You cannot select the same PSYCHIC ranged weapon more than once per activation [57, 58].",
+        "banner": "",
         "weapons": [],
         "abilities": [],
-        "actions": []
+        "actions": [],
+        "rules": "During each friendly PLAGUE MARINE operative\u2019s activation, it can perform either two Shoot actions or two Fight actions. If it\u2019s two Shoot actions, a bolt pistol, boltgun or PSYCHIC weapon must be selected for at least one of them. You cannot select the same PSYCHIC ranged weapon more than once per activation [57, 58]."
       }
     ]
   },
@@ -17398,19 +17662,21 @@
         "id": "o5p6q7r8-s9t0-u1v2-w3x4-y5z6a7b8c9d0",
         "name": "THROAT SLITTAS",
         "description": "Unusual amongst Orks, Kommandos utilise stealth and misdirection to close in before falling upon the enemy with jagged blades drawn [69].",
-        "rules": "Friendly KOMMANDO operatives can move within control range of enemy operatives (they must still start and end the move following all requirements for that move) [69].",
+        "banner": "",
         "weapons": [],
         "abilities": [],
-        "actions": []
+        "actions": [],
+        "rules": "Friendly KOMMANDO operatives can move within control range of enemy operatives (they must still start and end the move following all requirements for that move) [69]."
       },
       {
         "id": "p6q7r8s9-t0u1-v2w3-x4y5-z6a7b8c9d0e1",
         "name": "TANKED UP",
         "description": "The obsession with destruction gives Wreckas a renewed drive [70].",
-        "rules": "Whenever a friendly WRECKA KREW operative (excluding BOMB SQUIGS) performs the Shoot or Fight action, you add 1 to their APL stat until the start of their next activation [70].",
+        "banner": "",
         "weapons": [],
         "abilities": [],
-        "actions": []
+        "actions": [],
+        "rules": "Whenever a friendly WRECKA KREW operative (excluding BOMB SQUIGS) performs the Shoot or Fight action, you add 1 to their APL stat until the start of their next activation [70]."
       }
     ]
   },
@@ -17889,19 +18155,21 @@
         "id": "fr-sanctifier-sermon",
         "name": "SERMON",
         "description": "The spiritual guidance of key operatives grants benefits to nearby allies. [6, 13]",
-        "rules": "Referenced by operative abilities. Not explicitly detailed as a standalone faction rule in provided sources.",
+        "banner": "",
         "weapons": [],
         "abilities": [],
-        "actions": []
+        "actions": [],
+        "rules": "Referenced by operative abilities. Not explicitly detailed as a standalone faction rule in provided sources."
       },
       {
         "id": "fr-sanctifier-unwavering-faith",
         "name": "UNWAVERING FAITH",
         "description": "Sanctifiers remain steadfast even when injured. [10]",
-        "rules": "You can ignore any changes to the Move stat of friendly NOVITIATE operatives from being injured. [21]",
+        "banner": "",
         "weapons": [],
         "abilities": [],
-        "actions": []
+        "actions": [],
+        "rules": "You can ignore any changes to the Move stat of friendly NOVITIATE operatives from being injured. [21]"
       }
     ]
   },
@@ -18193,19 +18461,21 @@
         "id": "fr-scout-astartes",
         "name": "ASTARTES",
         "description": "Space Marines are genetically modified superhumans made for one purpose: war. [23]",
-        "rules": "During each friendly SCOUT SQUAD operative\u2019s activation, it can perform either two Shoot actions or two Fight actions. If it\u2019s two Shoot actions, an Astartes shotgun, bolt pistol or boltgun must be selected for at least one of them. This operative can counteract regardless of its order. [23]",
+        "banner": "",
         "weapons": [],
         "abilities": [],
-        "actions": []
+        "actions": [],
+        "rules": "During each friendly SCOUT SQUAD operative\u2019s activation, it can perform either two Shoot actions or two Fight actions. If it\u2019s two Shoot actions, an Astartes shotgun, bolt pistol or boltgun must be selected for at least one of them. This operative can counteract regardless of its order. [23]"
       },
       {
         "id": "fr-scout-forward-scouting",
         "name": "FORWARD SCOUTING",
         "description": "Central to the role of Space Marine Scouts is ranging ahead of the strike force they are attached to, spending extensive periods laying traps for the foe, harassing enemy patrols, gathering intelligence and reconnoitring the ground in preparation for the Chapter\u2019s assault force. [30]",
-        "rules": "At the end of the Set Up Operatives step, you can select and resolve up to six Forward Scouting options.\nRedeploy (1) Change the set up of one third of your operatives (rounding up).\nReposition (2) Perform a free Reposition action with one friendly operative that\u2019s wholly within your drop zone. It must end that move wholly within 3\" of your drop zone. [26, 28]",
+        "banner": "",
         "weapons": [],
         "abilities": [],
-        "actions": []
+        "actions": [],
+        "rules": "At the end of the Set Up Operatives step, you can select and resolve up to six Forward Scouting options.\nRedeploy (1) Change the set up of one third of your operatives (rounding up).\nReposition (2) Perform a free Reposition action with one friendly operative that\u2019s wholly within your drop zone. It must end that move wholly within 3\" of your drop zone. [26, 28]"
       }
     ]
   },
@@ -18789,10 +19059,11 @@
         "id": "fr-tempestus-aquilon-drop-insertion",
         "name": "DROP INSERTION",
         "description": "Tempestus Aquilons have an unparalleled ability to descend into the killzone mid-battle. [49]",
-        "rules": "When setting up a TEMPESTUS AQUILON kill team before the battle, the first third of your kill team must be set up as normal. Each third thereafter can be set up above: place them to one side instead of in the killzone. For each third that\u2019s set up above, you must set up the whole third in this way (not some of them), then place one of your Drop markers wholly within your drop zone.\nLess than half of your operatives can be set up above by the end of the first turning point. In other words, by the end of the first turning point, more than half of your operatives must have been set up in the killzone during the battle.\nWhen readying your operatives during the second and third turning points, remove one of your Drop markers. This means operatives still set up above are incapacitated at the end of the second turning point. [41, 50]",
+        "banner": "",
         "weapons": [],
         "abilities": [],
-        "actions": []
+        "actions": [],
+        "rules": "When setting up a TEMPESTUS AQUILON kill team before the battle, the first third of your kill team must be set up as normal. Each third thereafter can be set up above: place them to one side instead of in the killzone. For each third that\u2019s set up above, you must set up the whole third in this way (not some of them), then place one of your Drop markers wholly within your drop zone.\nLess than half of your operatives can be set up above by the end of the first turning point. In other words, by the end of the first turning point, more than half of your operatives must have been set up in the killzone during the battle.\nWhen readying your operatives during the second and third turning points, remove one of your Drop markers. This means operatives still set up above are incapacitated at the end of the second turning point. [41, 50]"
       }
     ]
   },
@@ -19207,28 +19478,31 @@
         "id": "fr-vespid-neutron-charge",
         "name": "NEUTRON CHARGE",
         "description": "Neutron weapons are powered by radioactive crystals from the Vespids\u2019 home world. [72]",
-        "rules": "Neutron weapons are any weapons that have the word \u2018neutron\u2019 in their name, e.g. neutron blaster, neutron grenade launcher, etc. Whenever a friendly VESPID STINGWING operative moves or uses FLY, its neutron weapons have the Piercing 1 weapon rule until the end of the turning point. [67, 72]",
+        "banner": "",
         "weapons": [],
         "abilities": [],
-        "actions": []
+        "actions": [],
+        "rules": "Neutron weapons are any weapons that have the word \u2018neutron\u2019 in their name, e.g. neutron blaster, neutron grenade launcher, etc. Whenever a friendly VESPID STINGWING operative moves or uses FLY, its neutron weapons have the Piercing 1 weapon rule until the end of the turning point. [67, 72]"
       },
       {
         "id": "fr-vespid-communion",
         "name": "COMMUNION",
         "description": "Communion points are used to maintain the tactical focus of friendly VESPID STINGWING operatives. [73]",
-        "rules": "Communion points are used to maintain the tactical focus of friendly VESPID STINGWING operatives. In the Ready step of each Strategy phase, you gain D3 Communion points, plus 1 if a friendly OVERSIGHT DRONE operative is in the killzone. Communion points are used as follows (OVERSIGHT DRONE operatives aren\u2019t affected by the following):\n1. Whenever a friendly VESPID STINGWING operative is performing the Shoot action, it can only target the closest enemy operative within 8\" of it (excluding enemy operatives within control range of other friendly VESPID STINGWING operatives) unless you spend 1 of your Communion points. For weapons with the Blast and Torrent weapon rules, only the first target must be selected in this way.\n2. Whenever a friendly VESPID STINGWING operative is fighting, it can only target the closest enemy operative unless you spend 1 of your Communion points.\n3. Whenever you would perform the Pick Up Marker or a mission action (excluding Operate Hatch) with a friendly VESPID STINGWING operative, you must spend 1 of your Communion points. [64, 73, 74]",
+        "banner": "",
         "weapons": [],
         "abilities": [],
-        "actions": []
+        "actions": [],
+        "rules": "Communion points are used to maintain the tactical focus of friendly VESPID STINGWING operatives. In the Ready step of each Strategy phase, you gain D3 Communion points, plus 1 if a friendly OVERSIGHT DRONE operative is in the killzone. Communion points are used as follows (OVERSIGHT DRONE operatives aren\u2019t affected by the following):\n1. Whenever a friendly VESPID STINGWING operative is performing the Shoot action, it can only target the closest enemy operative within 8\" of it (excluding enemy operatives within control range of other friendly VESPID STINGWING operatives) unless you spend 1 of your Communion points. For weapons with the Blast and Torrent weapon rules, only the first target must be selected in this way.\n2. Whenever a friendly VESPID STINGWING operative is fighting, it can only target the closest enemy operative unless you spend 1 of your Communion points.\n3. Whenever you would perform the Pick Up Marker or a mission action (excluding Operate Hatch) with a friendly VESPID STINGWING operative, you must spend 1 of your Communion points. [64, 73, 74]"
       },
       {
         "id": "fr-vespid-fly",
         "name": "FLY",
         "description": "The thrumming wings of the Vespids bear them aloft with speed and remarkable agility. [75]",
-        "rules": "Whenever a friendly VESPID STINGWING operative performs an action in which it moves, it can FLY. If it does, don\u2019t move it. Instead, remove it from the killzone and set it back up wholly within a distance equal to its Move stat (or 3\" if it was a Dash) horizontally of its original location (in a killzone that uses the close quarters rules, e.g. Killzone: Gallowdark, this distance cannot be measured over or through Wall terrain, and that operative cannot be set up on the other side of an access point \u2013 in other words it cannot FLY through an open hatchway). Note that it gains no additional distance when performing the Charge action. It must be set up in a location it can be placed, and unless it\u2019s the Charge action, it cannot be set up within control range of an enemy operative. [75]",
+        "banner": "",
         "weapons": [],
         "abilities": [],
-        "actions": []
+        "actions": [],
+        "rules": "Whenever a friendly VESPID STINGWING operative performs an action in which it moves, it can FLY. If it does, don\u2019t move it. Instead, remove it from the killzone and set it back up wholly within a distance equal to its Move stat (or 3\" if it was a Dash) horizontally of its original location (in a killzone that uses the close quarters rules, e.g. Killzone: Gallowdark, this distance cannot be measured over or through Wall terrain, and that operative cannot be set up on the other side of an access point \u2013 in other words it cannot FLY through an open hatchway). Note that it gains no additional distance when performing the Charge action. It must be set up in a location it can be placed, and unless it\u2019s the Charge action, it cannot be set up within control range of an enemy operative. [75]"
       }
     ]
   },
@@ -19751,19 +20025,21 @@
         "id": "05bf3f70-914e-4214-9b3b-cf5b3acda4aa",
         "name": "SAEDATH",
         "description": "Void-dancer Troupes put on a performance as they attack from the Webway. A single player begins in the pivotal role, then the rest of the troupe progressively join in.",
-        "rules": "<div><span style=\"font-size: 0.875rem;\">As a </span><b style=\"font-size: 0.875rem;\">STRATEGIC GAMBIT</b><span style=\"font-size: 0.875rem;\"> in the first turning point, you must select an </span><b style=\"font-size: 0.875rem;\">ALLEGORY </b><span style=\"font-size: 0.875rem;\">(Epic or Melodrama below) for your kill team for the battle, and one friendly </span><b style=\"font-size: 0.875rem;\"><font color=\"#f55c29\">VOID-DANCER TROUPE </font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"> </i></span><span style=\"font-size: 0.875rem;\">operative to have the </span><b style=\"font-size: 0.875rem;\">PIVOTAL ROLE</b><span style=\"font-size: 0.875rem;\"> for the battle. Whenever a friendly operative has the </span><b style=\"font-size: 0.875rem;\">PIVOTAL ROLE</b><span style=\"font-size: 0.875rem;\">, it has the </span><b style=\"font-size: 0.875rem;\">ACCOLADE </b><span style=\"font-size: 0.875rem;\">rule of your </span><b style=\"font-size: 0.875rem;\">ALLEGORY </b><span style=\"font-size: 0.875rem;\">for the battle. </span></div><div><br></div><div>As a <b>STRATEGIC GAMBIT</b> in each subsequent turning point, you can select one friendly <b><font color=\"#f55c29\">VOID-DANCER TROUPE </font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span><span style=\"font-size: 0.875rem;\"> operative to gain the </span><b style=\"font-size: 0.875rem;\">ACCOLADE </b><span style=\"font-size: 0.875rem;\">rule of your </span><b style=\"font-size: 0.875rem;\">ALLEGORY </b><span style=\"font-size: 0.875rem;\">for the battle. </span></div><div><br></div><div>Once per turning point, when a friendly operative that has the <b>PIVOTAL ROLE</b> completes the performance of your <b>ALLEGORY</b>, you can select one friendly <b><font color=\"#f55c29\">VOID-DANCER TROUPE </font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"> </i></span><span style=\"font-size: 0.875rem;\">operative to gain the </span><b style=\"font-size: 0.875rem;\">ACCOLADE </b><span style=\"font-size: 0.875rem;\">rule of your </span><b style=\"font-size: 0.875rem;\">ALLEGORY </b><span style=\"font-size: 0.875rem;\">for the battle.</span></div><div><br></div><div><b style=\"background-color: rgb(245, 92, 41);\"> Epic </b>\n<b>Performance</b>: The operative incapacitates an enemy operative while fighting.\n<b>Accolade</b>: Whenever this operative is fighting, its melee weapons have the Balanced weapon rule.</div><div>\n<b style=\"background-color: rgb(245, 92, 41);\"> Melodrama </b>\n<b>Performance</b>: The operative incapacitates an enemy operative while shooting.\n<b>Accolade</b>: The operative\u2019s ranged weapons have the Balanced weapon rule.</div>",
+        "banner": "",
         "weapons": [],
         "abilities": [],
-        "actions": []
+        "actions": [],
+        "rules": "<div><span style=\"font-size: 0.875rem;\">As a </span><b style=\"font-size: 0.875rem;\">STRATEGIC GAMBIT</b><span style=\"font-size: 0.875rem;\"> in the first turning point, you must select an </span><b style=\"font-size: 0.875rem;\">ALLEGORY </b><span style=\"font-size: 0.875rem;\">(Epic or Melodrama below) for your kill team for the battle, and one friendly </span><b style=\"font-size: 0.875rem;\"><font color=\"#f55c29\">VOID-DANCER TROUPE </font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"> </i></span><span style=\"font-size: 0.875rem;\">operative to have the </span><b style=\"font-size: 0.875rem;\">PIVOTAL ROLE</b><span style=\"font-size: 0.875rem;\"> for the battle. Whenever a friendly operative has the </span><b style=\"font-size: 0.875rem;\">PIVOTAL ROLE</b><span style=\"font-size: 0.875rem;\">, it has the </span><b style=\"font-size: 0.875rem;\">ACCOLADE </b><span style=\"font-size: 0.875rem;\">rule of your </span><b style=\"font-size: 0.875rem;\">ALLEGORY </b><span style=\"font-size: 0.875rem;\">for the battle. </span></div><div><br></div><div>As a <b>STRATEGIC GAMBIT</b> in each subsequent turning point, you can select one friendly <b><font color=\"#f55c29\">VOID-DANCER TROUPE </font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span><span style=\"font-size: 0.875rem;\"> operative to gain the </span><b style=\"font-size: 0.875rem;\">ACCOLADE </b><span style=\"font-size: 0.875rem;\">rule of your </span><b style=\"font-size: 0.875rem;\">ALLEGORY </b><span style=\"font-size: 0.875rem;\">for the battle. </span></div><div><br></div><div>Once per turning point, when a friendly operative that has the <b>PIVOTAL ROLE</b> completes the performance of your <b>ALLEGORY</b>, you can select one friendly <b><font color=\"#f55c29\">VOID-DANCER TROUPE </font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"> </i></span><span style=\"font-size: 0.875rem;\">operative to gain the </span><b style=\"font-size: 0.875rem;\">ACCOLADE </b><span style=\"font-size: 0.875rem;\">rule of your </span><b style=\"font-size: 0.875rem;\">ALLEGORY </b><span style=\"font-size: 0.875rem;\">for the battle.</span></div><div><br></div><div><b style=\"background-color: rgb(245, 92, 41);\"> Epic </b>\n<b>Performance</b>: The operative incapacitates an enemy operative while fighting.\n<b>Accolade</b>: Whenever this operative is fighting, its melee weapons have the Balanced weapon rule.</div><div>\n<b style=\"background-color: rgb(245, 92, 41);\"> Melodrama </b>\n<b>Performance</b>: The operative incapacitates an enemy operative while shooting.\n<b>Accolade</b>: The operative\u2019s ranged weapons have the Balanced weapon rule.</div>"
       },
       {
         "id": "261d9940-a9c4-458d-ae54-788490dd1006",
         "name": "HARLEQUIN\u2019S PANOPLY\n",
         "description": "The tools of the Harlequins' trade afford them additional mobility and make them highly difficult to target, enabling them to dodge away from piercing shots of plasma and melta fire.",
-        "rules": "&nbsp;Whenever an operative is shooting a friendly <font color=\"#f55c29\"><b>VOID-DANCER TROUPE </b></font><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"> </i></span>operative, ignore the Piercing weapon rule.<div>\nWhenever a friendly <font color=\"#f55c29\"><b>VOID-DANCER TROUPE </b></font><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"> </i></span>operative is climbing up, you can treat the vertical distance as 2\" (regardless of how far the operative actually moves vertically). <div><br></div><div>Friendly <b><font color=\"#f55c29\">VOID-DANCER TROUPE </font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"> </i></span>operatives can move within control range of enemy operatives (they must still start and end the move following all requirements for that move).</div></div>",
+        "banner": "",
         "weapons": [],
         "abilities": [],
-        "actions": []
+        "actions": [],
+        "rules": "&nbsp;Whenever an operative is shooting a friendly <font color=\"#f55c29\"><b>VOID-DANCER TROUPE </b></font><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"> </i></span>operative, ignore the Piercing weapon rule.<div>\nWhenever a friendly <font color=\"#f55c29\"><b>VOID-DANCER TROUPE </b></font><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"> </i></span>operative is climbing up, you can treat the vertical distance as 2\" (regardless of how far the operative actually moves vertically). <div><br></div><div>Friendly <b><font color=\"#f55c29\">VOID-DANCER TROUPE </font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"> </i></span>operatives can move within control range of enemy operatives (they must still start and end the move following all requirements for that move).</div></div>"
       }
     ]
   },
@@ -20351,19 +20627,21 @@
         "id": "warpcoven-rule-astartes",
         "name": "ASTARTES",
         "description": "These genetically modified superhumans are made for one purpose: war.",
-        "rules": "During each friendly WARPCOVEN HERETIC ASTARTES operative\u2019s activation, it can perform either two Shoot actions or two Fight actions. If it\u2019s two Shoot actions and a soulreaper cannon or a warpflamer is selected for both, 1 additional AP must be spent for the second action. You cannot select the same PSYCHIC ranged weapon more than once per activation.\nEach friendly WARPCOVEN HERETIC ASTARTES operative can counteract regardless of its order.",
+        "banner": "",
         "weapons": [],
         "abilities": [],
-        "actions": []
+        "actions": [],
+        "rules": "During each friendly WARPCOVEN HERETIC ASTARTES operative\u2019s activation, it can perform either two Shoot actions or two Fight actions. If it\u2019s two Shoot actions and a soulreaper cannon or a warpflamer is selected for both, 1 additional AP must be spent for the second action. You cannot select the same PSYCHIC ranged weapon more than once per activation.\nEach friendly WARPCOVEN HERETIC ASTARTES operative can counteract regardless of its order."
       },
       {
         "id": "warpcoven-rule-boons-of-tzeentch",
         "name": "BOONS OF TZEENTCH",
         "description": "The Lord of Change is the master of sorcery and plots within plots, bestowing upon his favored champions an array of empyric gifts.",
-        "rules": "At the end of the Select Operatives step, select one BOON OF TZEENTCH for friendly WARPCOVEN SORCERER operatives to gain for the battle.\n*   Astral Bombardment: Whenever a friendly WARPCOVEN SORCERER operative performs the Shoot action with a PSYCHIC weapon, select the Seek Light or Devastating 1 weapon rule for that weapon to have until the end of the action (it cannot have both).\n*   Master of the Immaterium: Increase the Range characteristic of friendly WARPCOVEN SORCERER operatives\u2019 PSYCHIC ranged weapons by 2\" and add 1\" to the distance of their PSYCHIC actions.\n*   Twist of Fate: Once per turning point, when a friendly WARPCOVEN SORCERER operative is rolling attack dice, you can choose one of your attack dice results and change it to any other result. This can only be done once per dice pool.\n*   Warp Swell: Add 1 to the Normal Dmg stat of this operative\u2019s melee weapons.\n*   Mutant Appendage: Having an enemy operative within this operative\u2019s control range doesn\u2019t prevent it from performing the Pick Up Marker or mission actions. Once per activation, this operative can perform the Pick Up Marker, Place Marker or a mission action for 1 less AP.\n*   Immaterial Flight: Once per turning point, when this operative is performing the Charge or Reposition action during its activation, it can FLY. If it does, don\u2019t move it. Instead, remove it from the killzone and set it back up wholly within a distance equal to its Move stat horizontally of its original location.",
+        "banner": "",
         "weapons": [],
         "abilities": [],
-        "actions": []
+        "actions": [],
+        "rules": "At the end of the Select Operatives step, select one BOON OF TZEENTCH for friendly WARPCOVEN SORCERER operatives to gain for the battle.\n*   Astral Bombardment: Whenever a friendly WARPCOVEN SORCERER operative performs the Shoot action with a PSYCHIC weapon, select the Seek Light or Devastating 1 weapon rule for that weapon to have until the end of the action (it cannot have both).\n*   Master of the Immaterium: Increase the Range characteristic of friendly WARPCOVEN SORCERER operatives\u2019 PSYCHIC ranged weapons by 2\" and add 1\" to the distance of their PSYCHIC actions.\n*   Twist of Fate: Once per turning point, when a friendly WARPCOVEN SORCERER operative is rolling attack dice, you can choose one of your attack dice results and change it to any other result. This can only be done once per dice pool.\n*   Warp Swell: Add 1 to the Normal Dmg stat of this operative\u2019s melee weapons.\n*   Mutant Appendage: Having an enemy operative within this operative\u2019s control range doesn\u2019t prevent it from performing the Pick Up Marker or mission actions. Once per activation, this operative can perform the Pick Up Marker, Place Marker or a mission action for 1 less AP.\n*   Immaterial Flight: Once per turning point, when this operative is performing the Charge or Reposition action during its activation, it can FLY. If it does, don\u2019t move it. Instead, remove it from the killzone and set it back up wholly within a distance equal to its Move stat horizontally of its original location."
       }
     ]
   },
@@ -20803,10 +21081,11 @@
         "id": "wrecka-rule-wrecka-rampage",
         "name": "WRECKA RAMPAGE",
         "description": "The sound of explosions, the acrid stench of smoke and the screams of battle drive Wrecka Krews forwards to ever more destructive acts.",
-        "rules": "Whenever a friendly WRECKA KREW operative (excluding BOMB SQUIG) performs the Shoot or Fight action during its activation, if it wasn\u2019t incapacitated, you gain 1 Wrecka point. Wrecka points are used for the following:\n*   1 Wrecka point: Add 1 to this operative\u2019s APL stat until the start of its next activation.\n*   2 Wrecka points: This operative regains up to D3 lost wounds.\n*   3 Wrecka points: Until the start of its next activation, this operative has the Grim Resolve and Indomitable Guard abilities (see Kill Team Core Book).\nYou can gain and spend Wrecka points during the same action and can do so in an order of your choice, unless you started the action with 6, in which case you can only spend them.\nAt the end of each turning point, remove all Wrecka points.",
+        "banner": "",
         "weapons": [],
         "abilities": [],
-        "actions": []
+        "actions": [],
+        "rules": "Whenever a friendly WRECKA KREW operative (excluding BOMB SQUIG) performs the Shoot or Fight action during its activation, if it wasn\u2019t incapacitated, you gain 1 Wrecka point. Wrecka points are used for the following:\n*   1 Wrecka point: Add 1 to this operative\u2019s APL stat until the start of its next activation.\n*   2 Wrecka points: This operative regains up to D3 lost wounds.\n*   3 Wrecka points: Until the start of its next activation, this operative has the Grim Resolve and Indomitable Guard abilities (see Kill Team Core Book).\nYou can gain and spend Wrecka points during the same action and can do so in an order of your choice, unless you started the action with 6, in which case you can only spend them.\nAt the end of each turning point, remove all Wrecka points."
       }
     ]
   },
@@ -21518,10 +21797,11 @@
         "id": "wyrmblade-rule-familiar-territory",
         "name": "FAMILIAR TERRITORY",
         "description": "Genestealer Cults infiltrate all stratas of Imperial society, accumulating knowledge of transit routes, passageways and hidden tunnels by which they may outmanoeuvre their foes.",
-        "rules": "When setting up a WYRMBLADE kill team before the battle, one third of your kill team can be set up in HIDING: place them to one side instead of in the killzone. CULT AGENT operatives cannot be set up in HIDING.\nAt the start of the first turning point, after the Strategy phase, operatives that were set up in HIDING can land. To do so, for each such operative, select a location in the killzone wholly within 3\" of a friendly operative that was set up as normal (or your drop zone if no such operative remains). Set up the operative in that location. It cannot move more than 3\" during its activation in this turning point.",
+        "banner": "",
         "weapons": [],
         "abilities": [],
-        "actions": []
+        "actions": [],
+        "rules": "When setting up a WYRMBLADE kill team before the battle, one third of your kill team can be set up in HIDING: place them to one side instead of in the killzone. CULT AGENT operatives cannot be set up in HIDING.\nAt the start of the first turning point, after the Strategy phase, operatives that were set up in HIDING can land. To do so, for each such operative, select a location in the killzone wholly within 3\" of a friendly operative that was set up as normal (or your drop zone if no such operative remains). Set up the operative in that location. It cannot move more than 3\" during its activation in this turning point."
       }
     ]
   }
