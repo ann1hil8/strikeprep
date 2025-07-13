@@ -916,6 +916,18 @@
     ]
   },
   {
+    "id": "36230e6c-8b14-4bad-a3d3-164f4482b0c4",
+    "name": "BATTLECLADE",
+    "unit": "",
+    "description": "",
+    "selection": {},
+    "operatives": [],
+    "strategy_ploys": [],
+    "firefight_ploys": [],
+    "equipment": [],
+    "rules": []
+  },
+  {
     "id": "a1b2c3d4-e5f6-4a7b-8c9d-0123456789a1",
     "name": "BLADES OF KHAINE",
     "unit": "AELDARI ASPECT WARRIORS",
@@ -1590,8 +1602,16 @@
               "attack": 6,
               "hit": 3,
               "dmg_normal": 1,
-              "dmg_critical": 2
-            }
+              "dmg_critical": 2,
+              "apl": 0,
+              "move": 0,
+              "save": 0,
+              "wounds": 0,
+              "base_size": 0
+            },
+            "weapons": [],
+            "abilities": [],
+            "actions": []
           }
         ],
         "abilities": [],
@@ -17679,6 +17699,18 @@
         "rules": "Whenever a friendly WRECKA KREW operative (excluding BOMB SQUIGS) performs the Shoot or Fight action, you add 1 to their APL stat until the start of their next activation [70]."
       }
     ]
+  },
+  {
+    "id": "dd6d38c3-f4b5-4a4f-888f-799ec4f2f60b",
+    "name": "RAVENER",
+    "unit": "",
+    "description": "",
+    "selection": {},
+    "operatives": [],
+    "strategy_ploys": [],
+    "firefight_ploys": [],
+    "equipment": [],
+    "rules": []
   },
   {
     "id": "kt-sanctifiers",
