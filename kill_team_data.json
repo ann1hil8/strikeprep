@@ -13,9 +13,73 @@
     },
     "operatives": [
       {
+        "id": "b1c2d3e4-f5a6-4b7c-8d9e-0123456789b3",
+        "name": "SPACE MARINE CAPTAIN",
+        "description": "To reach the rank of Captain, a Space Marine must master war. They are equally adept at conducting planet-spanning military campaigns as they are at dispatching foes in expertly fought duels.",
+        "keywords": "<b><font color=\"#f55c29\">ANGEL OF DEATH<i class=\"fas fa-skull\"></i></font>,</b> IMPERIUM, ADEPTUS ASTARTES, LEADER, SPACE MARINE CAPTAIN",
+        "stats": {
+          "apl": 3,
+          "move": 6,
+          "save": 3,
+          "wounds": 15,
+          "base_size": 40
+        },
+        "weapons": [
+          {
+            "id": "7629a50a-3999-48d3-8ab3-0443c66a3546",
+            "name": "PLASMA PISTOL (STANDARD)",
+            "type": "Ranged",
+            "rules": "Range 8\", Piercing 1\n",
+            "stats": {
+              "attack": 4,
+              "hit": 3,
+              "dmg_normal": 3,
+              "dmg_critical": 5
+            }
+          },
+          {
+            "id": "e88ff051-d520-436c-86a2-c4d12dedb4fc",
+            "name": "PLASMA PISTOL (SUPERCHARGE)",
+            "type": "Ranged",
+            "rules": "Range 8\", Hot, Lethal 5+, Piercing 1\n",
+            "stats": {
+              "attack": 4,
+              "hit": 3,
+              "dmg_normal": 4,
+              "dmg_critical": 5
+            }
+          },
+          {
+            "id": "45ca0d27-7e5a-46fb-86a7-391bc4930a6f",
+            "name": "POWER FIST",
+            "type": "Melee",
+            "rules": "Brutal",
+            "stats": {
+              "attack": 5,
+              "hit": 3,
+              "dmg_normal": 5,
+              "dmg_critical": 7
+            }
+          }
+        ],
+        "abilities": [
+          {
+            "id": "0e471916-1276-4d92-8f8f-70ca77420f4f",
+            "name": "HEROIC LEADER",
+            "rules": "Once per turning point, you can use a firefight ploy for 0CP if this is the specified <font color=\"#f55c29\"><b>ANGEL OF DEATH</b><i class=\"fas fa-skull\"></i></font> operative (excluding Command Re-roll), or the Adjust Doctrine firefight ploy for 0CP if this operative is in the killzone and isn\u2019t within control range of enemy operatives"
+          },
+          {
+            "id": "268137ad-4735-4987-be15-ab914d646441",
+            "name": "IRON HALO",
+            "rules": "Once per battle, when an attack dice inflicts Normal Dmg on this operative, you can ignore that inflicted damage."
+          }
+        ],
+        "actions": []
+      },
+      {
         "id": "b1c2d3e4-f5a6-4b7c-8d9e-0123456789b1",
         "name": "ASSAULT INTERCESSOR SERGEANT",
-        "description": "ASSAULT INTERCESSOR SERGEANT",
+        "description": "These mission leaders understand the optimal moment to unleash charges. They are exemplars in the press of melee, rending foes in twain with their deadly close combat weapons.",
         "keywords": "ANGEL OF DEATH , IMPERIUM, ADEPTUS ASTARTES, LEADER, ASSAULT INTERCESSOR, SERGEANT",
         "stats": {
           "apl": 3,
@@ -128,7 +192,7 @@
       {
         "id": "b1c2d3e4-f5a6-4b7c-8d9e-0123456789b2",
         "name": "INTERCESSOR SERGEANT",
-        "description": "INTERCESSOR SERGEANT",
+        "description": "Intercessor Sergeants lead their teams in levelling salvoes of firepower against targets in ever-changing killzones. They often carry specialist weaponry into the fray to support their battle-brothers.",
         "keywords": "ANGEL OF DEATH , IMPERIUM, ADEPTUS ASTARTES, LEADER, INTERCESSOR, SERGEANT",
         "stats": {
           "apl": 3,
@@ -263,36 +327,44 @@
         "actions": []
       },
       {
-        "id": "b1c2d3e4-f5a6-4b7c-8d9e-0123456789b3",
-        "name": "SPACE MARINE CAPTAIN",
-        "description": "SPACE MARINE CAPTAIN",
-        "keywords": "ANGEL OF DEATH , IMPERIUM, ADEPTUS ASTARTES, LEADER, SPACE MARINE CAPTAIN",
+        "id": "b1c2d3e4-f5a6-4b7c-8d9e-0123456789b5",
+        "name": "ASSAULT INTERCESSOR WARRIOR",
+        "description": "Protected by Mk X Tacticus armour, Assault Intercessor Warriors charge into battle swinging large chainswords and firing mass-reactive shells from their pistols.",
+        "keywords": "ANGEL OF DEATH , IMPERIUM, ADEPTUS ASTARTES, ASSAULT INTERCESSOR, WARRIOR",
         "stats": {
           "apl": 3,
           "move": 6,
           "save": 3,
-          "wounds": 15,
-          "base_size": 40
+          "wounds": 14,
+          "base_size": 32
         },
-        "weapons": [],
-        "abilities": [
+        "weapons": [
           {
-            "id": "c1d2e3f4-a5b6-4c7d-8e9f-0123456789d9",
-            "name": "Doctrine Warfare",
-            "rules": "Whenever you would use the Combat Doctrine strategy ploy and then select Assault or Tactical, if this operative is in the killzone, it costs you 0CP.",
-            "weapons": [],
-            "abilities": [],
-            "actions": []
+            "id": "c1d2e3f4-a5b6-4c7d-8e9f-0123456789e4",
+            "name": "HEAVY BOLT PISTOL",
+            "type": "Ranged",
+            "rules": "Range 8\", Piercing Crits 1",
+            "stats": {
+              "attack": 4,
+              "hit": 3,
+              "dmg_normal": 3,
+              "dmg_critical": 4
+            }
           },
           {
-            "id": "c1d2e3f4-a5b6-4c7d-8e9f-0123456789e0",
-            "name": "Chapter Veteran",
-            "rules": "At the end of the Select Operatives step, if this operative is selected for deployment, select one additional CHAPTER TACTIC for it to have for the battle. Unlike primary and secondary CHAPTER TACTICS, you don\u2019t have to select the same one for each battle in a campaign or tournament.",
-            "weapons": [],
-            "abilities": [],
-            "actions": []
+            "id": "c1d2e3f4-a5b6-4c7d-8e9f-0123456789e5",
+            "name": "CHAINSWORD",
+            "type": "Melee",
+            "rules": "-",
+            "stats": {
+              "attack": 5,
+              "hit": 3,
+              "dmg_normal": 4,
+              "dmg_critical": 5
+            }
           }
         ],
+        "abilities": [],
         "actions": []
       },
       {
@@ -349,43 +421,50 @@
         "actions": []
       },
       {
-        "id": "b1c2d3e4-f5a6-4b7c-8d9e-0123456789b5",
-        "name": "ASSAULT INTERCESSOR WARRIOR",
-        "description": "Protected by Mk X Tacticus armour, Assault Intercessor Warriors charge into battle swinging large chainswords and firing mass-reactive shells from their pistols.",
-        "keywords": "ANGEL OF DEATH , IMPERIUM, ADEPTUS ASTARTES, ASSAULT INTERCESSOR, WARRIOR",
+        "id": "c8f718e6-9616-4391-b2b2-d5278d2c924d",
+        "name": "INTERCESSOR WARRIOR\n",
+        "description": "Intercessor Warriors lay down punishing volleys of fire from their bolt rifles. Their tactics and wargear are adaptable to countless situations, making them a core asset for any Intercession Squad.",
+        "keywords": "",
         "stats": {
-          "apl": 3,
+          "apl": 2,
           "move": 6,
-          "save": 3,
-          "wounds": 14,
-          "base_size": 32
+          "save": 5,
+          "wounds": 7,
+          "base_size": 25
         },
-        "weapons": [
-          {
-            "id": "c1d2e3f4-a5b6-4c7d-8e9f-0123456789e4",
-            "name": "HEAVY BOLT PISTOL",
-            "type": "Ranged",
-            "rules": "Range 8\", Piercing Crits 1",
-            "stats": {
-              "attack": 4,
-              "hit": 3,
-              "dmg_normal": 3,
-              "dmg_critical": 4
-            }
-          },
-          {
-            "id": "c1d2e3f4-a5b6-4c7d-8e9f-0123456789e5",
-            "name": "CHAINSWORD",
-            "type": "Melee",
-            "rules": "-",
-            "stats": {
-              "attack": 5,
-              "hit": 3,
-              "dmg_normal": 4,
-              "dmg_critical": 5
-            }
-          }
-        ],
+        "weapons": [],
+        "abilities": [],
+        "actions": []
+      },
+      {
+        "id": "65791c36-3783-4f9b-bddc-cd7a590f9a25",
+        "name": "INTERCESSOR GUNNER\n",
+        "description": "These specialists provide long-range supporting fire from their rifle\u2019s underslung auxiliary grenade launcher. They are capable of delivering explosive charges that inflict maximum devastation on the most densely defended or shielded positions.",
+        "keywords": "",
+        "stats": {
+          "apl": 2,
+          "move": 6,
+          "save": 5,
+          "wounds": 7,
+          "base_size": 25
+        },
+        "weapons": [],
+        "abilities": [],
+        "actions": []
+      },
+      {
+        "id": "6082b02e-6ece-4294-8f09-d50ed76edf9a",
+        "name": "ELIMINATOR SNIPER\n",
+        "description": "Eliminators wield specialised sniper rifles with ammunition for every enemy. These range from heavy-cored Mortis rounds that make a mockery of armour, to explosive fragmentation shells that devastate clustered targets.",
+        "keywords": "",
+        "stats": {
+          "apl": 2,
+          "move": 6,
+          "save": 5,
+          "wounds": 7,
+          "base_size": 25
+        },
+        "weapons": [],
         "abilities": [],
         "actions": []
       },
