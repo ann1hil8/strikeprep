@@ -932,7 +932,7 @@
         "id": "cdfc67e5-b81a-4e44-9963-a7f6b068874c",
         "name": "BATTLECLADE TECHNOARCHEOLOGIST\n",
         "description": "Technoarcheologists are ferociously acquisitive Tech-Priests who specialise in unearthing mechanistic arcana and exotic resources. They use delving expertise and powerful scanners to pinpoint the location of the prizes they seek, and provide a zealous focus to the unthinking thralls who serve them.",
-        "keywords": "<b><font color=\"#f55c29\">BATTLECLADE<i class=\"fas fa-skull\"></i></font></b>, IMPERIUM, ADEPTUS MECHANICUS, TECH-PRIEST, LEADER, TECHNOARCHEOLOGIST\n",
+        "keywords": "<b><font color=\"#f55c29\">BATTLECLADE<i class=\"fas fa-skull\"></i></font></b>, IMPERIUM, ADEPTUS MECHANICUS, TECH-PRIEST, LEADER, TECHNOARCHEOLOGIST",
         "stats": {
           "apl": 3,
           "move": 6,
@@ -970,7 +970,10 @@
           {
             "id": "2900bd07-8c31-496b-981c-0b7a612c68ee",
             "name": "SEEKER OF DIVINE ARCANA",
-            "rules": "<b>STRATEGIC GAMBIT</b>. You can immediately change this operative\u2019s order and/or it can immediately perform a free <b>Omniscanner</b>, <b>Fall Back</b>, <b>Place Marker</b>, <b>Pick Up Marker</b>, <b>Reposition </b>or mission action. If it\u2019s the Fall Back or Reposition action and this operative isn\u2019t carrying a marker, it must end that move either within your drop zone (if this isn\u2019t possible, then as close as possible to it), or with an objective marker or one of your mission markers within its control range."
+            "rules": "<b>STRATEGIC GAMBIT</b>. You can immediately change this operative\u2019s order and/or it can immediately perform a free <b>Omniscanner</b>, <b>Fall Back</b>, <b>Place Marker</b>, <b>Pick Up Marker</b>, <b>Reposition </b>or mission action. If it\u2019s the Fall Back or Reposition action and this operative isn\u2019t carrying a marker, it must end that move either within your drop zone (if this isn\u2019t possible, then as close as possible to it), or with an objective marker or one of your mission markers within its control range.",
+            "weapons": [],
+            "abilities": [],
+            "actions": []
           }
         ],
         "actions": [
@@ -1017,7 +1020,10 @@
           {
             "id": "c836db26-909e-4d36-a73b-591ab89cb229",
             "name": "ACHILLAN EYE",
-            "rules": "Whenever a friendly <b><font color=\"#f55c29\">BATTLECLADE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative is shooting an enemy operative visible to this operative, that friendly operative\u2019s ranged weapons have the Saturate weapon rule. This rule has no effect if this operative is within control range of an enemy operative."
+            "rules": "Whenever a friendly <b><font color=\"#f55c29\">BATTLECLADE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative is shooting an enemy operative visible to this operative, that friendly operative\u2019s ranged weapons have the Saturate weapon rule. This rule has no effect if this operative is within control range of an enemy operative.",
+            "weapons": [],
+            "abilities": [],
+            "actions": []
           }
         ],
         "actions": [
@@ -1103,7 +1109,7 @@
         "id": "c990553c-1b61-450f-ac93-0ed132dcce3d",
         "name": "BATTLECLADE COMBAT SERVITOR",
         "description": "Repurposed from local menial thralls or specially constructed for the mission at hand, Combat Servitors are implanted with martial imperative programming and weapon grafts. They are ideal guardians, unthinkingly ready and willing to kill or lay down their existences to protect their masters\u2019 interests.",
-        "keywords": "<b><font color=\"#f55c29\">BATTLECLADE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span>, IMPERIUM, ADEPTUS MECHANICUS, COMBAT, SERVITOR\n",
+        "keywords": "<b><font color=\"#f55c29\">BATTLECLADE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span>, IMPERIUM, ADEPTUS MECHANICUS, COMBAT, SERVITOR",
         "stats": {
           "apl": 2,
           "move": 5,
@@ -1297,7 +1303,7 @@
         "id": "906f6cc9-fd85-4281-99eb-1ccdff97cdc3",
         "name": "BATTLECLADE TECHNOMEDIC SERVITOR",
         "description": "On forge worlds, a servitor\u2019s Human components are rarely repaired. Battleclades, however, often operate unsupported in dangerous territories, on missions where no tool can be easily replaced. Technomedics use a mix of crude biosurgery and mechanical repairs to keep the team\u2019s cybernetic operatives functioning under fire for long enough to fulfil their purpose.",
-        "keywords": "<b><font color=\"#f55c29\">BATTLECLADE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span>, IMPERIUM, ADEPTUS MECHANICUS, MEDIC, TECHNOMEDIC, SERVITOR\n",
+        "keywords": "<b><font color=\"#f55c29\">BATTLECLADE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span>, IMPERIUM, ADEPTUS MECHANICUS, MEDIC, TECHNOMEDIC, SERVITOR",
         "stats": {
           "apl": 2,
           "move": 5,
@@ -1323,7 +1329,10 @@
           {
             "id": "0146a12e-b0ec-4e8f-8b30-e7cba2c99ea4",
             "name": "MECHANOSUTURE ARRAY",
-            "rules": "Once per turning point, when another friendly <b><font color=\"#f55c29\">BATTLECLADE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative would be incapacitated while visible to and within 3\" of this operative, you can use this rule, providing neither this nor that operative is within control range of an enemy operative. If you do, that friendly operative isn\u2019t incapacitated, has 1 wound remaining and cannot be incapacitated for the remainder of the action. After that action, that friendly operative can immediately perform a free <b>Dash </b>action, but must end that move within this operative\u2019s control range. If this rule was used during that friendly operative\u2019s activation, that activation ends. You cannot use this rule if this operative is incapacitated, or if it\u2019s a <b>Shoot </b>action and this operative would be a primary or secondary target."
+            "rules": "Once per turning point, when another friendly <b><font color=\"#f55c29\">BATTLECLADE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative would be incapacitated while visible to and within 3\" of this operative, you can use this rule, providing neither this nor that operative is within control range of an enemy operative. If you do, that friendly operative isn\u2019t incapacitated, has 1 wound remaining and cannot be incapacitated for the remainder of the action. After that action, that friendly operative can immediately perform a free <b>Dash </b>action, but must end that move within this operative\u2019s control range. If this rule was used during that friendly operative\u2019s activation, that activation ends. You cannot use this rule if this operative is incapacitated, or if it\u2019s a <b>Shoot </b>action and this operative would be a primary or secondary target.",
+            "weapons": [],
+            "abilities": [],
+            "actions": []
           }
         ],
         "actions": [
@@ -1346,25 +1355,37 @@
         "id": "21d5d6e5-e37d-445c-9ba9-c547926a6dc7",
         "name": "NOOSPHERIC POSSESSION\n",
         "description": "By broadcasting portions of their neural architecture into their thralls, sometimes via a well-positioned relay, manipulative Servitor Underseers effectively possess their tools to better direct the Omnissiah\u2019s wrath.",
-        "rules": "<b>SUPPORT</b>. Whenever a friendly <b><font color=\"#f55c29\">BATTLECLADE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> <b>SERVITOR </b>operative is within 6\" of a friendly <b><font color=\"#f55c29\">BATTLECLADE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> <b>AUTO-PROXY</b> or <b><font color=\"#f55c29\">BATTLECLADE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> <b>SERVITOR UNDERSEER</b> operative, that friendly <b>SERVITOR </b>operative\u2019s weapons have the Accurate 1 weapon rule.<div>\nFor the purposes of this <b>SUPPORT </b>rule and the Comms Device equipment, the <b>AUTO-PROXY</b> or <b>SERVITOR UNDERSEER</b> operative must control your Comms Device marker to add 3\" to its distance requirement for this rule.</div>"
+        "rules": "<b>SUPPORT</b>. Whenever a friendly <b><font color=\"#f55c29\">BATTLECLADE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> <b>SERVITOR </b>operative is within 6\" of a friendly <b><font color=\"#f55c29\">BATTLECLADE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> <b>AUTO-PROXY</b> or <b><font color=\"#f55c29\">BATTLECLADE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> <b>SERVITOR UNDERSEER</b> operative, that friendly <b>SERVITOR </b>operative\u2019s weapons have the Accurate 1 weapon rule.<div>\nFor the purposes of this <b>SUPPORT </b>rule and the Comms Device equipment, the <b>AUTO-PROXY</b> or <b>SERVITOR UNDERSEER</b> operative must control your Comms Device marker to add 3\" to its distance requirement for this rule.</div>",
+        "weapons": [],
+        "abilities": [],
+        "actions": []
       },
       {
         "id": "7176def1-6c03-480e-8238-19f007d74534",
         "name": "DUTY OF RECLAMATION",
         "description": "Embedded in Battleclade operatives are lurking strands of enhanced binharic doctrine. These instructions await the moment to activate, triggered by the proximity of a Tech-Priest\u2019s designated prize.",
-        "rules": "Once per action, you can use the Command Reroll firefight ploy for 0CP if the attack or defence dice was rolled for a friendly <b><font color=\"#f55c29\">BATTLECLADE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative that contests an objective marker or one of your mission markers.\n"
+        "rules": "Once per action, you can use the Command Reroll firefight ploy for 0CP if the attack or defence dice was rolled for a friendly <b><font color=\"#f55c29\">BATTLECLADE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative that contests an objective marker or one of your mission markers.\n",
+        "weapons": [],
+        "abilities": [],
+        "actions": []
       },
       {
         "id": "636c0a6f-2288-4b6e-b028-b77dfa8b68f3",
         "name": "INCANTATION OF THE IRON SOUL",
         "description": "Through chanted binharic praise from the Tech-Priests, or sparked by holy subroutines, microactuators lock into bracing positions and reserve power cells are brought online. The flesh may be weak, but the sacred invulnerability of the Machine God\u2019s augmetic blessings is evident to all.",
-        "rules": "Whenever an attack dice inflicts damage of 3 or more on a friendly <b><font color=\"#f55c29\">BATTLECLADE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative, roll one D6: on a 5+, subtract 1 from that inflicted damage."
+        "rules": "Whenever an attack dice inflicts damage of 3 or more on a friendly <b><font color=\"#f55c29\">BATTLECLADE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative, roll one D6: on a 5+, subtract 1 from that inflicted damage.",
+        "weapons": [],
+        "abilities": [],
+        "actions": []
       },
       {
         "id": "a9ba9731-bb10-46db-aac5-d71d2a5f5584",
         "name": "PRIORITISED ACQUISITION\n",
         "description": "Acquisition is a holy task to a Technoarcheologist, and their zealous fanaticism bleeds into their binharic instructions. Faced with the sacrilege of thieves, aggression protocols are initiated and biochemical stimulants are released in their thralls, endowing all with a measure of their master\u2019s repugnance.",
-        "rules": "Select one objective marker or one of your <span style=\"font-size: 0.875rem;\"> mission markers.</span><div><br><div>\u2022 Whenever determining control of that marker, treat the total APL stat of friendly <b><font color=\"#f55c29\">BATTLECLADE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operatives that contest it as 1 higher if at least one friendly <b><font color=\"#f55c29\">BATTLECLADE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative contests that marker. Note this isn\u2019t a change to the APL stat, so any changes are cumulative with this.\n\u2022 Whenever a friendly <b><font color=\"#f55c29\">BATTLECLADE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative is within 3\" of that marker, add 1 to the Atk stat of its melee weapons (to a maximum of 4).</div></div>"
+        "rules": "Select one objective marker or one of your <span style=\"font-size: 0.875rem;\"> mission markers.</span><div><br><div>\u2022 Whenever determining control of that marker, treat the total APL stat of friendly <b><font color=\"#f55c29\">BATTLECLADE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operatives that contest it as 1 higher if at least one friendly <b><font color=\"#f55c29\">BATTLECLADE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative contests that marker. Note this isn\u2019t a change to the APL stat, so any changes are cumulative with this.\n\u2022 Whenever a friendly <b><font color=\"#f55c29\">BATTLECLADE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative is within 3\" of that marker, add 1 to the Atk stat of its melee weapons (to a maximum of 4).</div></div>",
+        "weapons": [],
+        "abilities": [],
+        "actions": []
       }
     ],
     "firefight_ploys": [
@@ -1372,25 +1393,37 @@
         "id": "7959cb80-5dc1-4923-b94a-24decd5a970d",
         "name": "SYSTEM EXORCISM",
         "description": "By redirecting sensory pathways, purging contaminants or unleashing feral machine spirits to consume tainted logic loops, the elite operatives of a Battleclade can exorcise many dangerous afflictions.",
-        "rules": "Use this firefight ploy when you would activate a friendly <b><font color=\"#f55c29\">BATTLECLADE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative. Remove one rules effect or stat change your opponent has applied to it (e.g. Poison token, -1APL, cannot be activated or perform actions, etc), then activate it. This ploy cannot allow it to regain lost wounds, ignore the effects of being injured, or remove -1APL that you have applied to it (i.e. from <b>TRANSFER POWER</b>)."
+        "rules": "Use this firefight ploy when you would activate a friendly <b><font color=\"#f55c29\">BATTLECLADE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operative. Remove one rules effect or stat change your opponent has applied to it (e.g. Poison token, -1APL, cannot be activated or perform actions, etc), then activate it. This ploy cannot allow it to regain lost wounds, ignore the effects of being injured, or remove -1APL that you have applied to it (i.e. from <b>TRANSFER POWER</b>).",
+        "weapons": [],
+        "abilities": [],
+        "actions": []
       },
       {
         "id": "09c45e7c-957f-4778-9c28-2928fb61ed52",
         "name": "REMOTE ACCESS\n",
         "description": "Projecting a canticle of hexamathic authority, the most worthy Tech-Priests can commune with intransigent machine spirits even without physical contact.",
-        "rules": "Use this firefight ploy during a friendly <b><font color=\"#f55c29\">BATTLECLADE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> <b>TECH-PRIEST</b> operative\u2019s activation. Once during that activation, you can use one of the following rules:<div>\n\u2022 That operative doesn\u2019t require a marker to be within its control range to perform a mission action that usually requires this (this takes precedence over that action\u2019s conditions). Instead, the marker must be within 4\" of it and no enemy operatives can contest that marker. However, you can ignore enemy operatives within control range of other friendly <b><font color=\"#f55c29\">BATTLECLADE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operatives when determining this.\n\u2022 That operative doesn\u2019t require a hatchway\u2019s access point to be within its control range to perform an <b>Operate Hatch</b> action. Instead, that access point must be within 4\" of it.</div>"
+        "rules": "Use this firefight ploy during a friendly <b><font color=\"#f55c29\">BATTLECLADE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> <b>TECH-PRIEST</b> operative\u2019s activation. Once during that activation, you can use one of the following rules:<div>\n\u2022 That operative doesn\u2019t require a marker to be within its control range to perform a mission action that usually requires this (this takes precedence over that action\u2019s conditions). Instead, the marker must be within 4\" of it and no enemy operatives can contest that marker. However, you can ignore enemy operatives within control range of other friendly <b><font color=\"#f55c29\">BATTLECLADE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> operatives when determining this.\n\u2022 That operative doesn\u2019t require a hatchway\u2019s access point to be within its control range to perform an <b>Operate Hatch</b> action. Instead, that access point must be within 4\" of it.</div>",
+        "weapons": [],
+        "abilities": [],
+        "actions": []
       },
       {
         "id": "c051e09a-2c0e-465f-8857-75bd02820651",
         "name": "AUTO-FERRIC SUPPLICATION",
         "description": "In extremis, the Omnissiah\u2019s faithful channel their zeal into shielding energy projectors and the refractive realignment of their bionic body parts.",
-        "rules": "Use this firefight ploy when an operative is shooting a friendly <b><font color=\"#f55c29\">BATTLECLADE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> <b>TECH-PRIEST</b> operative, at the start of the Roll Attack Dice step. Until the end of the sequence, ignore the Piercing weapon rule."
+        "rules": "Use this firefight ploy when an operative is shooting a friendly <b><font color=\"#f55c29\">BATTLECLADE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> <b>TECH-PRIEST</b> operative, at the start of the Roll Attack Dice step. Until the end of the sequence, ignore the Piercing weapon rule.",
+        "weapons": [],
+        "abilities": [],
+        "actions": []
       },
       {
         "id": "e1b0e15c-422b-4893-acd2-d59f09752695",
         "name": "SERVILE SURROGACY",
         "description": "Deeply woven into each thrall\u2019s cybernetic programming is the instinct to bodily shield their masters should they be threatened.",
-        "rules": "Use this firefight ploy when a friendly <b><font color=\"#f55c29\">BATTLECLADE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> <b>TECH-PRIEST</b> operative is selected as the valid target of a Shoot action or to fight against during the <b>Fight </b>action. Select one friendly <b><font color=\"#f55c29\">BATTLECLADE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> <b>SERVITOR </b>operative visible to and within 3\" of that first friendly operative to become the valid target or to be fought against (as appropriate) instead (even if it wouldn\u2019t normally be valid for this). If it\u2019s the <b>Fight </b>action, treat that <b>SERVITOR </b>operative as being within the fighting operative\u2019s control range for the duration of that action. If it\u2019s the <b>Shoot </b>action, that <b>SERVITOR </b>operative is only in cover or obscured if the original target was.<div>\nThis ploy has no effect if it\u2019s the <b>Shoot </b>action and the ranged weapon has the Blast or Torrent weapon rule.</div>"
+        "rules": "Use this firefight ploy when a friendly <b><font color=\"#f55c29\">BATTLECLADE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> <b>TECH-PRIEST</b> operative is selected as the valid target of a Shoot action or to fight against during the <b>Fight </b>action. Select one friendly <b><font color=\"#f55c29\">BATTLECLADE</font></b><span style=\"color: rgb(245, 92, 41);\"><i class=\"fas fa-skull\"></i></span> <b>SERVITOR </b>operative visible to and within 3\" of that first friendly operative to become the valid target or to be fought against (as appropriate) instead (even if it wouldn\u2019t normally be valid for this). If it\u2019s the <b>Fight </b>action, treat that <b>SERVITOR </b>operative as being within the fighting operative\u2019s control range for the duration of that action. If it\u2019s the <b>Shoot </b>action, that <b>SERVITOR </b>operative is only in cover or obscured if the original target was.<div>\nThis ploy has no effect if it\u2019s the <b>Shoot </b>action and the ranged weapon has the Blast or Torrent weapon rule.</div>",
+        "weapons": [],
+        "abilities": [],
+        "actions": []
       }
     ],
     "equipment": [
