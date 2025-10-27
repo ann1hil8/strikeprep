@@ -22389,5 +22389,17 @@
         "rules": "When setting up a WYRMBLADE kill team before the battle, one third of your kill team can be set up in HIDING: place them to one side instead of in the killzone. CULT AGENT operatives cannot be set up in HIDING.\nAt the start of the first turning point, after the Strategy phase, operatives that were set up in HIDING can land. To do so, for each such operative, select a location in the killzone wholly within 3\" of a friendly operative that was set up as normal (or your drop zone if no such operative remains). Set up the operative in that location. It cannot move more than 3\" during its activation in this turning point."
       }
     ]
+  },
+  {
+    "id": "090b9bd9-55f3-48f6-9848-46cb3a41a359",
+    "name": "New Kill Team",
+    "unit": "",
+    "description": "",
+    "selection": {},
+    "operatives": [],
+    "strategy_ploys": [],
+    "firefight_ploys": [],
+    "equipment": [],
+    "rules": []
   }
 ]
